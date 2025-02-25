@@ -1,0 +1,2600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+	<node>
+		<id><![CDATA[1]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[32162252]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2012]]></year>
+		<make><![CDATA[VOLKSWAGEN]]></make>
+		<modelgroup><![CDATA[CC]]></modelgroup>
+		<modeldetail><![CDATA[CC SPORT]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[CHARCOAL]]></color>
+		<damagedescription><![CDATA[NORMAL WEAR]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[AQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[WVWMP7AN4CE503117]]></vin>
+		<odometer><![CDATA[114074]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[0]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.0L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Approval]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP242/4d69ccf40f604e8ba0ab23db5e499967_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000331]]></createdatetime>
+		<gridrow><![CDATA[SF008]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/32162252?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[SPORT]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T22:00:48Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[2]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[32614842]]></lotnumber>
+		<vehicletype><![CDATA[U]]></vehicletype>
+		<year><![CDATA[1981]]></year>
+		<make><![CDATA[INTERNATIONAL]]></make>
+		<modelgroup><![CDATA[ALL MODELS]]></modelgroup>
+		<modeldetail><![CDATA[CARGOSTAR]]></modeldetail>
+		<bodystyle><![CDATA[TILT CAB]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[NORMAL WEAR]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[AN]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[]]></lotcondcode>
+		<vin><![CDATA[2HTD10354BCA14524]]></vin>
+		<odometer><![CDATA[181102]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[9000]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[8]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[MANUAL]]></transmission>
+		<fueltype><![CDATA[DIESEL]]></fueltype>
+		<cylinders><![CDATA[8]]></cylinders>
+		<runsdrives><![CDATA[]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[15]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[VEH LOCATED @ FAIRFLD SUBLOT]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP248/349b8092e9d4400187a27cca90af6d65_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000338]]></createdatetime>
+		<gridrow><![CDATA[CC100]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/32614842?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[CO1850]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-28T07:01:00Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[3]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[34100882]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[1991]]></year>
+		<make><![CDATA[BUICK]]></make>
+		<modelgroup><![CDATA[CENTURY]]></modelgroup>
+		<modeldetail><![CDATA[CENTURY CU]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[MINOR DENT/SCRATCHES]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[NR]]></saletitletype>
+		<haskeysyesorno><![CDATA[EXM]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[3G4AH54N0MS611088]]></vin>
+		<odometer><![CDATA[170568]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[2255]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[3.3L  6]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[6]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP257/8b84f3507bc341dcb0ce3fad70f28d23_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000347]]></createdatetime>
+		<gridrow><![CDATA[ A040]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/34100882?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[CUSTOM]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T21:48:44Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[4]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[34462002]]></lotnumber>
+		<vehicletype><![CDATA[L]]></vehicletype>
+		<year><![CDATA[2012]]></year>
+		<make><![CDATA[KYST]]></make>
+		<modelgroup><![CDATA[TRAILER]]></modelgroup>
+		<modeldetail><![CDATA[TRAILER]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[VANDALISM]]></damagedescription>
+		<secondarydamage><![CDATA[REAR END]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[NR]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[4YDF27328C1532294]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[26286]]></estretailvalue>
+		<repaircost><![CDATA[22205.01]]></repaircost>
+		<engine><![CDATA[]]></engine>
+		<drive><![CDATA[]]></drive>
+		<transmission><![CDATA[]]></transmission>
+		<fueltype><![CDATA[]]></fueltype>
+		<cylinders><![CDATA[]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[60]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP258/bbe91a77a97445778e14522b38f8cccc_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000373]]></createdatetime>
+		<gridrow><![CDATA[GG100]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/34462002?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-03-25T19:27:37Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[5]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[34682352]]></lotnumber>
+		<vehicletype><![CDATA[L]]></vehicletype>
+		<year><![CDATA[1996]]></year>
+		<make><![CDATA[GREAT DANE TRAILER]]></make>
+		<modelgroup><![CDATA[TRAILER]]></modelgroup>
+		<modeldetail><![CDATA[TRAILER]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BROWN]]></color>
+		<damagedescription><![CDATA[ALL OVER]]></damagedescription>
+		<secondarydamage><![CDATA[ROLLOVER]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[EXM]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[1GRAA9020TB017404]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[E]]></odometerbrand>
+		<estretailvalue><![CDATA[6282]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[]]></engine>
+		<drive><![CDATA[]]></drive>
+		<transmission><![CDATA[]]></transmission>
+		<fueltype><![CDATA[]]></fueltype>
+		<cylinders><![CDATA[]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[425]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[VEH LOCATED @ FAIRFLD SUBLOT]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP261/73562730d7694b2ea046e2ca5f77bcca_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000373]]></createdatetime>
+		<gridrow><![CDATA[EE070]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/34682352?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T21:11:37Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[6]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[34888602]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2014]]></year>
+		<make><![CDATA[MERCEDES-BENZ]]></make>
+		<modelgroup><![CDATA[C-CLASS]]></modelgroup>
+		<modeldetail><![CDATA[C 250]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[GRAY]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[WDDGF4HB7EA965374]]></vin>
+		<odometer><![CDATA[100360]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[13971]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[1.8L  4]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP257/1ae26e6ea96441ef867e509a4a91ac62_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000374]]></createdatetime>
+		<gridrow><![CDATA[ D060]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/34888602?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[250]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-31T14:42:50Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[7]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[34945572]]></lotnumber>
+		<vehicletype><![CDATA[L]]></vehicletype>
+		<year><![CDATA[2000]]></year>
+		<make><![CDATA[GENE]]></make>
+		<modelgroup><![CDATA[GENERATOR]]></modelgroup>
+		<modeldetail><![CDATA[GENERATOR]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[NORMAL WEAR]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[BS]]></saletitletype>
+		<haskeysyesorno><![CDATA[EXM]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[GENERATORN0V1N]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[E]]></odometerbrand>
+		<estretailvalue><![CDATA[0]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[]]></engine>
+		<drive><![CDATA[]]></drive>
+		<transmission><![CDATA[]]></transmission>
+		<fueltype><![CDATA[]]></fueltype>
+		<cylinders><![CDATA[]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[***TRAILER NOT INCLUDED***  ]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP256/d4e00663fa9c440b92466c989dd9fd33_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000375]]></createdatetime>
+		<gridrow><![CDATA[EE060]]></gridrow>
+		<makeanoffereligible><![CDATA[Y]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[2400]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/34945572?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T02:12:26Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[8]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[35109712]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2016]]></year>
+		<make><![CDATA[CHEVROLET]]></make>
+		<modelgroup><![CDATA[MALIBU]]></modelgroup>
+		<modeldetail><![CDATA[MALIBU LIM]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[SIDE]]></damagedescription>
+		<secondarydamage><![CDATA[UNDERCARRIAGE]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[1G11A5SA0GU159052]]></vin>
+		<odometer><![CDATA[96092]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[14276]]></estretailvalue>
+		<repaircost><![CDATA[13076.61]]></repaircost>
+		<engine><![CDATA[2.5L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP258/2cdc05bcdb384e5da156d08f95e785e1_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000375]]></createdatetime>
+		<gridrow><![CDATA[SG006]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/35109712?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[LS]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-26T17:27:50Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[9]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[35144772]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2021]]></year>
+		<make><![CDATA[JEEP]]></make>
+		<modelgroup><![CDATA[WRANGLER]]></modelgroup>
+		<modeldetail><![CDATA[WRANGLER U]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[SILVER]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[SIDE]]></secondarydamage>
+		<saletitlestate><![CDATA[CO]]></saletitlestate>
+		<saletitletype><![CDATA[CQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[1C4HJXDN3MW580376]]></vin>
+		<odometer><![CDATA[39379]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[0]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.0L  4]]></engine>
+		<drive><![CDATA[4x4 w/Rear Wheel Drv]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Approval]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[2700]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP259/7582daeb879346789ffc419d8e93e869_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000375]]></createdatetime>
+		<gridrow><![CDATA[SC006]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/35144772?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[SPORT]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T19:25:57Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[10]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[35554802]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2002]]></year>
+		<make><![CDATA[PORSCHE]]></make>
+		<modelgroup><![CDATA[BOXSTER]]></modelgroup>
+		<modeldetail><![CDATA[BOXSTER]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[WP0CA298X2U624348]]></vin>
+		<odometer><![CDATA[67533]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[12938]]></estretailvalue>
+		<repaircost><![CDATA[20018.58]]></repaircost>
+		<engine><![CDATA[2.7L  6]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[6]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP262/c8ec92d6370346d1bffb807f5a1e2f96_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000394]]></createdatetime>
+		<gridrow><![CDATA[ D110]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/35554802?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-25T21:53:31Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[11]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[35689722]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2015]]></year>
+		<make><![CDATA[MAZDA]]></make>
+		<modelgroup><![CDATA[3]]></modelgroup>
+		<modeldetail><![CDATA[3 TOURING]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[CHARCOAL]]></color>
+		<damagedescription><![CDATA[SIDE]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[JM1BM1L72F1267624]]></vin>
+		<odometer><![CDATA[55209]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[17035]]></estretailvalue>
+		<repaircost><![CDATA[14034.28]]></repaircost>
+		<engine><![CDATA[2.0L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[2050]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP263/5c63bfec5981451db8c7f9cfdc8c2e9a_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000395]]></createdatetime>
+		<gridrow><![CDATA[ A060]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/35689722?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[TOURING]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T18:37:59Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[12]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[35722902]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[1995]]></year>
+		<make><![CDATA[ACURA]]></make>
+		<modelgroup><![CDATA[INTEGRA]]></modelgroup>
+		<modeldetail><![CDATA[INTEGRA SE]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[GREEN]]></color>
+		<damagedescription><![CDATA[VANDALISM]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[JH4DC4460SS010466]]></vin>
+		<odometer><![CDATA[67609]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[7205]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[1.8L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP262/fe7bc3d5aca042c9bce0a130ff593d2f_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000406]]></createdatetime>
+		<gridrow><![CDATA[ B070]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/35722902?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[SE]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-12T19:49:32Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[13]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[35756482]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2017]]></year>
+		<make><![CDATA[BMW]]></make>
+		<modelgroup><![CDATA[3 SERIES]]></modelgroup>
+		<modeldetail><![CDATA[328 D XDRI]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[SILVER]]></color>
+		<damagedescription><![CDATA[SIDE]]></damagedescription>
+		<secondarydamage><![CDATA[MECHANICAL]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[S]]></lotcondcode>
+		<vin><![CDATA[WBA8J1C39HA018608]]></vin>
+		<odometer><![CDATA[46353]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[33143]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.0L  4]]></engine>
+		<drive><![CDATA[All wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[DIESEL]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Vehicle Starts]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[7200]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP264/0a0e7477848549cbb922228395d4cb6a_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000407]]></createdatetime>
+		<gridrow><![CDATA[SH008]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/35756482?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[D XDRIVE]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-31T18:16:57Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[14]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36042602]]></lotnumber>
+		<vehicletype><![CDATA[M]]></vehicletype>
+		<year><![CDATA[2002]]></year>
+		<make><![CDATA[ARIM]]></make>
+		<modelgroup><![CDATA[BF90A]]></modelgroup>
+		<modeldetail><![CDATA[BF90A]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[TWO TONE]]></color>
+		<damagedescription><![CDATA[ALL OVER]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[AQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[AMI2L325C202]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[E]]></odometerbrand>
+		<estretailvalue><![CDATA[23500]]></estretailvalue>
+		<repaircost><![CDATA[26112]]></repaircost>
+		<engine><![CDATA[]]></engine>
+		<drive><![CDATA[]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[]]></fueltype>
+		<cylinders><![CDATA[]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[15]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP264/7e6c73fb2fa84488b2acd0eba64a435a_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000407]]></createdatetime>
+		<gridrow><![CDATA[II070]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36042602?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-19T16:57:13Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[15]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36330032]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2019]]></year>
+		<make><![CDATA[RAM]]></make>
+		<modelgroup><![CDATA[2500]]></modelgroup>
+		<modeldetail><![CDATA[2500 TRADE]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[3C7WR4HJ3KG543610]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[45376]]></estretailvalue>
+		<repaircost><![CDATA[49019.74]]></repaircost>
+		<engine><![CDATA[6.4L  8]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[8]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP278/9256901b37f34b82aa4f2fd20a3ce75f_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000407]]></createdatetime>
+		<gridrow><![CDATA[ C020]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36330032?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[TRADESMAN]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T12:37:16Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[16]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36614412]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2014]]></year>
+		<make><![CDATA[HYUNDAI]]></make>
+		<modelgroup><![CDATA[SONATA]]></modelgroup>
+		<modeldetail><![CDATA[SONATA GLS]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BURN]]></color>
+		<damagedescription><![CDATA[BURN]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[NR]]></saletitletype>
+		<haskeysyesorno><![CDATA[EXM]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[5NPEB4AC8EH906309]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[6582]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.4L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP267/41b806d842384bdfbcd536fa6634ea62_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000408]]></createdatetime>
+		<gridrow><![CDATA[ A130]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36614412?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[GLS]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-12T17:42:40Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[17]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36701412]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2013]]></year>
+		<make><![CDATA[TOYOTA]]></make>
+		<modelgroup><![CDATA[RAV4]]></modelgroup>
+		<modeldetail><![CDATA[RAV4 LIMIT]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[REAR END]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[2T3YFREV8DW035283]]></vin>
+		<odometer><![CDATA[138174]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[17600]]></estretailvalue>
+		<repaircost><![CDATA[15016.95]]></repaircost>
+		<engine><![CDATA[2.5L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP269/44587441244b4b26aed617c881d6dffc_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000408]]></createdatetime>
+		<gridrow><![CDATA[ C070]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36701412?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[LIMITED]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T23:12:31Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[18]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36778322]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2013]]></year>
+		<make><![CDATA[LINCOLN]]></make>
+		<modelgroup><![CDATA[MKX]]></modelgroup>
+		<modeldetail><![CDATA[MKX]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BLUE]]></color>
+		<damagedescription><![CDATA[ALL OVER]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[NR]]></saletitletype>
+		<haskeysyesorno><![CDATA[EXM]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[2LMDJ8JK6DBL46426]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[16201]]></estretailvalue>
+		<repaircost><![CDATA[16481]]></repaircost>
+		<engine><![CDATA[3.7L  6]]></engine>
+		<drive><![CDATA[All wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[6]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP269/fe710403eba14e28a5c603994cf28be3_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000408]]></createdatetime>
+		<gridrow><![CDATA[SB007]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36778322?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-03T19:08:42Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[19]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36790312]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2003]]></year>
+		<make><![CDATA[CHEVROLET]]></make>
+		<modelgroup><![CDATA[SILVERADO]]></modelgroup>
+		<modeldetail><![CDATA[SILVERADO]]></modeldetail>
+		<bodystyle><![CDATA[PICKUP]]></bodystyle>
+		<color><![CDATA[BLACK]]></color>
+		<damagedescription><![CDATA[UNDERCARRIAGE]]></damagedescription>
+		<secondarydamage><![CDATA[VANDALISM]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[1GCGC24U63Z258828]]></vin>
+		<odometer><![CDATA[162141]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[8354]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[6.0L  8]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[8]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[On Approval]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[800]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[MISSING CAT                 ]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP318/e4de6562da4b4afaa9d25557628f18dd_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000409]]></createdatetime>
+		<gridrow><![CDATA[ E030]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36790312?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[C2500]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-26T19:05:56Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[20]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36815112]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2012]]></year>
+		<make><![CDATA[CHEVROLET]]></make>
+		<modelgroup><![CDATA[SONIC]]></modelgroup>
+		<modeldetail><![CDATA[SONIC LT]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[RED]]></color>
+		<damagedescription><![CDATA[MECHANICAL]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[CQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[S]]></lotcondcode>
+		<vin><![CDATA[1G1JC5SB1C4168212]]></vin>
+		<odometer><![CDATA[140993]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[0]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[1.4L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Vehicle Starts]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP268/7d42929b1cd541f4b39388909b416d36_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000409]]></createdatetime>
+		<gridrow><![CDATA[SD005]]></gridrow>
+		<makeanoffereligible><![CDATA[Y]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[1400]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36815112?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[LT]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T22:01:27Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[21]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36830652]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2017]]></year>
+		<make><![CDATA[JEEP]]></make>
+		<modelgroup><![CDATA[RENEGADE]]></modelgroup>
+		<modeldetail><![CDATA[RENEGADE S]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[GRAY]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[REAR END]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[ZACCJAAB4HPG05063]]></vin>
+		<odometer><![CDATA[60660]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[19453]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.4L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Approval]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP272/0c0d1fbc6abf4bc28b23fe300e06e202_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000409]]></createdatetime>
+		<gridrow><![CDATA[ A040]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36830652?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[SPORT]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T21:21:20Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[22]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36935702]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2014]]></year>
+		<make><![CDATA[GMC]]></make>
+		<modelgroup><![CDATA[ACADIA]]></modelgroup>
+		<modeldetail><![CDATA[ACADIA SLE]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BURN]]></color>
+		<damagedescription><![CDATA[BURN]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[NR]]></saletitletype>
+		<haskeysyesorno><![CDATA[EXM]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[1GKKRNED5EJ206492]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[16842.32]]></estretailvalue>
+		<repaircost><![CDATA[16842.32]]></repaircost>
+		<engine><![CDATA[3.6L  6]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[6]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP270/8f581548c5d249dab9e989fe7be7655f_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000410]]></createdatetime>
+		<gridrow><![CDATA[ A130]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36935702?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[SLE]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T15:27:24Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[23]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[36977332]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2016]]></year>
+		<make><![CDATA[TOYOTA]]></make>
+		<modelgroup><![CDATA[RAV4]]></modelgroup>
+		<modeldetail><![CDATA[RAV4 XLE]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[SIDE]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[2T3RFREV0GW489200]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[22528]]></estretailvalue>
+		<repaircost><![CDATA[15264.28]]></repaircost>
+		<engine><![CDATA[2.5L  4]]></engine>
+		<drive><![CDATA[All wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[200]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP273/31ee33ee7d5d40a9811283461e533bdc_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000429]]></createdatetime>
+		<gridrow><![CDATA[ E080]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/36977332?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[XLE]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-31T17:54:14Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[24]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[37030982]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2017]]></year>
+		<make><![CDATA[NISSAN]]></make>
+		<modelgroup><![CDATA[SENTRA]]></modelgroup>
+		<modeldetail><![CDATA[SENTRA S]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BURN]]></color>
+		<damagedescription><![CDATA[BURN]]></damagedescription>
+		<secondarydamage><![CDATA[BURN - ENGINE]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[NR]]></saletitletype>
+		<haskeysyesorno><![CDATA[EXM]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[3N1AB7AP6HY347596]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[13836]]></estretailvalue>
+		<repaircost><![CDATA[13836]]></repaircost>
+		<engine><![CDATA[1.8L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP270/d68a9886a2924580823dbe31ce6ae1b2_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000430]]></createdatetime>
+		<gridrow><![CDATA[SG001]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/37030982?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[S]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-31T22:34:12Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[25]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[37170552]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2021]]></year>
+		<make><![CDATA[TESLA]]></make>
+		<modelgroup><![CDATA[MODEL 3]]></modelgroup>
+		<modeldetail><![CDATA[MODEL 3]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[REAR END]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[5YJ3E1EC3MF850879]]></vin>
+		<odometer><![CDATA[13977]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[49123]]></estretailvalue>
+		<repaircost><![CDATA[39988.85]]></repaircost>
+		<engine><![CDATA[]]></engine>
+		<drive><![CDATA[All wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[ELECTRIC]]></fueltype>
+		<cylinders><![CDATA[]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[15100]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP273/52b10a581da34978adc0fcb14ad3cc25_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000430]]></createdatetime>
+		<gridrow><![CDATA[SH008]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/37170552?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T17:47:17Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[26]]></id>
+		<yardnumber><![CDATA[841]]></yardnumber>
+		<yardname><![CDATA[CRASHEDTOYS POWERSPORT AUCTION]]></yardname>
+		<saledatemdcy><![CDATA[20220602]]></saledatemdcy>
+		<dayofweek><![CDATA[THURSDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[CDT]]></timezone>
+		<item><![CDATA[4065]]></item>
+		<lotnumber><![CDATA[37533132]]></lotnumber>
+		<vehicletype><![CDATA[C]]></vehicletype>
+		<year><![CDATA[2016]]></year>
+		<make><![CDATA[YAMAHA]]></make>
+		<modelgroup><![CDATA[YZF600]]></modelgroup>
+		<modeldetail><![CDATA[YZFR6 C]]></modeldetail>
+		<bodystyle><![CDATA[RACER]]></bodystyle>
+		<color><![CDATA[CHARCOAL]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[JYARJ16Y0GA011118]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[856.38]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[4]]></engine>
+		<drive><![CDATA[]]></drive>
+		<transmission><![CDATA[MANUAL]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[1200]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP275/55f9d401a5a64c8c972e68377879996f_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000431]]></createdatetime>
+		<gridrow><![CDATA[MC001]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/37533132?country=us&brand=cprt&yardNumber=841]]></imageurl>
+		<trim><![CDATA[C]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T18:50:52Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[27]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[37618512]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2003]]></year>
+		<make><![CDATA[TOYOTA]]></make>
+		<modelgroup><![CDATA[4RUNNER]]></modelgroup>
+		<modeldetail><![CDATA[4RUNNER SR]]></modeldetail>
+		<bodystyle><![CDATA[4DR SPOR]]></bodystyle>
+		<color><![CDATA[TWO TONE]]></color>
+		<damagedescription><![CDATA[MINOR DENT/SCRATCHES]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[CQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[JTEZT14R930010510]]></vin>
+		<odometer><![CDATA[204892]]></odometer>
+		<odometerbrand><![CDATA[E]]></odometerbrand>
+		<estretailvalue><![CDATA[9750]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[4.7L  8]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[8]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP276/9edc43dd1f244732b64ebd2c281cdb49_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000432]]></createdatetime>
+		<gridrow><![CDATA[SF003]]></gridrow>
+		<makeanoffereligible><![CDATA[Y]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[3200]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/37618512?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[SR5]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T20:22:20Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[28]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[37703562]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[1999]]></year>
+		<make><![CDATA[HONDA]]></make>
+		<modelgroup><![CDATA[ODYSSEY]]></modelgroup>
+		<modeldetail><![CDATA[ODYSSEY LX]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[TAN]]></color>
+		<damagedescription><![CDATA[VANDALISM]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[AQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[2HKRL1859XH502698]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[E]]></odometerbrand>
+		<estretailvalue><![CDATA[0]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[3.5L  6]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[6]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[On Approval]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[MISSING EXHAUST/CAT         ]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP275/73cd8efab52341e3a8001998c26dd58d_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000432]]></createdatetime>
+		<gridrow><![CDATA[SE005]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/37703562?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[LX]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-31T23:48:14Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[29]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[37867892]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2007]]></year>
+		<make><![CDATA[TOYOTA]]></make>
+		<modelgroup><![CDATA[CAMRY]]></modelgroup>
+		<modeldetail><![CDATA[CAMRY CE]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[TEAL]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[SIDE]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[JTNBE46K673064266]]></vin>
+		<odometer><![CDATA[199890]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[6281]]></estretailvalue>
+		<repaircost><![CDATA[6329.89]]></repaircost>
+		<engine><![CDATA[2.4L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP275/9788a73e78e145aea6292510440fd15e_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000432]]></createdatetime>
+		<gridrow><![CDATA[ A010]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[1350]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/37867892?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[CE]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-29T02:12:20Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[30]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38182592]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2017]]></year>
+		<make><![CDATA[SUBARU]]></make>
+		<modelgroup><![CDATA[WRX]]></modelgroup>
+		<modeldetail><![CDATA[WRX STI]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[SILVER]]></color>
+		<damagedescription><![CDATA[REAR END]]></damagedescription>
+		<secondarydamage><![CDATA[FRONT END]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[JF1VA2V60H9841695]]></vin>
+		<odometer><![CDATA[40013]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[33151]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.5L  4]]></engine>
+		<drive><![CDATA[All wheel drive]]></drive>
+		<transmission><![CDATA[MANUAL]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP278/d9818b8455674c5cbcd23cf1b3dc2a2c_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000432]]></createdatetime>
+		<gridrow><![CDATA[ B100]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38182592?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[STI]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T22:36:22Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[31]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38306172]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2018]]></year>
+		<make><![CDATA[FORD]]></make>
+		<modelgroup><![CDATA[FUSION]]></modelgroup>
+		<modeldetail><![CDATA[FUSION SE]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[TOP/ROOF]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[3FA6P0LU8JR170313]]></vin>
+		<odometer><![CDATA[105755]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[15517]]></estretailvalue>
+		<repaircost><![CDATA[16088]]></repaircost>
+		<engine><![CDATA[2.0L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[HYBRID ENGINE]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP278/985b28e8a09149b795874d3f46cdf468_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000461]]></createdatetime>
+		<gridrow><![CDATA[SD005]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38306172?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[SE HYBRID]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T17:37:23Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[32]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38323332]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2012]]></year>
+		<make><![CDATA[BUICK]]></make>
+		<modelgroup><![CDATA[ENCLAVE]]></modelgroup>
+		<modeldetail><![CDATA[ENCLAVE]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BROWN]]></color>
+		<damagedescription><![CDATA[SIDE]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[5GAKRDED5CJ157072]]></vin>
+		<odometer><![CDATA[184721]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[14097]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[3.6L  6]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[6]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP278/5a2f6be03b1d4648a5698c2e62ac4a93_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000461]]></createdatetime>
+		<gridrow><![CDATA[ B100]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38323332?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T21:20:49Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[33]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38353402]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2016]]></year>
+		<make><![CDATA[SUBARU]]></make>
+		<modelgroup><![CDATA[OUTBACK]]></modelgroup>
+		<modeldetail><![CDATA[OUTBACK 2.]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BLUE]]></color>
+		<damagedescription><![CDATA[SIDE]]></damagedescription>
+		<secondarydamage><![CDATA[FRONT END]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[4S4BSACC8G3203883]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[19436]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.5L  4]]></engine>
+		<drive><![CDATA[All wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP278/16d716a8d1334b7db2d8adcd5f430d96_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000461]]></createdatetime>
+		<gridrow><![CDATA[ A070]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38353402?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[2.5I PREMIUM]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-28T08:00:42Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[34]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38420562]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[1999]]></year>
+		<make><![CDATA[DODGE]]></make>
+		<modelgroup><![CDATA[DURANGO]]></modelgroup>
+		<modeldetail><![CDATA[DURANGO]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[TAN]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[REAR END]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[AQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[1B4HR28Y8XF665781]]></vin>
+		<odometer><![CDATA[184416]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[5321]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[5.2L  8]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[8]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP236/fcb6d553e20e468a84bfa5cf9dbf0741_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000462]]></createdatetime>
+		<gridrow><![CDATA[ C070]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38420562?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-26T22:34:55Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[35]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38504592]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2015]]></year>
+		<make><![CDATA[TOYOTA]]></make>
+		<modelgroup><![CDATA[COROLLA]]></modelgroup>
+		<modeldetail><![CDATA[COROLLA L]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[5YFBURHE3FP199285]]></vin>
+		<odometer><![CDATA[102514]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[14000]]></estretailvalue>
+		<repaircost><![CDATA[14000]]></repaircost>
+		<engine><![CDATA[1.8L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP278/85aa20651158464996eaaefb591f1de0_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000462]]></createdatetime>
+		<gridrow><![CDATA[ C090]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38504592?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[L]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-26T19:09:54Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[36]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38509462]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2014]]></year>
+		<make><![CDATA[DODGE]]></make>
+		<modelgroup><![CDATA[AVENGER]]></modelgroup>
+		<modeldetail><![CDATA[AVENGER SE]]></modeldetail>
+		<bodystyle><![CDATA[SEDAN 4D]]></bodystyle>
+		<color><![CDATA[BLACK]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[REAR END]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[AQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[S]]></lotcondcode>
+		<vin><![CDATA[1C3CDZAB6EN140087]]></vin>
+		<odometer><![CDATA[74093]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[10316]]></estretailvalue>
+		<repaircost><![CDATA[9396.05]]></repaircost>
+		<engine><![CDATA[2.4L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Vehicle Starts]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[200]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/PIX472/e7d4957a-16d1-4712-92d7-9e7cab7c2b85.JPG]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000466]]></createdatetime>
+		<gridrow><![CDATA[SD005]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38509462?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[SE]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-26T22:35:54Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[37]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38556312]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[1994]]></year>
+		<make><![CDATA[HONDA]]></make>
+		<modelgroup><![CDATA[ACCORD]]></modelgroup>
+		<modeldetail><![CDATA[ACCORD EX]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[VANDALISM]]></damagedescription>
+		<secondarydamage><![CDATA[MINOR DENT/SCRATCHES]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[AQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[NO]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[JHMCD555XRC114536]]></vin>
+		<odometer><![CDATA[274565]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[0]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.2L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/PIX495/9eee030f-31d8-407b-b6ad-aa4ad29b51ab.JPG]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000466]]></createdatetime>
+		<gridrow><![CDATA[ B040]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38556312?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[EX]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-26T22:34:24Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[38]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220610]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38581522]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2013]]></year>
+		<make><![CDATA[CHEVROLET]]></make>
+		<modelgroup><![CDATA[MALIBU]]></modelgroup>
+		<modeldetail><![CDATA[MALIBU LS]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BLACK]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[SIDE]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[1G11B5SA1DF131418]]></vin>
+		<odometer><![CDATA[102205]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[11524]]></estretailvalue>
+		<repaircost><![CDATA[9793.19]]></repaircost>
+		<engine><![CDATA[2.5L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP279/32cda906432a463381091c6bcb7d1ba2_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000467]]></createdatetime>
+		<gridrow><![CDATA[ C030]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38581522?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[LS]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-01T20:59:19Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[39]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38586312]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2018]]></year>
+		<make><![CDATA[KIA]]></make>
+		<modelgroup><![CDATA[FORTE]]></modelgroup>
+		<modeldetail><![CDATA[FORTE LX]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[SILVER]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[MINOR DENT/SCRATCHES]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[EXM]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[3KPFK4A79JE260848]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[18727]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.0L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP280/9e7a5c6b8b5e44e18129a35f898440e9_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000467]]></createdatetime>
+		<gridrow><![CDATA[ C070]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38586312?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[LX]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-28T08:00:43Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[40]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38612522]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[1997]]></year>
+		<make><![CDATA[CHEVROLET]]></make>
+		<modelgroup><![CDATA[EXPRESS]]></modelgroup>
+		<modeldetail><![CDATA[EXPRESS G1]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BLACK]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[MECHANICAL]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[1GBFG15M0V1078257]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[E]]></odometerbrand>
+		<estretailvalue><![CDATA[6003]]></estretailvalue>
+		<repaircost><![CDATA[5269.18]]></repaircost>
+		<engine><![CDATA[5.0L  8]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[8]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP282/8acd46dd06f4449e95a990776b29556b_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000467]]></createdatetime>
+		<gridrow><![CDATA[SD008]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[2200]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38612522?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T20:40:51Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[41]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38652342]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2004]]></year>
+		<make><![CDATA[BMW]]></make>
+		<modelgroup><![CDATA[Z4]]></modelgroup>
+		<modeldetail><![CDATA[Z4 3.0]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[SILVER]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[DQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[4USBT53534LU08608]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[E]]></odometerbrand>
+		<estretailvalue><![CDATA[0]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[3.0L  6]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[6]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[200]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP280/b033ffa008904b8f955f597e14ad6cbd_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000467]]></createdatetime>
+		<gridrow><![CDATA[ A040]]></gridrow>
+		<makeanoffereligible><![CDATA[Y]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[1250]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38652342?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[3]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T19:55:56Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[42]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38792952]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2020]]></year>
+		<make><![CDATA[MERCEDES-BENZ]]></make>
+		<modelgroup><![CDATA[GLB-CLASS]]></modelgroup>
+		<modeldetail><![CDATA[GLB 250]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BLACK]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[SIDE]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[S]]></lotcondcode>
+		<vin><![CDATA[WDC4M4GB8LW003552]]></vin>
+		<odometer><![CDATA[9335]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[42095]]></estretailvalue>
+		<repaircost><![CDATA[30000]]></repaircost>
+		<engine><![CDATA[2.0L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Vehicle Starts]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[8200]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP283/a756e45f632042459bea161cb89d37b6_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000468]]></createdatetime>
+		<gridrow><![CDATA[ A080]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38792952?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[250]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-27T20:35:07Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[43]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38839392]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2003]]></year>
+		<make><![CDATA[FORD]]></make>
+		<modelgroup><![CDATA[F150]]></modelgroup>
+		<modeldetail><![CDATA[F-150]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[GRAY]]></color>
+		<damagedescription><![CDATA[MECHANICAL]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[DQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[1FTRW076X3KB93377]]></vin>
+		<odometer><![CDATA[183801]]></odometer>
+		<odometerbrand><![CDATA[E]]></odometerbrand>
+		<estretailvalue><![CDATA[0]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[4.6L  8]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[8]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP290/087e724b36844ff287d30527e479ae48_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000468]]></createdatetime>
+		<gridrow><![CDATA[SH007]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38839392?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[SUPERCREW]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-02T02:02:05Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[44]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[38898632]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2015]]></year>
+		<make><![CDATA[MAZDA]]></make>
+		<modelgroup><![CDATA[3]]></modelgroup>
+		<modeldetail><![CDATA[3 GRAND TO]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BLACK]]></color>
+		<damagedescription><![CDATA[REAR END]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[3MZBM1M71FM225668]]></vin>
+		<odometer><![CDATA[86200]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[13668]]></estretailvalue>
+		<repaircost><![CDATA[14237.44]]></repaircost>
+		<engine><![CDATA[2.0L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[250]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP282/cbbebf2eedc6448a914f07a86ff1657f_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000468]]></createdatetime>
+		<gridrow><![CDATA[ A010]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/38898632?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[GRAND TOURING]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-17T19:18:17Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[45]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[39012942]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2014]]></year>
+		<make><![CDATA[KIA]]></make>
+		<modelgroup><![CDATA[OPTIMA]]></modelgroup>
+		<modeldetail><![CDATA[OPTIMA EX]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[BLACK]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[5XXGN4A79EG301231]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[16275]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[2.4L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP282/94f862a27ab241caaa831ca973c4f177_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000469]]></createdatetime>
+		<gridrow><![CDATA[ B070]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/39012942?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[EX]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-28T08:00:45Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[46]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[39032212]]></lotnumber>
+		<vehicletype><![CDATA[K]]></vehicletype>
+		<year><![CDATA[2018]]></year>
+		<make><![CDATA[FREIGHTLINER]]></make>
+		<modelgroup><![CDATA[ALL OTHER]]></modelgroup>
+		<modeldetail><![CDATA[M2 106 MED]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[TOP/ROOF]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[3ALACWFC6JDJW4690]]></vin>
+		<odometer><![CDATA[0]]></odometer>
+		<odometerbrand><![CDATA[N]]></odometerbrand>
+		<estretailvalue><![CDATA[78565]]></estretailvalue>
+		<repaircost><![CDATA[54995]]></repaircost>
+		<engine><![CDATA[6.7L  6]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[DIESEL]]></fueltype>
+		<cylinders><![CDATA[6]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[VEH LOCATED @ FAIRFLD SUBLOT]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP285/85534ebe6edc41e794c9076d100db79c_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000469]]></createdatetime>
+		<gridrow><![CDATA[CC060]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/39032212?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[106 MEDIUM DUTY]]></trim>
+		<lastupdatedtime><![CDATA[2022-06-02T07:01:00Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[47]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[39050452]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2006]]></year>
+		<make><![CDATA[NISSAN]]></make>
+		<modelgroup><![CDATA[ALTIMA]]></modelgroup>
+		<modeldetail><![CDATA[ALTIMA S]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[MAROON]]></color>
+		<damagedescription><![CDATA[SIDE]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[AQ]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[1N4AL11D86N378667]]></vin>
+		<odometer><![CDATA[196999]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[2224]]></estretailvalue>
+		<repaircost><![CDATA[3144.81]]></repaircost>
+		<engine><![CDATA[2.5L  4]]></engine>
+		<drive><![CDATA[Front-wheel Drive]]></drive>
+		<transmission><![CDATA[]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[4]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/PIX503/013de7e0-432a-4ebd-945a-57eb36e34ab7.JPG]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000469]]></createdatetime>
+		<gridrow><![CDATA[ B070]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/39050452?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[S]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-26T22:05:12Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[48]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[20220603]]></saledatemdcy>
+		<dayofweek><![CDATA[FRIDAY]]></dayofweek>
+		<saletimehhmm><![CDATA[1200]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[39147972]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2000]]></year>
+		<make><![CDATA[FORD]]></make>
+		<modelgroup><![CDATA[EXPLORER]]></modelgroup>
+		<modeldetail><![CDATA[EXPLORER E]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[GREEN]]></color>
+		<damagedescription><![CDATA[SIDE]]></damagedescription>
+		<secondarydamage><![CDATA[]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[E]]></lotcondcode>
+		<vin><![CDATA[1FMZU64E6YZA38677]]></vin>
+		<odometer><![CDATA[196286]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[4572]]></estretailvalue>
+		<repaircost><![CDATA[0]]></repaircost>
+		<engine><![CDATA[4.0L  6]]></engine>
+		<drive><![CDATA[Rear-wheel drive]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[6]]></cylinders>
+		<runsdrives><![CDATA[DEFAULT]]></runsdrives>
+		<salestatus><![CDATA[Pure Sale]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[200]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP284/de3eec9251394a978d1fb11114e9b036_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000470]]></createdatetime>
+		<gridrow><![CDATA[ E040]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/39147972?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[EDDIE BAUER]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-26T19:13:21Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+	<node>
+		<id><![CDATA[49]]></id>
+		<yardnumber><![CDATA[1]]></yardnumber>
+		<yardname><![CDATA[CA - VALLEJO]]></yardname>
+		<saledatemdcy><![CDATA[0]]></saledatemdcy>
+		<dayofweek><![CDATA[]]></dayofweek>
+		<saletimehhmm><![CDATA[]]></saletimehhmm>
+		<timezone><![CDATA[PDT]]></timezone>
+		<item><![CDATA[0]]></item>
+		<lotnumber><![CDATA[39410082]]></lotnumber>
+		<vehicletype><![CDATA[V]]></vehicletype>
+		<year><![CDATA[2020]]></year>
+		<make><![CDATA[TOYOTA]]></make>
+		<modelgroup><![CDATA[TUNDRA]]></modelgroup>
+		<modeldetail><![CDATA[TUNDRA CRE]]></modeldetail>
+		<bodystyle><![CDATA[]]></bodystyle>
+		<color><![CDATA[WHITE]]></color>
+		<damagedescription><![CDATA[FRONT END]]></damagedescription>
+		<secondarydamage><![CDATA[REAR END]]></secondarydamage>
+		<saletitlestate><![CDATA[CA]]></saletitlestate>
+		<saletitletype><![CDATA[SC]]></saletitletype>
+		<haskeysyesorno><![CDATA[YES]]></haskeysyesorno>
+		<lotcondcode><![CDATA[D]]></lotcondcode>
+		<vin><![CDATA[5TFAY5F19LX930520]]></vin>
+		<odometer><![CDATA[27691]]></odometer>
+		<odometerbrand><![CDATA[A]]></odometerbrand>
+		<estretailvalue><![CDATA[54070]]></estretailvalue>
+		<repaircost><![CDATA[39589.52]]></repaircost>
+		<engine><![CDATA[5.7L  8]]></engine>
+		<drive><![CDATA[4x4 w/Rear Wheel Drv]]></drive>
+		<transmission><![CDATA[AUTOMATIC]]></transmission>
+		<fueltype><![CDATA[GAS]]></fueltype>
+		<cylinders><![CDATA[8]]></cylinders>
+		<runsdrives><![CDATA[Run & Drive Verified]]></runsdrives>
+		<salestatus><![CDATA[On Minimum Bid]]></salestatus>
+		<highbidnonvixsealedvix><![CDATA[0]]></highbidnonvixsealedvix>
+		<specialnote><![CDATA[]]></specialnote>
+		<locationcity><![CDATA[VALLEJO]]></locationcity>
+		<locationstate><![CDATA[CA]]></locationstate>
+		<locationzip><![CDATA[94590 7203]]></locationzip>
+		<locationcountry><![CDATA[USA]]></locationcountry>
+		<currencycode><![CDATA[USD]]></currencycode>
+		<imagethumbnail><![CDATA[cs.copart.com/v1/AUTH_svc.pdoc00001/LPP292/8240a369fe584260ad9efcec5f576a07_thb.jpg]]></imagethumbnail>
+		<createdatetime><![CDATA[2022-06-02-07.40.18.000516]]></createdatetime>
+		<gridrow><![CDATA[SH009]]></gridrow>
+		<makeanoffereligible><![CDATA[N]]></makeanoffereligible>
+		<buyitnowprice><![CDATA[0]]></buyitnowprice>
+		<imageurl><![CDATA[http://inventoryv2.copart.io/v1/lotImages/39410082?country=us&brand=cprt&yardNumber=1]]></imageurl>
+		<trim><![CDATA[CREWMAX 1794]]></trim>
+		<lastupdatedtime><![CDATA[2022-05-24T17:50:59Z]]></lastupdatedtime>
+		<rentals><![CDATA[N]]></rentals>
+		<copartselect><![CDATA[N]]></copartselect>
+	</node>
+</data>

@@ -1,0 +1,14 @@
+.elementor-325466 .elementor-element.elementor-element-985f228 > .elementor-background-overlay{background-color:#FFFFFF00;opacity:0.5;}.elementor-325466 .elementor-element.elementor-element-38e1393 > .elementor-element-populated{margin:0px 0px 0px 40px;--e-column-margin-right:0px;--e-column-margin-left:40px;}.elementor-325466 .elementor-element.elementor-element-38e1393 > .elementor-element-populated > .elementor-widget-wrap{padding:0px 0px 0px 0px;}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-accordion-item{border-width:0px;}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-accordion-item .elementor-tab-content{border-width:0px;}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-accordion-item .elementor-tab-title.elementor-active{border-width:0px;}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-accordion-icon, .elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-accordion-title{color:#4A4A4A;}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-accordion-icon svg{fill:#4A4A4A;}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-active .elementor-accordion-icon, .elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-active .elementor-accordion-title{color:#000000;}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-active .elementor-accordion-icon svg{fill:#000000;}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-accordion-title{font-family:var( --e-global-typography-primary-font-family ), Inter;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-tab-title{padding:0px 0px 20px 0px;}.elementor-325466 .elementor-element.elementor-element-a376db7 .elementor-tab-content{color:#262626;font-family:"Inter", Inter;font-weight:400;padding:20px 0px 0px 0px;}@media(max-width:1024px){.elementor-325466 .elementor-element.elementor-element-985f228{padding:10px 10px 10px 10px;}}@media(max-width:767px){.elementor-325466 .elementor-element.elementor-element-38e1393 > .elementor-element-populated{margin:50px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}}/* Start custom CSS for section, class: .elementor-element-985f228 */.elementor-accordion-item {
+    border-width: 0;
+    padding: 25px 0px;
+  
+}
+
+.elementor-tab-title {
+    padding: 0 0 0px 0!important;
+}
+
+.elementor-tab-title.elementor-active {
+    border-bottom: 0px solid #0000 !important;
+    color:#000;
+}/* End custom CSS */

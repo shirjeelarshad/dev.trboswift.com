@@ -1,0 +1,2401 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<!--[if lte IE 8 ]>
+<html lang="en" class="ie ie8">
+   <![endif]-->
+<!--[if IE 9 ]>
+   <html lang="en" class="ie">
+      <![endif]-->
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge" /><![endif]-->
+<title>Autocoin</title>
+<meta name='robots' content='max-image-preview:large' />
+<link rel='stylesheet' id='elementor-global-css' href='http://autocoin.ca/wp-content/uploads/elementor/css/global.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css' href='http://autocoin.ca/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='elementorpro-frontend-css' href='http://autocoin.ca/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='nta-css-popup-css' href='http://autocoin.ca/wp-content/plugins/whatsapp-for-wordpress/assets/dist/css/style.css?ver=6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='classic-theme-styles-css' href='http://autocoin.ca/wp-includes/css/classic-themes.min.css?ver=6.2' type='text/css' media='all' />
+<style id='global-styles-inline-css' type='text/css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='premiumpress1-css' href='http://autocoin.ca/wp-content/themes/AT10/framework/css/_bootstrap.css?ver=10.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='premiumpress2-css' href='http://autocoin.ca/wp-content/themes/AT10/framework/css/_fonts.css?ver=10.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='premiumpress3-css' href='http://autocoin.ca/wp-content/themes/AT10/framework/css/_fontawesome.css?ver=10.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='premiumpress4-css' href='http://autocoin.ca/wp-content/themes/AT10/framework/css/_plugins.css?ver=10.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='premiumpress5-css' href='http://autocoin.ca/wp-content/themes/AT10/framework/css/_responsive.css?ver=10.5.7' type='text/css' media='all' />
+<link rel='stylesheet' id='premiumpress6-css' href='http://autocoin.ca/wp-content/themes/AT10/framework/css/css.premiumpress.css?ver=10.5.7' type='text/css' media='all' />
+<script src="http://autocoin.ca/wp-includes/js/jquery/jquery.min.js?ver=3.6.3" id="jquery-core-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/js/js.bootstrap.js?ver=10.5.7" id="premiumpress1-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/js/js.plugins.js?ver=10.5.7" id="premiumpress2-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/js/js.plugins-popups.js?ver=10.5.7" id="premiumpress3-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/js/js.plugins-typeahead.js?ver=10.5.7" id="premiumpress4-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/js/js.plugins-rating.js?ver=10.5.7" id="premiumpress5-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/js/js.plugins-currency.js?ver=10.5.7" id="premiumpress6-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/js/js.plugins-countdown.js?ver=10.5.7" id="premiumpress7-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/js/js.custom.js?ver=10.5.7" id="premiumpress8-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/js/js.search.js?ver=10.5.7" id="premiumpress9-js"></script>
+<style>.preload-hide { display:none; }</style><link rel="icon" href="http://autocoin.ca/wp-content/uploads/2023/03/AC-ORANGE-300x300.png" sizes="32x32" />
+<link rel="icon" href="http://autocoin.ca/wp-content/uploads/2023/03/AC-ORANGE-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://autocoin.ca/wp-content/uploads/2023/03/AC-ORANGE-300x300.png" />
+<meta name="msapplication-TileImage" content="http://autocoin.ca/wp-content/uploads/2023/03/AC-ORANGE-300x300.png" />
+		<style type="text/css" id="wp-custom-css">
+			.footer-newsletter .btn-primary{
+    background: black !important;
+}
+
+.footer-newsletter .btn-primary:hover{
+    background: #262525 !important;
+}
+
+.wa__popup_powered{
+	display:none;
+}
+
+
+		</style>
+		</head>
+
+
+<body class="blog body-hide-footer theme-at home elementor-default elementor-kit-897">
+
+<div id="wrapper" >
+
+<div id="sidebar-wrapper" style="display:none;">
+  
+<div class="sidebar-content"> <a href="http://autocoin.ca" class="sidebar-logo btn-block mt-4"> <img src='http://autocoin.ca/wp-content/uploads/2023/03/autocoin.png' alt='logo' class='img-fluid navbar-brand-light' /> </a>
+  <div class="sidebar-heading text-center  mt-4">
+    <button class="navbar-toggler menu-toggle">
+    <div class="fal fa-bars text-light">&nbsp;</div>
+    </button>
+    <hr>
+  </div>
+  		<ul class="navbar-nav">
+           <li class="nav-item">
+              <a href="http://autocoin.ca/?reset=1" class="nav-link">Home</a>
+             
+           </li>
+           
+           
+                <li class="nav-item">
+              <a href="http://autocoin.ca/?s=" class="nav-link">Search</a>
+             
+           </li>
+       
+      
+      
+      
+            
+       <li class="nav-item"><a href="http://autocoin.ca/contact/" class="nav-link">Contact</a></li>
+           
+           
+          
+           
+                   
+       <li class="nav-item"><a href="http://autocoin.ca/blog/" class="nav-link">Blog</a></li>
+        
+           
+       <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         
+                  
+		 Extra Pages        </a>
+        
+        
+        <div class="dropdown-menu">
+       
+       
+                    
+       
+          <a href="http://autocoin.ca/account/" class="dropdown-item"><i class="fal fa-users mr-2"></i> My Account</a>
+       
+               
+                  <a href="http://autocoin.ca/add-listing/" class="dropdown-item"><i class="fal fal fa-gavel mr-2"></i> Add Auction</a>          
+       	        
+                    <a href="http://autocoin.ca/memberships/" class="dropdown-item"><i class="fal fa-badge mr-2"></i> Memberships</a>          
+       	       
+       
+        <a href="http://autocoin.ca/contact/" class="dropdown-item"><i class="fal fa-envelope mr-2"></i> Contact</a>
+        
+       
+        <a href="http://autocoin.ca/advertising/" class="dropdown-item"><i class="fal fa-bullhorn mr-2"></i>Advertising</a>
+        
+        <a href="http://autocoin.ca/elements/testemonials/" class="dropdown-item"><i class="fal fa-comments-alt mr-2"></i>Testimonials</a>
+        
+        <a href="http://autocoin.ca/about-us/" class="dropdown-item"><i class="fal fa-smile mr-2"></i> About Us</a>
+        
+        <a href="http://autocoin.ca/how-it-works/"  class="dropdown-item"><i class="fal fa-cube mr-2"></i> How it works</a>
+        
+        <a href="http://autocoin.ca/privacy/" class="dropdown-item"><i class="fal fa-quote-left mr-2"></i> Privacy</a>
+        
+        <a href="http://autocoin.ca/terms/" class="dropdown-item"><i class="fal fa-heading mr-2"></i> Terms</a>
+        
+        <a href="http://autocoin.ca/elements/pages/faq/" class="dropdown-item"><i class="fal fa-info mr-2"></i> FAQ</a>
+       
+       
+       
+       </div>
+       
+      
+      </li>
+            
+      
+      
+           
+       
+           
+           
+        </ul>
+		  <hr />
+    <a class="btn btn-light btn-md btn-block" href="http://autocoin.ca/wp-login.php">Sign In</a>
+    <a class="btn btn-outline-light btn-md btn-block mt-4" href="http://autocoin.ca/wp-login.php?action=register">Register</a>
+        <hr />
+  <select class="form-control w-100" id="mobilelangselect">
+  <option>Language</option>
+        <option value="http://autocoin.ca/?l=en_US">English</option>
+        <option value="http://autocoin.ca/?l=vi">vi</option>
+      </select>
+  <script>
+		 
+		 jQuery(function () {
+			 
+			jQuery("#mobilelangselect").change(function () {
+				location.href = jQuery(this).val();
+			})
+		})
+		 </script>
+  </div></div>
+
+<main id="page-content-wrapper" class="with-mobilemenu">
+<style id="elementor-post-3199">.elementor-3199 .elementor-element.elementor-element-56e173a3 > .elementor-container{min-height:530px;}.elementor-3199 .elementor-element.elementor-element-56e173a3 > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:center;align-items:center;}.elementor-3199 .elementor-element.elementor-element-56e173a3 > .elementor-background-overlay{background-color:#000000;opacity:0.5;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3199 .elementor-element.elementor-element-56e173a3{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-3199 .elementor-element.elementor-element-342eca3a{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-3a341446{--iteration-count:infinite;--animation-duration:1200ms;--dynamic-text-color:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-3a341446 .elementor-headline{text-align:center;font-family:"ITCAvantGardeStd", Sans-serif;font-weight:600;}.elementor-3199 .elementor-element.elementor-element-3a341446 .elementor-headline-dynamic-wrapper path{stroke:#EFA404;stroke-width:10px;stroke-linecap:round;stroke-linejoin:round;}.elementor-3199 .elementor-element.elementor-element-3a341446 .elementor-headline-dynamic-wrapper svg{z-index:2;}.elementor-3199 .elementor-element.elementor-element-3a341446 .elementor-headline-dynamic-text{z-index:auto;font-family:"ITCAvantGardeStd", Sans-serif;font-weight:600;}.elementor-3199 .elementor-element.elementor-element-3a341446 .elementor-headline-plain-text{color:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-f9670dc{padding:10px 10px 10px 10px;}.elementor-bc-flex-widget .elementor-3199 .elementor-element.elementor-element-705c3471.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-3199 .elementor-element.elementor-element-705c3471.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-3199 .elementor-element.elementor-element-45f1858e .elementor-button{font-family:"ITCAvantGardeStd", Sans-serif;font-size:30px;font-weight:500;background-color:#EFA404;border-style:solid;border-width:1px 1px 1px 1px;border-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-45f1858e .elementor-button:hover, .elementor-3199 .elementor-element.elementor-element-45f1858e .elementor-button:focus{color:#FFFFFF;background-color:#EFA40447;border-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-45f1858e .elementor-button:hover svg, .elementor-3199 .elementor-element.elementor-element-45f1858e .elementor-button:focus svg{fill:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-6c19c14b .elementor-button{font-family:"ITCAvantGardeStd", Sans-serif;font-size:30px;font-weight:500;background-color:#EFA404;border-style:solid;border-width:1px 1px 1px 1px;border-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-6c19c14b .elementor-button:hover, .elementor-3199 .elementor-element.elementor-element-6c19c14b .elementor-button:focus{color:#FFFFFF;background-color:#EFA40447;border-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-6c19c14b .elementor-button:hover svg, .elementor-3199 .elementor-element.elementor-element-6c19c14b .elementor-button:focus svg{fill:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-6548ebbe{margin-top:-50px;margin-bottom:0px;}.elementor-3199 .elementor-element.elementor-element-2de1ec24:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-3199 .elementor-element.elementor-element-2de1ec24 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-2de1ec24 > .elementor-element-populated{border-style:solid;border-width:15px 15px 15px 15px;border-color:#FFFFFF;box-shadow:0px 0px 10px 0px rgba(144.75, 143.80597826086958, 143.80597826086958, 0.5);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-2de1ec24 > .elementor-element-populated, .elementor-3199 .elementor-element.elementor-element-2de1ec24 > .elementor-element-populated > .elementor-background-overlay, .elementor-3199 .elementor-element.elementor-element-2de1ec24 > .elementor-background-slideshow{border-radius:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-2de1ec24 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3199 .elementor-element.elementor-element-52afffce{padding:40px 0px 40px 0px;}.elementor-3199 .elementor-element.elementor-element-4828dc5e > .elementor-container{min-height:70px;}.elementor-3199 .elementor-element.elementor-element-4e0eedb4{text-align:center;}.elementor-3199 .elementor-element.elementor-element-4e0eedb4 .elementor-heading-title{color:#000000;font-family:"ITCAvantGardeStd", Sans-serif;font-weight:900;}.elementor-3199 .elementor-element.elementor-element-20f1034a > .elementor-container > .elementor-column > .elementor-widget-wrap{align-content:space-between;align-items:space-between;}.elementor-3199 .elementor-element.elementor-element-7af1da53:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-3199 .elementor-element.elementor-element-7af1da53 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-7af1da53 > .elementor-element-populated, .elementor-3199 .elementor-element.elementor-element-7af1da53 > .elementor-element-populated > .elementor-background-overlay, .elementor-3199 .elementor-element.elementor-element-7af1da53 > .elementor-background-slideshow{border-radius:15px 15px 15px 15px;}.elementor-3199 .elementor-element.elementor-element-7af1da53 > .elementor-element-populated{box-shadow:0px 0px 10px 0px rgba(218.25000000000003, 213.0309782608696, 213.0309782608696, 0.5);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:10px 10px 10px 10px;--e-column-margin-right:10px;--e-column-margin-left:10px;}.elementor-3199 .elementor-element.elementor-element-7af1da53 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3199 .elementor-element.elementor-element-5b6e38d8.elementor-view-stacked .elementor-icon{background-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-5b6e38d8.elementor-view-framed .elementor-icon, .elementor-3199 .elementor-element.elementor-element-5b6e38d8.elementor-view-default .elementor-icon{fill:#EFA404;color:#EFA404;border-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-5b6e38d8{--icon-box-icon-margin:15px;}.elementor-3199 .elementor-element.elementor-element-5b6e38d8 .elementor-icon-box-title{color:#000000;}.elementor-3199 .elementor-element.elementor-element-5b6e38d8 .elementor-icon-box-title, .elementor-3199 .elementor-element.elementor-element-5b6e38d8 .elementor-icon-box-title a{font-family:"ITCAvantGardeStd", Sans-serif;font-weight:600;}.elementor-3199 .elementor-element.elementor-element-5b6e38d8 .elementor-icon-box-description{color:#333333;font-family:"ITCAvantGardeStd", Sans-serif;font-size:12px;font-weight:400;}.elementor-3199 .elementor-element.elementor-element-5b6e38d8 > .elementor-widget-container{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-34231dc4:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-3199 .elementor-element.elementor-element-34231dc4 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-34231dc4 > .elementor-element-populated, .elementor-3199 .elementor-element.elementor-element-34231dc4 > .elementor-element-populated > .elementor-background-overlay, .elementor-3199 .elementor-element.elementor-element-34231dc4 > .elementor-background-slideshow{border-radius:15px 15px 15px 15px;}.elementor-3199 .elementor-element.elementor-element-34231dc4 > .elementor-element-populated{box-shadow:0px 0px 10px 0px rgba(220, 214, 214, 0.5);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:10px 10px 10px 10px;--e-column-margin-right:10px;--e-column-margin-left:10px;}.elementor-3199 .elementor-element.elementor-element-34231dc4 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3199 .elementor-element.elementor-element-16b820e1.elementor-view-stacked .elementor-icon{background-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-16b820e1.elementor-view-framed .elementor-icon, .elementor-3199 .elementor-element.elementor-element-16b820e1.elementor-view-default .elementor-icon{fill:#EFA404;color:#EFA404;border-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-16b820e1{--icon-box-icon-margin:15px;}.elementor-3199 .elementor-element.elementor-element-16b820e1 .elementor-icon-box-title{color:#000000;}.elementor-3199 .elementor-element.elementor-element-16b820e1 .elementor-icon-box-title, .elementor-3199 .elementor-element.elementor-element-16b820e1 .elementor-icon-box-title a{font-family:"ITCAvantGardeStd", Sans-serif;font-weight:600;}.elementor-3199 .elementor-element.elementor-element-16b820e1 .elementor-icon-box-description{color:#333333;font-family:"ITCAvantGardeStd", Sans-serif;font-size:12px;font-weight:400;}.elementor-3199 .elementor-element.elementor-element-16b820e1 > .elementor-widget-container{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-2cff58e5:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-3199 .elementor-element.elementor-element-2cff58e5 > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-2cff58e5 > .elementor-element-populated, .elementor-3199 .elementor-element.elementor-element-2cff58e5 > .elementor-element-populated > .elementor-background-overlay, .elementor-3199 .elementor-element.elementor-element-2cff58e5 > .elementor-background-slideshow{border-radius:15px 15px 15px 15px;}.elementor-3199 .elementor-element.elementor-element-2cff58e5 > .elementor-element-populated{box-shadow:0px 0px 10px 0px rgba(220, 214, 214, 0.5);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;margin:10px 10px 10px 10px;--e-column-margin-right:10px;--e-column-margin-left:10px;}.elementor-3199 .elementor-element.elementor-element-2cff58e5 > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3199 .elementor-element.elementor-element-29e36cfb.elementor-view-stacked .elementor-icon{background-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-29e36cfb.elementor-view-framed .elementor-icon, .elementor-3199 .elementor-element.elementor-element-29e36cfb.elementor-view-default .elementor-icon{fill:#EFA404;color:#EFA404;border-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-29e36cfb{--icon-box-icon-margin:15px;}.elementor-3199 .elementor-element.elementor-element-29e36cfb .elementor-icon-box-title{color:#000000;}.elementor-3199 .elementor-element.elementor-element-29e36cfb .elementor-icon-box-title, .elementor-3199 .elementor-element.elementor-element-29e36cfb .elementor-icon-box-title a{font-family:"ITCAvantGardeStd", Sans-serif;font-weight:600;}.elementor-3199 .elementor-element.elementor-element-29e36cfb .elementor-icon-box-description{color:#333333;font-family:"ITCAvantGardeStd", Sans-serif;font-size:12px;font-weight:400;}.elementor-3199 .elementor-element.elementor-element-29e36cfb > .elementor-widget-container{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-7bcb6bb6 > .elementor-shape-bottom .elementor-shape-fill{fill:#F8F8F8;}.elementor-3199 .elementor-element.elementor-element-7bcb6bb6 > .elementor-shape-bottom svg{width:calc(100% + 1.3px);height:67px;transform:translateX(-50%) rotateY(180deg);}.elementor-3199 .elementor-element.elementor-element-7bcb6bb6 > .elementor-shape-bottom{z-index:2;pointer-events:none;}.elementor-3199 .elementor-element.elementor-element-7c12d81d:not(.elementor-motion-effects-element-type-background), .elementor-3199 .elementor-element.elementor-element-7c12d81d > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-7c12d81d{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-3199 .elementor-element.elementor-element-7c12d81d > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3199 .elementor-element.elementor-element-7c12d81d > .elementor-shape-top .elementor-shape-fill{fill:#F8F8F8;}.elementor-3199 .elementor-element.elementor-element-7c12d81d > .elementor-shape-top svg{width:calc(247% + 1.3px);height:251px;}.elementor-3199 .elementor-element.elementor-element-7c12d81d > .elementor-shape-bottom .elementor-shape-fill{fill:#EFA404;}.elementor-3199 .elementor-element.elementor-element-7c12d81d > .elementor-shape-bottom svg{height:54px;transform:translateX(-50%) rotateY(180deg);}.elementor-3199 .elementor-element.elementor-element-35663a74 > .elementor-container{max-width:978px;min-height:400px;}.elementor-3199 .elementor-element.elementor-element-35663a74:not(.elementor-motion-effects-element-type-background), .elementor-3199 .elementor-element.elementor-element-35663a74 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-35663a74{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-3199 .elementor-element.elementor-element-35663a74 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3199 .elementor-element.elementor-element-2d6c0aea{text-align:center;}.elementor-3199 .elementor-element.elementor-element-2d6c0aea .elementor-heading-title{color:#000000;font-family:"ITCAvantGardeStd", Sans-serif;font-size:50px;font-weight:900;font-style:italic;}.elementor-3199 .elementor-element.elementor-element-fa1723a{text-align:center;color:#383838;font-family:"ITCAvantGardeStd", Sans-serif;font-size:20px;font-weight:500;}.elementor-3199 .elementor-element.elementor-element-24a47696:not(.elementor-motion-effects-element-type-background), .elementor-3199 .elementor-element.elementor-element-24a47696 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#FFFFFF;}.elementor-3199 .elementor-element.elementor-element-24a47696{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-3199 .elementor-element.elementor-element-24a47696 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3199 .elementor-element.elementor-element-58ac7de8:not(.elementor-motion-effects-element-type-background), .elementor-3199 .elementor-element.elementor-element-58ac7de8 > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#F6F6F6;}.elementor-3199 .elementor-element.elementor-element-58ac7de8{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:0px 0px 50px 0px;}.elementor-3199 .elementor-element.elementor-element-58ac7de8 > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-3199 .elementor-element.elementor-element-1502e5cc:not(.elementor-motion-effects-element-type-background), .elementor-3199 .elementor-element.elementor-element-1502e5cc > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:#EFA404;}.elementor-3199 .elementor-element.elementor-element-1502e5cc{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-3199 .elementor-element.elementor-element-1502e5cc > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}@media(min-width:768px){.elementor-3199 .elementor-element.elementor-element-705c3471{width:50%;}.elementor-3199 .elementor-element.elementor-element-4a27ec21{width:50%;}}@media(max-width:1024px){.elementor-3199 .elementor-element.elementor-element-56e173a3 > .elementor-container{min-height:421px;}.elementor-3199 .elementor-element.elementor-element-3a341446 .elementor-headline{font-size:22px;}.elementor-3199 .elementor-element.elementor-element-45f1858e .elementor-button{font-size:18px;}.elementor-3199 .elementor-element.elementor-element-6c19c14b .elementor-button{font-size:18px;}.elementor-3199 .elementor-element.elementor-element-6548ebbe{margin-top:-60px;margin-bottom:0px;padding:15px 15px 15px 15px;}}@media(max-width:767px){.elementor-3199 .elementor-element.elementor-element-56e173a3 > .elementor-container{min-height:420px;}.elementor-3199 .elementor-element.elementor-element-705c3471{width:50%;}.elementor-3199 .elementor-element.elementor-element-45f1858e .elementor-button{font-size:15px;}.elementor-3199 .elementor-element.elementor-element-4a27ec21{width:50%;}.elementor-3199 .elementor-element.elementor-element-6c19c14b .elementor-button{font-size:15px;}.elementor-3199 .elementor-element.elementor-element-6548ebbe{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-2de1ec24 > .elementor-element-populated{border-width:10px 10px 10px 10px;margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-4b995f8{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-7bcb6bb6{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-35663a74{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-2d6c0aea .elementor-heading-title{font-size:40px;}.elementor-3199 .elementor-element.elementor-element-fa1723a{font-size:16px;}.elementor-3199 .elementor-element.elementor-element-24a47696{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-58ac7de8{padding:10px 10px 10px 10px;}.elementor-3199 .elementor-element.elementor-element-1502e5cc{padding:10px 10px 10px 10px;}}/* Start custom CSS for new-hero, class: .elementor-element-516f20de */.price-tag a:hover{
+    background: #EFA404 !important;
+    border-color: #EFA404 !important;
+}/* End custom CSS */
+/* Start custom CSS for new-hero, class: .elementor-element-5a06079c */.footer-newsletter .btn-primary{
+    background: black !important;
+}
+
+.footer-newsletter .btn-primary:hover{
+    background: #262525 !important;
+}/* End custom CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'ITCAvantGardeStd';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('http://autocoin.ca/wp-content/uploads/2023/03/ITC-ITCAvantGardeStd-Bk.woff') format('woff');
+}
+/* End Custom Fonts CSS */</style>		<div data-elementor-type="page" data-elementor-id="3199" class="elementor elementor-3199">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-dd46f49 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="dd46f49" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5bddb395" data-id="5bddb395" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6a8d849c elementor-widget elementor-widget-new-hero" data-id="6a8d849c" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			<style>.testomonial-2{ padding-left: 80px; position: relative; padding-top: 10px; } .testomonial-2-img{ width: 70px; height: 70px; border-radius: 50%; overflow: hidden; position: absolute; left: 0; top: 0; } .testomonial-2-img img{ width: 100%; height: auto; } .bg-primary, .bg-primary:hover,.bg-primary:focus, a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover, .badge-primary { background:#EFA404 !important; } .btn-primary, .btn-primary:hover { color: #fff; background-color: #EFA404 !important; border-color: #EFA404 !important; } .text-primary, .filters_col .distance span { color: #EFA404 !important; } .btn-outline-primary { color: #EFA404 !important; border-color: #EFA404 !important; } .btn-outline-primary:hover { background:none !important; } .text-primary a { color: #EFA404 !important; } .bg-secondary, .bg-secondary:hover, .bg-secondary:focus, a.bg-secondary:focus, a.bg-secondary:hover, button.bg-secondary:focus, button.bg-secondary:hover, .irs-bar { background-color:#000000 !important; } .btn-secondary, .btn-secondary:hover, .btn-secondary:focus { color: #fff; background-color: #000000 !important; border-color: #000000 !important; } .text-secondary { color: #000000 !important; } .text-secondary a { color: #000000 !important; } .btn-outline-secondary { color: #000000 !important; border-color: #000000 !important; } .btn-outline-secondary:hover { background:none !important; } .bg-dark { background:#000000 !important; } @media only screen and (min-width: 1180px) { #related-carousel div .prev , .container .row .col-12 .d-flex div .prev { position: absolute; top: 40%; left: -80px; z-index: 10; border-radius: 100%; width: 87px; background: #efa503 !important; color: white !important; border: 0px !important; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important; padding: 20px; } #related-carousel div .next, .container .row .col-12 .d-flex div .next { position: absolute; top: 40%; right: -80px; z-index: 10; border-radius: 100%; width: 87px; background: #efa503 !important; color: white !important; border: 0px !important; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important; padding: 20px; } #related-carousel div{ position: unset !important; } .prev i , .next i{ font-size: 46px; } } .new-search{ border-radius: 10px; background: #fff; border: none !important; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; } .new-search figure{ border-top-left-radius: 10px; border-top-right-radius: 10px; } .new-search .pricetag-big{ font-size: 18px; } .gravity-theme .gfield input{ border: none; background: #eee; border-radius: 10px; } .gform_wrapper.gravity-theme .gform_footer input{ margin-bottom: 8px; background: #efa503; border: none; padding: 15px; border-radius: 10px; color: white; width: 200px; } .gform_wrapper.gravity-theme .gfield textarea{ border: none; background: #eee; border-radius: 10px; } .gform_wrapper.gravity-theme .gfield select{ width: calc(50% - 8px); border: none; background: #eee; border-radius: 10px; }
+			.bg-primary, .bg-primary:hover,.bg-primary:focus, a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover, .badge-primary { background:#EFA404 !important; }
+			
+			.btn-primary, .btn-primary:hover { color: #fff; background-color: #EFA404 !important; border-color: #EFA404 !important; } 			
+			.text-primary, .filters_col .distance span { color: #EFA404 !important; }
+			.btn-outline-primary { color: #EFA404 !important; border-color: #EFA404 !important; }
+			.btn-outline-primary:hover { background:none !important; }
+			.text-primary a  { color: #EFA404 !important; }
+			
+			
+			.bg-secondary, .bg-secondary:hover, .bg-secondary:focus, a.bg-secondary:focus, a.bg-secondary:hover, button.bg-secondary:focus, button.bg-secondary:hover, .irs-bar  { background-color:#000000 !important; } 
+			.btn-secondary, .btn-secondary:hover, .btn-secondary:focus { color: #fff; background-color: #000000 !important; border-color: #000000 !important; }
+			  
+			.text-secondary { color: #000000 !important; }
+			.text-secondary a  { color: #000000 !important; }
+			.btn-outline-secondary { color: #000000 !important; border-color: #000000 !important; }
+			.btn-outline-secondary:hover { background:none !important; }
+            </style>
+        <header class="elementor_header header6 bg-dark tmb">
+        
+         <nav class="elementor_topmenu d-none d-md-block bg-dark text-light">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6 pr-0"> <ul id="menu-secondary" class="clearfix mb-0 seperator list-inline mb-0"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="list-inline-item-2485" class="list-inline-item list-inline-item-type-taxonomy list-inline-item-object-listing list-inline-item-2485 nav-item"><a title="Automobiles" href="http://autocoin.ca/listing-category/automobiles/" class="nav-link">Automobiles</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="list-inline-item-2489" class="list-inline-item list-inline-item-type-taxonomy list-inline-item-object-listing list-inline-item-2489 nav-item"><a title="Motorcycles" href="http://autocoin.ca/listing-category/motorcycles/" class="nav-link">Motorcycles</a></li>
+</ul> </div>
+      <div class="col d-none d-md-block">
+        <ul class="list-inline p-0 mb-0 float-right seperator">
+        
+                    
+          <li class="list-inline-item dropdown w  hide-mobile"> <a href="#" class="dropdown-toggle noc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          
+           	               <i class="fal fa-globe"></i>
+                        </a>
+            
+            
+            <div class="dropdown-menu mt-n2">
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=VND"> 
+              
+                             <i class="fal fa-globe float-right mt-2"></i>
+                            VND</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=GBP"> 
+              
+                             <i class="fal fa-pound-sign float-right mt-2"></i>
+                            GBP</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=EUR"> 
+              
+                             <i class="fal fa-euro-sign float-right mt-2"></i>
+                            EUR</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=CAD"> 
+              
+                             <i class="fal fa-dollar-sign float-right mt-2"></i>
+                            CAD</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=AUD"> 
+              
+                             <i class="fal fa-dollar-sign float-right mt-2"></i>
+                            AUD</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=JPY"> 
+              
+                             <i class="fal fa-yen-sign float-right mt-2"></i>
+                            JPY</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=INR"> 
+              
+                             <i class="fal fa-rupee-sign float-right mt-2"></i>
+                            INR</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=RUB"> 
+              
+                             <i class="fal fa-ruble-sign float-right mt-2"></i>
+                            RUB</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=TRY"> 
+              
+                             <i class="fal fa-lira-sign float-right mt-2"></i>
+                            TRY</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=PTS"> 
+              
+                             <span class="float-right mt-1">&#8359;</span>
+                            PTS</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?c=BTC"> 
+              
+                             <i class="fab fa-bitcoin float-right mt-2"></i>
+                            BTC</a>
+                          </div>
+          </li>
+          
+                  
+                
+           
+                    <li class="list-inline-item">
+          <a href="javascript:void(0);" onclick="processLogin();"> Sign In</a>         
+           </li>
+                     <li class="list-inline-item">
+          <a href="http://autocoin.ca/wp-login.php?action=register"> Register</a>         
+           </li>
+                      
+                    
+          
+                    <li class="list-inline-item w dropdown hide-mobile"> <a href="#" class="dropdown-toggle noc" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"><span class="flag flag-us">&nbsp;</span></a>
+            <div class="dropdown-menu mt-n2">
+                            <a class="dropdown-item" href="http://autocoin.ca/?l=en_US"><i class="flag flag-us float-right mt-2"></i> English</a>
+                            <a class="dropdown-item" href="http://autocoin.ca/?l=vi"><i class="flag flag-vi float-right mt-2"></i> vi</a>
+                          </div>
+          </li>
+                    <li class="list-inline-item pr-0">
+            <div class="socials">
+                            <a class="social" target="_blank" href="https://www.twitter.com/#" title="Twitter"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/framework/images/twitter_icon.svg" alt="twitter" class="img-fluid lazy" height="16" width="16" /> </a>
+                                          <a class="social" target="_blank" href="https://www.facebook.com/#" title="Facebook"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/framework/images/facebook_icon.svg" alt="twitter" class="img-fluid lazy" height="16" width="16" /> </a>
+                                          <a class="social" target="_blank" href="https://www.youtube.com/#" title="YouTube"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/framework/images/youtube_icon.svg" alt="twitter" class="img-fluid lazy" height="16" width="16" /> </a>
+                                          <a class="social" target="_blank" href="https://www.instagram.com/#" title="Instagram"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/framework/images/instagram_icon.svg" alt="twitter" class="img-fluid lazy" height="16" width="16" /> </a>
+                          </div>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</nav>
+        
+   <nav class="elementor_mainmenu navbar navbar-dark navbar-expand-lg">
+   
+      <div class="container">
+      
+         <a class="navbar-brand" href="http://autocoin.ca"> 
+         <img src='http://autocoin.ca/wp-content/uploads/2023/03/autocoin.png' alt='logo' class='img-fluid navbar-brand-light' />         <img src='http://autocoin.ca/wp-content/uploads/2023/03/autocoindark.png' alt='logo' class='img-fluid navbar-brand-dark' />         </a>
+         
+         
+         
+
+<ul class="topbar-info main-header ">
+  <li class="hide-mobile hide-ipad">
+    <form action="http://autocoin.ca" class="search">
+      <div class="input-group">
+        <input type="text" class="form-control rounded-0 typeahead" name="s" placeholder="Keyword.." autocomplete="off">
+        <div class="input-group-append">
+          <button class="btn btn-primary  rounded-0 text-uppercase px-3 border-0" type="submit"> Search </button>
+        </div>
+      </div>
+    </form>
+  </li>
+    <li class="hide-ipad hide-mobile phonesingle"> <span class="media"> <span class="media-left"> <span class="icon"> <i class="fal fa-phone-alt text-primary"></i> </span> </span> <span class="media-content"> <strong class="btn-block mt-n2" style="font-size:20px;">+84 9 3899 0140</strong> <span class="opacity-5">sales@autocoin.sg</span> </span> </span> </li>
+  </ul>
+<button class="navbar-toggler menu-toggle tm border-0"><span class="fal fa-bars"></span></button> 
+         
+         
+      </div>
+   </nav> 
+ 
+   
+<nav class="elementor_mainmenu elementor_submenu py-1 navbar-bottom navbar navbar-expand-md navbar-light d-none d-lg-block shadow-sm bg-primary  navbar-dark py-2">
+  <div class="container px-md-0">
+    <div class="collapse navbar-collapse main-menu" id="header2menubar"> 
+	
+	    <ul id="menu-main" class="navbar-nav "><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2340" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home active menu-item-2340 nav-item"><a title="Home" href="http://autocoin.ca" class="nav-link" aria-current="page">Home</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3118" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3118 nav-item"><a title="Find Vehicles" href="http://autocoin.ca/find-vehicles/" class="nav-link">Find Vehicles</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2594" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2594 nav-item"><a title="Live Auction" href="http://autocoin.ca/?s=" class="nav-link">Live Auction</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2595" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2595 nav-item"><a title="Transport" href="http://autocoin.ca/transportation" class="nav-link">Transport</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3186" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3186 nav-item"><a title="Protection" href="http://autocoin.ca/protection/" class="nav-link">Protection</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3187" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3187 nav-item"><a title="Finance" href="http://autocoin.ca/finance/" class="nav-link">Finance</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3318" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children dropdown menu-item-3318 nav-item"><a title="Company" href="#" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" class="dropdown-toggle nav-link" id="menu-item-dropdown-3318">Company</a>
+<ul class="dropdown-menu" aria-labelledby="menu-item-dropdown-3318" role="menu">
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3317" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3317 nav-item"><a title="About Us" href="http://autocoin.ca/about-us/" class="dropdown-item">About Us</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-2596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2596 nav-item"><a title="Contact Us" href="http://autocoin.ca/contact/" class="dropdown-item">Contact Us</a></li>
+	<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" id="menu-item-3120" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3120 nav-item"><a title="Blog" href="http://autocoin.ca/blog/" class="dropdown-item">Blog</a></li>
+</ul>
+</li>
+</ul> 
+    	</div>
+        <div class="d-flex align-items-center ml-3 d-none d-lg-block">
+      	<a href="http://autocoin.ca/sell" class="btn btn-ppt font- btn-md btn-dark text-light mt-0  btn-icon icon-before">
+
+    <i class="fas fa-car"></i>     
+	<span data-elementor-setting-key="btn_txt" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing">Sell</span>
+   
+    
+    </a>
+        </div>
+      </div>
+</nav>
+ 
+ 
+    
+</header>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-56e173a3 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="56e173a3" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;video&quot;,&quot;background_video_link&quot;:&quot;https:\/\/youtu.be\/1H816ItY7sE&quot;,&quot;background_play_on_mobile&quot;:&quot;yes&quot;}">
+								<div class="elementor-background-video-container">
+													<div class="elementor-background-video-embed"></div>
+												</div>
+									<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-72ffd801" data-id="72ffd801" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-342eca3a elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="342eca3a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5b566a78" data-id="5b566a78" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3a341446 elementor-headline--style-highlight elementor-widget elementor-widget-animated-headline" data-id="3a341446" data-element_type="widget" data-settings="{&quot;marker&quot;:&quot;underline&quot;,&quot;highlighted_text&quot;:&quot;Auto Auctions&quot;,&quot;headline_style&quot;:&quot;highlight&quot;,&quot;loop&quot;:&quot;yes&quot;,&quot;highlight_animation_duration&quot;:1200,&quot;highlight_iteration_delay&quot;:8000}" data-widget_type="animated-headline.default">
+				<div class="elementor-widget-container">
+					<h3 class="elementor-headline">
+					<span class="elementor-headline-plain-text elementor-headline-text-wrapper">Asia’s First 100% Online </span>
+				<span class="elementor-headline-dynamic-wrapper elementor-headline-text-wrapper">
+					<span class="elementor-headline-dynamic-text elementor-headline-text-active">Auto Auctions</span>
+				</span>
+				</h3>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-f9670dc elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="f9670dc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-narrow">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-705c3471" data-id="705c3471" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-45f1858e elementor-align-right elementor-widget elementor-widget-button" data-id="45f1858e" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://autocoin.ca/?s=" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">BUY A CAR</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4a27ec21" data-id="4a27ec21" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6c19c14b elementor-align-left elementor-widget elementor-widget-button" data-id="6c19c14b" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://autocoin.ca/sell" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">SELL A CAR</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6548ebbe elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6548ebbe" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2de1ec24" data-id="2de1ec24" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-50c07a32 elementor-widget elementor-widget-new-hero" data-id="50c07a32" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			 
+		<section class="block-cat-search block-search1 none section-20 ">
+   <div class="container">    
+		<form method="get" action="http://autocoin.ca" class="py-lg-0">
+  <input type="hidden" name="s" value="" />
+  <input type="hidden" name="type" value="1" />
+  
+  
+  
+    
+  
+  
+  
+  
+    <div class="row">
+    <div class="col-md-3 col-sm-6">
+      <div class="form-input position-relative">
+        <input name="s" class="form-control" placeholder="Keyword" />
+        <span  style="top: 11px; right: 10px; position: absolute;    z-index: 100;color:#000;"><span class="fal fa-search"></span></span> </div>
+    </div>
+    <div class="col-md-3 col-sm-6">
+      <div class="form-input">
+      
+      
+                      
+            <select name="tax-listing" class="form-control rounded-0">
+          <option value="">Any Category</option>
+                    <option value="1928" > Automobiles</option>
+                  </select>
+        
+        
+                
+      </div>
+    </div>
+    <div class="col-md-3 col-sm-6">
+      <div class="form-input">
+                
+        
+		
+             <div class="input-group">   
+	<input class="form-control numericonly" name="price2" value="" placeholder="Max Price"/>
+    
+     
+    <div class="position-absolute text-muted" style="bottom: 8px;    right: 10px;">₫</div>
+
+    </div>
+    
+        
+              </div>
+    </div>
+    <div class="col-md-3 col-sm-6">
+      <button class="btn-block btn btn-primary" style="height: 45px;" type="submit">Search</button>
+    </div>
+  </div>
+    
+  </form>
+   </div>
+</section><script>
+		
+jQuery(document).ready(function(){ 
+ 
+	 jQuery('a[data-toggle="tab"]').on('shown.bs.tab', function (e) {  
+	 jQuery('.hero-search1 a').removeClass('bg-secondary');  
+	 jQuery(this).addClass('bg-secondary');
+	  
+	}); 
+	
+ 
+});
+</script>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4b995f8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4b995f8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7be19e43" data-id="7be19e43" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2de7cb6 elementor-widget elementor-widget-new-hero" data-id="2de7cb6" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			
+<section id="listing3-carousel-714" class="block-cat-listings block-listings3 none section-100 ">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="clearfix"></div>
+                <div class="d-flex mb-4 justify-content-between">
+          <div>
+                         
+            <div class="text-center text-md-left">
+			
+			<h4 
+            data-elementor-setting-key="title" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing  
+            font- 
+            text-dark "><i class='fas fa-gavel mx-2 text-primary'></i> 
+ Featured Vehicles </h4>
+            
+                        
+             
+            
+            </div>         
+			
+			          </div>
+          <div> <a class="btn bg-white btn-sm text-muted prev px-2 mt-2 border"><i class="fa fa-angle-left px-1" aria-hidden="true"></i></a> <a class="btn bg-white btn-sm text-muted next px-2 mt-2 border"><i class="fa fa-angle-right px-1" aria-hidden="true"></i></a> </div>
+        </div>
+                <div  class="owl-carousel owl-theme"> 
+<div class="new-search blank " data-pid="2981"> 	 <figure> <a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free-2/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2661&pid=2659&tt=1" class="img-fluid lazy" alt="2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE - Duplicate">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free-2/">2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE - Duplicate</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫50,000,000.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-12 17:09:24" 
+         data-postid="2981" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="894"> 	 <figure> <a href="http://autocoin.ca/listing/example-auction-19/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2422&pid=894&tt=1" class="img-fluid lazy" alt="Example Auction 19">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2">No Category</div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/example-auction-19/">Example Auction 19</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫147.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-12 17:09:24" 
+         data-postid="894" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="2984"> 	 <figure> <a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free-3/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2799&pid=2984&tt=1" class="img-fluid lazy" alt="copy: 2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free-3/">copy: 2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫50,000,000.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-19 14:30:59" 
+         data-postid="2984" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="891"> 	 <figure> <a href="http://autocoin.ca/listing/example-auction-16/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2845&pid=891&tt=1" class="img-fluid lazy" alt="2016 Hyundai Sonata GLS">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/example-auction-16/">2016 Hyundai Sonata GLS</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫350,000,001.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-12 17:09:24" 
+         data-postid="891" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="893"> 	 <figure> <a href="http://autocoin.ca/listing/example-auction-18/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2427&pid=893&tt=1" class="img-fluid lazy" alt="2014 Nissan Juke">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/example-auction-18/">2014 Nissan Juke</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫406.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-12 17:09:24" 
+         data-postid="893" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="2659"> 	 <figure> <a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2661&pid=2659&tt=1" class="img-fluid lazy" alt="2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free/">2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫50,000,000.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-26 10:50:04" 
+         data-postid="2659" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+ </div>
+      </div>
+    </div>
+  </div>
+</section>
+<script> 
+jQuery(document).ready(function(){ 
+		 
+	var owl = jQuery("#listing3-carousel-714 .owl-carousel").owlCarousel({
+        loop: false,
+        margin: 20,
+        nav: false,
+		        dots: false,		
+        responsive: {
+            0: {
+                items: 2
+            },
+			 
+            600: {
+                items: 2
+            }, 
+			
+            1000: {
+                items: 4
+            }
+        },        
+    }); 
+	
+	owl.owlCarousel();
+	
+	// REFRESH	
+	setTimeout(function(){	
+   		owl.trigger('refresh.owl.carousel');
+	}, 2000); 
+ 
+  jQuery("#listing3-carousel-714 .next").click(function(){
+    owl.trigger('next.owl.carousel');
+	owl.trigger('refresh.owl.carousel');
+  })
+  jQuery("#listing3-carousel-714 .prev").click(function(){
+    owl.trigger('prev.owl.carousel');
+	owl.trigger('refresh.owl.carousel');
+  })
+	
+	
+});
+	 
+</script>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-52afffce elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="52afffce" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2db2e38a" data-id="2db2e38a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-4828dc5e elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="4828dc5e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5b696247" data-id="5b696247" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4e0eedb4 elementor-widget elementor-widget-heading" data-id="4e0eedb4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Our Easy Process</h1>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-20f1034a elementor-section-content-space-between elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="20f1034a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7af1da53" data-id="7af1da53" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5b6e38d8 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="5b6e38d8" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-user-check"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Register					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Sign up to become an AutoCoin Member, and provide an official identification document to verify your identity and contact information.					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-34231dc4" data-id="34231dc4" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-16b820e1 elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="16b820e1" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-search"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Find					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Our easy inventory search gives you access to the largest selection of vehicles in Asia. Before you can place bids, a verified security deposit is required. 					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2cff58e5" data-id="2cff58e5" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-29e36cfb elementor-view-default elementor-mobile-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="29e36cfb" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<span class="elementor-icon elementor-animation-" >
+				<i aria-hidden="true" class="fas fa-gavel"></i>				</span>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<span  >
+						Bid					</span>
+				</h3>
+									<p class="elementor-icon-box-description">
+						Make a bid online - it’s that easy. After the auction has been won, the invoice needs to be paid within one week. We handle pickup and delivery. 					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7bcb6bb6 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7bcb6bb6" data-element_type="section" data-settings="{&quot;shape_divider_bottom&quot;:&quot;waves&quot;}">
+					<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7
+	c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4
+	c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6a88d18a" data-id="6a88d18a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7397fe3c elementor-widget elementor-widget-new-hero" data-id="7397fe3c" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			        
+        <style>
+		
+@media only screen and (max-width: 991px) {
+    .image_block .box-wrap.long-height, .image_block .box-wrap.mid-height{
+    	height: 300px;
+    }
+}
+ 
+
+
+</style>
+        
+ 
+		        
+<section class="image_block grid block-cat-image_block block-image_basic2 bg-white section-100 ">
+ 
+
+<div class="container">
+
+<div class="row">
+<div class="col-md-12">
+            
+            <div class="text-center">
+			
+			<h2 
+            data-elementor-setting-key="title" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing mb-5 
+            font- 
+            text-black font-weight-bold">POPULAR <i class="fas fa-fire mx-2 text-primary"></i>  CATEGORIES</h2>
+            
+                        
+             
+            
+            </div>         
+			
+			</div>
+</div>
+<div class="row">
+ 
+                 
+<div class="col-6">
+
+  
+<figure class="effect-2 textpos-tleft">
+
+<img data-src="http://autocoin.ca/wp-content/uploads/2023/05/90750-toyota-supra-cars-hd-toyota-4k-scaled-e1683680588763.jpg" alt="Automobiles" class="lazy" />
+<figcaption>
+<div class="wrapper">
+<div class="caption">
+
+<div class="title mb-1 font- text-white font-weight-bold textsize-md">Automobiles</div>
+
+
+
+
+</div>
+<a href="http://autocoin.ca/listing-category/automobiles/">&nbsp;</a>
+
+</div>
+</figcaption>
+</figure></div>   
+<div class="col-6">
+
+  
+<figure class="effect-2 textpos-tleft">
+
+<img data-src="http://autocoin.ca/wp-content/uploads/2023/04/Zero-SR-S-Featured-Gear-e1680652501966.webp" alt="Motorcycles" class="lazy" />
+<figcaption>
+<div class="wrapper">
+<div class="caption">
+
+<div class="title mb-1 font- text-white font-weight-bold textsize-md">Motorcycles</div>
+
+
+
+
+</div>
+<a href="http://autocoin.ca/listing-category/motorcycles/">&nbsp;</a>
+
+</div>
+</figcaption>
+</figure></div>   
+  
+
+</div></div>
+</section>
+ 
+
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7c12d81d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7c12d81d" data-element_type="section" data-settings="{&quot;shape_divider_top&quot;:&quot;waves&quot;,&quot;shape_divider_bottom&quot;:&quot;tilt&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-shape elementor-shape-top" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M421.9,6.5c22.6-2.5,51.5,0.4,75.5,5.3c23.6,4.9,70.9,23.5,100.5,35.7c75.8,32.2,133.7,44.5,192.6,49.7
+	c23.6,2.1,48.7,3.5,103.4-2.5c54.7-6,106.2-25.6,106.2-25.6V0H0v30.3c0,0,72,32.6,158.4,30.5c39.2-0.7,92.8-6.7,134-22.4
+	c21.2-8.1,52.2-18.2,79.7-24.2C399.3,7.9,411.6,7.5,421.9,6.5z"/>
+</svg>		</div>
+				<div class="elementor-shape elementor-shape-bottom" data-negative="false">
+			<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 100" preserveAspectRatio="none">
+	<path class="elementor-shape-fill" d="M0,6V0h1000v100L0,6z"/>
+</svg>		</div>
+					<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3f40c3a3" data-id="3f40c3a3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-516f20de elementor-widget elementor-widget-new-hero" data-id="516f20de" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			<style>
+
+.bg-primary ul.pricing-list, 
+.bg-dark ul.pricing-list, 
+.bg-black ul.pricing-list, 
+.bg-secondary ul.pricing-list, 
+.bg-primary ul.pricing-list .text-muted, 
+.bg-dark ul.pricing-list .text-muted, 
+.bg-secondary ul.pricing-list .text-muted {
+color:#fff !important; 
+}
+.bg-primary .bg-light ul.pricing-list, 
+.bg-dark .bg-light ul.pricing-list, 
+.bg-black .bg-light ul.pricing-list, 
+.bg-secondary .bg-light ul.pricing-list, 
+.bg-primary .bg-light ul.pricing-list .text-muted, 
+.bg-dark .bg-light ul.pricing-list .text-muted, 
+.bg-secondary .bg-light ul.pricing-list .text-muted  {
+color:#111 !important; 
+}
+ 
+.bg-primary .price-box:not(.bg-light) .price-tag a, 
+.bg-black .price-box:not(.bg-light) .price-tag a, 
+.bg-dark .price-box:not(.bg-light) .price-tag a, 
+.bg-secondary .price-box:not(.bg-light) .price-tag a { border: 1px solid #fff !important; color:#fff !important;  }
+
+.price-box {
+	position: relative;
+    margin: 20px 10px 20px 5px;
+    padding: 50px 10px 32px 10px;
+    overflow: hidden;
+    text-align: center;
+    border: 1px solid #dfdfdf;
+    background-color: transparent;
+    border-radius: 8px 8px;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+}
+ 
+
+.price-box:hover{
+	transform: scale(1.025);
+	transition: all 1s;
+}
+
+.price-box .price-subtitle,.price-box .price-text{
+	 
+}
+
+ul.pricing-list{
+	padding: 0 30px;
+}
+
+ul.pricing-list li.price-title{	
+	font-size: 16px;
+	line-height: 24px; 	 
+}
+
+ul.pricing-list li.price-value{	
+	font-size: 70px;
+	line-height: 70px;
+	display: block;
+	margin-bottom: 10px;	 
+}
+
+ul.pricing-list li.price-tiny { font-size:20px; }
+ul.pricing-list li.price-small { font-size:40px; }
+ul.pricing-list li.price-medium { font-size:60px; }
+
+ul.pricing-list li.price-subtitle{	
+	margin-bottom: 10px;
+	font-size: 16px;
+	line-height: 24px;
+	 
+}
+
+ul.pricing-list li.price-text{
+	display: block;	
+	text-align: left;
+	font-weight: 400;
+	margin-bottom: 5px;
+}
+
+ul.pricing-list li.price-text i{
+	 
+}
+ 
+.price-tag a {
+	 
+	background: transparent;
+	 border: 1px solid #111; 
+	 color:#111; 
+	border-radius: 5px 5px;
+	padding: 15px 30px;
+	display: inline-block;
+	font-size: 15px;
+	line-height: 24px;
+	font-weight: 600;
+	 
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+}
+
+.price-tag a:hover{
+	background: #fff;
+	border:1px solid #fff;
+	color: #e84d3c;
+}
+
+.price-tag-line a{
+	 
+	background: transparent;
+	border:1px solid #fff;
+	border-radius: 5px 5px;
+	padding: 15px 30px;
+	display: inline-block;
+	font-size: 15px;
+	line-height: 24px;
+	font-weight: 600;
+	margin: 30px 0 5px 0;
+	transition: all 0.3s ease-in-out;
+	-webkit-transition: all 0.3s ease-in-out;
+}
+
+ul.pricing-list .price-tag-line a:hover{
+	color: #e84d3c;
+	background: #fff;
+	border:1px solid #fff;
+}
+
+</style>
+
+<section id="pricing" class="block-cat-pricing block-pricing1 none section-100 ">
+  <div class="container">
+  
+    
+  
+        <div class="col-12 text-center mb-5">
+       
+            
+            <div class="text-center">
+            
+			<h2 data-elementor-setting-key="title" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing mb-3 font- text-black font-weight-bold">Membership Options</h2>
+            
+                        
+             <hr style="width:50px; height:3px;" class="bg-primary my-4  mx-auto" />
+            
+                        
+			<p data-elementor-setting-key="desc" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing line-height-30 mb-0 font- text-black">As an AutoCoin Member, you'll be able to search our massive inventory for wholesale vehicles. Unlock additional features by upgrading to a premium Membership — you'll be able to jump right into the auction and start bidding in our live auctions!</p> 
+              
+             
+		    </div>      
+			
+			    </div>
+      </div>
+  
+
+  
+  
+  <div class="pricing-wrapper">
+    <div class="container">
+      <div class="row">
+         
+ 
+        <div class="  col-lg-4 mx-auto">
+        
+        
+          <div class="price-box ">
+            <ul class="pricing-list list-unstyled">
+             
+              <li class="price-value free   ">
+			  FREE</li>
+              
+              <li class="price-title font-weight-bold">Guest</li>            
+                     
+              
+                             
+              
+              <li class="price-text border-bottomxx pb-2 clearfix text-center text-muted small"> For those who want to look at auctions, but don't want to bid.                              </li>
+                 
+              
+                            
+              
+              
+	             
+                                                         
+	                             
+              
+              
+            </ul>
+            <div class="price-tag">
+            
+                            
+            
+              
+              <a 
+								                                href="javascript:void(0)" onclick="processLogin(0,'mem1');"
+                                > Select Package </a>
+            
+            
+            
+            	
+                
+                
+            
+                          
+              
+              
+              
+              
+            </div>
+          </div>
+        </div>
+        <!--end col-md-4 -->
+         
+ 
+        <div class="  col-lg-4 mx-auto">
+        
+        
+          <div class="price-box ">
+            <ul class="pricing-list list-unstyled">
+             
+              <li class="price-value free   ">
+			  ₫265.00</li>
+              
+              <li class="price-title font-weight-bold">Premier</li>            
+                     
+              
+                             
+              
+              <li class="price-text border-bottomxx pb-2 clearfix text-center text-muted small"> For those who plan to buy multiple vehicles on a regular basis.                              </li>
+                 
+              
+                            
+              
+              
+	             
+                                                         
+	                             
+              
+              
+            </ul>
+            <div class="price-tag">
+            
+                            
+            
+              
+              <a 
+								                                href="javascript:void(0)" onclick="processLogin(0,'mem3');"
+                                > Select Package </a>
+            
+            
+            
+            	
+                
+                
+            
+                          
+              
+              
+              
+              
+            </div>
+          </div>
+        </div>
+        <!--end col-md-4 -->
+              </div>
+      <!--end row -->
+      
+      
+      
+            
+      
+            
+      
+    </div>
+    <!--end container -->
+  </div>
+</section>
+
+ 
+<script>
+ 
+
+function processPayment(sid,pp){
+   
+   	 
+       jQuery.ajax({
+           type: "POST",
+           url: 'http://autocoin.ca/',		
+   		data: {
+               action: "load_new_payment_form",
+   				details: sid, 
+           },
+           success: function(response) { 
+		   
+		   jQuery(".payment-modal-wrap").fadeIn(400);
+		 
+		    jQuery(".payment-modal-container h3").text(pp); 			 
+			 
+   			jQuery('#ajax-payment-form').html(response);			 
+   			
+           },
+           error: function(e) {
+               console.log(e)
+           }
+       });
+   
+   }
+   
+</script>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-35663a74 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="35663a74" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dd04a1f" data-id="dd04a1f" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2d6c0aea elementor-widget elementor-widget-heading" data-id="2d6c0aea" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Welcome to AutoCoin Auctions !</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-fa1723a elementor-widget elementor-widget-text-editor" data-id="fa1723a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Auctions is one of the leading auction companies in the region. At AutoCoin Auctions, We take pride in bringing customers across Vietnam to a professionally handled live-auction atmosphere where it’s more than just bidding. Visit us at any of our auctions and enjoy all the live action.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-49dc317f elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="49dc317f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-2cccbec9" data-id="2cccbec9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-36b0caf7 elementor-widget elementor-widget-new-hero" data-id="36b0caf7" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			 
+<section class="block-cat-cta block-cta1a bg-primary section-40 ">
+        <div class="container">
+            <div class="row align-items-center  text-center text-md-right">
+                <div class="col-md-8">
+                               
+            <div class="text-center text-md-left">
+			
+			<h2 
+            data-elementor-setting-key="title" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing  
+            font- 
+            text-white text-900">Sell your car with Autocoin</h2>
+            
+                        
+             
+            
+            </div>         
+			
+			                </div>
+                <div class="col-md-4 text-center text-md-right mobile-mt-4">
+                   	<a href="http://autocoin.ca/sell" class="btn btn-rounded-25 font- btn-md btn-secondary  mt-1  btn-icon icon-after">
+
+        
+	<span data-elementor-setting-key="btn_txt" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing">Sell a car</span>
+   
+    <i class="fas fa-car"></i> 
+    </a>
+                </div>
+            </div>
+        </div>
+             </section>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-24a47696 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="24a47696" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6b70647b" data-id="6b70647b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-49ed4a09 elementor-widget elementor-widget-new-hero" data-id="49ed4a09" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			
+<section id="listing3-carousel-3449" class="block-cat-listings block-listings3 none section-100 ">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="clearfix"></div>
+                <div class="d-flex mb-4 justify-content-between">
+          <div>
+                         
+            <div class="text-center text-md-left">
+			
+			<h4 
+            data-elementor-setting-key="title" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing  
+            font- 
+            text-dark "><i class="fas fa-clock mx-2 text-primary"></i> Ending  Soon</h4>
+            
+                        
+             
+            
+            </div>         
+			
+			          </div>
+          <div> <a class="btn bg-white btn-sm text-muted prev px-2 mt-2 border"><i class="fa fa-angle-left px-1" aria-hidden="true"></i></a> <a class="btn bg-white btn-sm text-muted next px-2 mt-2 border"><i class="fa fa-angle-right px-1" aria-hidden="true"></i></a> </div>
+        </div>
+                <div  class="owl-carousel owl-theme"> 
+<div class="new-search blank " data-pid="891"> 	 <figure> <a href="http://autocoin.ca/listing/example-auction-16/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2845&pid=891&tt=1" class="img-fluid lazy" alt="2016 Hyundai Sonata GLS">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/example-auction-16/">2016 Hyundai Sonata GLS</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫350,000,001.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-12 17:09:24" 
+         data-postid="891" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="893"> 	 <figure> <a href="http://autocoin.ca/listing/example-auction-18/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2427&pid=893&tt=1" class="img-fluid lazy" alt="2014 Nissan Juke">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/example-auction-18/">2014 Nissan Juke</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫406.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-12 17:09:24" 
+         data-postid="893" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="894"> 	 <figure> <a href="http://autocoin.ca/listing/example-auction-19/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2422&pid=894&tt=1" class="img-fluid lazy" alt="Example Auction 19">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2">No Category</div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/example-auction-19/">Example Auction 19</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫147.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-12 17:09:24" 
+         data-postid="894" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="2981"> 	 <figure> <a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free-2/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2661&pid=2659&tt=1" class="img-fluid lazy" alt="2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE - Duplicate">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free-2/">2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE - Duplicate</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫50,000,000.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-12 17:09:24" 
+         data-postid="2981" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="2984"> 	 <figure> <a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free-3/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2799&pid=2984&tt=1" class="img-fluid lazy" alt="copy: 2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free-3/">copy: 2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫50,000,000.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-19 14:30:59" 
+         data-postid="2984" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+
+<div class="new-search blank " data-pid="2659"> 	 <figure> <a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free/"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/_img.php?aid=2661&pid=2659&tt=1" class="img-fluid lazy" alt="2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE">
+        <div class="read_more"><span>view</span></div>
+        </a>
+        
+                <span class="featuredribbion">Featured</span>
+                
+   
+                 
+        
+                
+                
+        
+                
+      </figure>  <div class="card-body position-relative border-top">
+    <ul class="list-inline btn-list cardtop hide-mobile hide-ipad" style="right: 10px;">
+      
+            <li class="list-inline-item" data-toggle="tooltip" data-placement="top" title="Add Favorites">
+        <div> 			<a href="javascript:void(0);" onclick="processLogin();" class="favs_add text-primary">
+			 <i class="fa fa-heart"></i>  						</a>
+			 </div>
+      </li>
+            
+          </ul>
+    
+    <div class="card-category mt-n2"><a href='http://autocoin.ca/listing-category/sedans/' class=''>Sedans</a></div>
+    <h3 class="mt-1"><a href="http://autocoin.ca/listing/2018-bmw-530xi-black-low-km-accident-free/">2018 BMW 530XI BLACK- LOW KM- ACCIDENT FREE</a></h3>
+    <div class="card-bottom d-md-flex justify-content-between mt-md-3 text-center text-md-left ">
+       <div class="pricetag-big  format-vnd format-customsymbol" data-symbol="₫">₫50,000,000.00</div>
+          <div class="opacity-5 small pt-1 pt-md-3"><i class="fal fa-clock"></i>       <div class="countdowntimer">
+      <span 
+         data-ppt-countdown="2023-05-26 10:50:04" 
+         data-postid="2659" 
+         data-expire="ajax_expire_auction" 
+         data-timezone="0" 
+                  data-ontick="ajax_ontick_auction"></span>
+          </div>
+      		
+  </div>
+       
+    </div>
+  </div>
+</div>
+ </div>
+      </div>
+    </div>
+  </div>
+</section>
+<script> 
+jQuery(document).ready(function(){ 
+		 
+	var owl = jQuery("#listing3-carousel-3449 .owl-carousel").owlCarousel({
+        loop: false,
+        margin: 20,
+        nav: false,
+		        dots: false,		
+        responsive: {
+            0: {
+                items: 2
+            },
+			 
+            600: {
+                items: 2
+            }, 
+			
+            1000: {
+                items: 4
+            }
+        },        
+    }); 
+	
+	owl.owlCarousel();
+	
+	// REFRESH	
+	setTimeout(function(){	
+   		owl.trigger('refresh.owl.carousel');
+	}, 2000); 
+ 
+  jQuery("#listing3-carousel-3449 .next").click(function(){
+    owl.trigger('next.owl.carousel');
+	owl.trigger('refresh.owl.carousel');
+  })
+  jQuery("#listing3-carousel-3449 .prev").click(function(){
+    owl.trigger('prev.owl.carousel');
+	owl.trigger('refresh.owl.carousel');
+  })
+	
+	
+});
+	 
+</script>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-58ac7de8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="58ac7de8" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-320ca855" data-id="320ca855" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7f07d576 elementor-widget elementor-widget-new-hero" data-id="7f07d576" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			<section class="block-cat-text block-text1d none section-100  pb-0 mb-0">
+  <div class="container">
+    <div class="row d-flex flex-lg-row-reverse y-middle">
+      <div class="col-md-5 pl-xl-5 text-center text-lg-left">
+                    
+            <div class="text-center text-md-left">
+			
+			<h2 
+            data-elementor-setting-key="title" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing mb-4 
+            font- 
+            text-dark ">Satisfaction Guarantee</h2>
+            
+                        
+                        
+			<p data-elementor-setting-key="desc" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing line-height-30  font- text-opacity-5">If for any reason you are not completely satisfied with your experience, simply let us know and we will make it right. Our goal is to ensure that you are completely satisfied with your purchase and that you have a positive experience with us. We encourage you to contact us with any questions, or feedback!
+</p> 
+             
+            
+            </div>         
+			
+			        	<a href="http://autocoin.ca/about-us/" class="btn btn-rounded-25 font- btn-lg btn-dark text-light mt-1  ">
+
+        
+	<span data-elementor-setting-key="btn_txt" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing">About Us</span>
+   
+    
+    </a>
+      </div>
+      <div class="col-md-7 pr-lg-5 text-center">
+            <img data-src="http://autocoin.ca/wp-content/uploads/2023/03/AC-ORANGE.png" class="img-fluid mt-3 pt-3 pt-md-0 mt-lg-0 lazy" alt="Satisfaction Guarantee" />
+      
+            
+      </div>
+    </div>
+  </div>
+</section>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1502e5cc elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1502e5cc" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-e7c16e" data-id="e7c16e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5a06079c elementor-widget elementor-widget-new-hero" data-id="5a06079c" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			    <section class="block-cat-subscribe block-subscribe1 bg-primary section-120 ">
+            <div class="container"> 
+                <div class="row "> 
+                <div class="col-md-6 mx-auto text-center">
+                   
+                   
+                                 
+            <div class="text-center">
+			
+			<h2 
+            data-elementor-setting-key="title" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing mb-0 
+            font- 
+            text-black text-800">STAY & UPDATED</h2>
+            
+            			<p data-elementor-setting-key="subtitle" 
+            data-elementor-inline-editing-toolbar="none" 
+            class="elementor-inline-editing lead text-dark font- text-500 mb-4 font-weight-normal">Join our newsletter today!</p> 
+                        
+             
+            
+            </div>         
+			
+			                          
+                            <div class="subscribe-form">
+                               
+
+
+
+<script>
+
+function ajax_newsletter_signup40845(){
+
+    jQuery.ajax({
+        type: "POST",
+        url: 'http://autocoin.ca/',		
+		dataType: 'json',
+		data: {
+            action: "newsletter_join",
+			email: jQuery('#ppt_newsletter_mailme40845').val(),	 
+        },
+        success: function(r) {
+			
+			if(r.status == "ok"){
+				jQuery('#newsletterthankyou40845').show();
+				jQuery('#mailinglist-form40845').html('');
+			}else{
+				jQuery('#mailinglist-form40845').html("Invalid Email Address");
+			}
+			
+        },
+        error: function(e) {
+            //console.log(e)
+        }
+    });
+
+}
+</script>
+
+<div id="newsletterthankyou40845" style="display:none" class="newsletter-confirmation txt">
+	<div class="h4">Email confirmation sent.</div>
+	<p>Please check your email for a confirmation email.</p>
+	<p class="small">Only once you've confirmed your email will you be subscribed to our newsletter.</p>
+</div>
+
+<form id="mailinglist-form40845" name="mailinglist-form40845" method="post" onSubmit="return IsEmailMailinglist40845();" class="footer-newsletter">
+    
+
+<div class="input-group">										 
+<input type="text" name="ppt_newsletter_mailme40845" id="ppt_newsletter_mailme40845" value="" placeholder="Email Address Here.." style="height:46px;" class="form-control  rounded-0" /> 
+<div class="input-group-append">
+<button type="submit" class="btn btn-primary px-3">Join</button>
+</div>	
+
+  					
+</div>  
+
+     
+        
+         
+ </form>
+<script>
+		function IsEmailMailinglist40845(){
+		var pattern = new RegExp(/^(("[\w-+\s]+")|([\w-+]+(?:\.[\w-+]+)*)|("[\w-+\s]+")([\w-+]+(?:\.[\w-+]+)*))(@((?:[\w-+]+\.)*\w[\w-+]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][\d]\.|1[\d]{2}\.|[\d]{1,2}\.))((25[0-5]|2[0-4][\d]|1[\d]{2}|[\d]{1,2})\.){2}(25[0-5]|2[0-4][\d]|1[\d]{2}|[\d]{1,2})\]?$)/i);
+			var de4 	= document.getElementById("ppt_newsletter_mailme40845");
+			
+			if(de4.value == ''){
+			alert("Please enter your email.");
+			de4.style.border = 'thin solid red';
+			de4.focus();
+			return false;
+			}
+			if( !pattern.test( de4.value ) ) {	
+			alert("Invalid Email Address");
+			de4.style.border = 'thin solid blue';
+			de4.focus();
+			return false;
+			}
+			ajax_newsletter_signup40845();
+		 
+		  	return false;
+		}		
+ </script>
+ 
+
+ 
+ 
+                            </div>
+                            
+                </div>
+                   
+                </div>
+            </div> 
+        </section>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5557f9b7 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="5557f9b7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-78921888" data-id="78921888" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3675cbb6 elementor-widget elementor-widget-new-hero" data-id="3675cbb6" data-element_type="widget" data-widget_type="new-hero.default">
+				<div class="elementor-widget-container">
+			<footer class="footer block-cat-footer block-footer1 bg-secondary section-60 ">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-4 col-md-6 text-center text-md-left">
+                <a href="http://autocoin.ca">
+        <img src='http://autocoin.ca/wp-content/uploads/2023/03/autocoin.png' alt='logo' class='img-fluid navbar-brand-light' />        </a>
+        <p class="mt-4 opacity-8 small line-height-30">
+          AutoCoin- Vietnam's 100 % Online Vehicle Auction Platform        </p>
+        <div class="socials mt-4 ">
+         
+                    <a class="social" target="_blank" href="https://www.twitter.com/#" title="Twitter"><i class="fab fa-twitter"></i></a>
+                              <a class="social" target="_blank" href="https://www.facebook.com/#" title="Facebook"><i class="fab fa-facebook"></i></a>
+                              <a class="social" target="_blank" href="https://www.youtube.com/#" title="YouTube"><i class="fab fa-youtube"></i></a>
+                    
+                    <a class="social" target="_blank" href="https://www.instagram.com/#" title="Instagram"><i class="fab fa-instagram"></i></a>
+                    
+        </div>
+              </div>
+      <div class="col-lg-2 col-md-3 d-none d-md-block">
+                                <div class="h5">Useful Links</div>
+                <div style="line-height:35px;">
+                    <ul id="menu-secondary-1" class="links-vertical list-unstyled"><li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-listing menu-item-2485 nav-item"><a title="Automobiles" href="http://autocoin.ca/listing-category/automobiles/" class="opacity-8">Automobiles</a></li>
+<li itemscope="itemscope" itemtype="https://www.schema.org/SiteNavigationElement" class="menu-item menu-item-type-taxonomy menu-item-object-listing menu-item-2489 nav-item"><a title="Motorcycles" href="http://autocoin.ca/listing-category/motorcycles/" class="opacity-8">Motorcycles</a></li>
+</ul>                  </div>
+                      </div>
+      <div class="col-lg-2 col-md-3  d-none d-md-block">
+                        <div class="h5">Members</div>
+                <div style="line-height:35px;">
+                    <ul class="links-vertical list-unstyled" style="line-height:35px;">
+            <li><a class="opacity-8" href="http://autocoin.ca/account/">Members Area</a></li>
+            <li><a class="opacity-8" href="http://autocoin.ca/contact/">Contact Us</a></li>
+            <li><a class="opacity-8" href="http://autocoin.ca/privacy/">Privacy Policy</a></li>
+            <li> <a class="opacity-8" href="http://autocoin.ca/terms/">Terms</a></li>
+          </ul>
+                  </div>
+              </div>
+      <div class="col-lg-4 my-md-5 mt-lg-0 d-none d-md-block">
+                <div class="h5">Join our newsletter</div>
+        <p class="opacity-8 mb-3">We write rarely, but only the best content.</p>
+         
+
+
+
+<script>
+
+function ajax_newsletter_signup1021(){
+
+    jQuery.ajax({
+        type: "POST",
+        url: 'http://autocoin.ca/',		
+		dataType: 'json',
+		data: {
+            action: "newsletter_join",
+			email: jQuery('#ppt_newsletter_mailme1021').val(),	 
+        },
+        success: function(r) {
+			
+			if(r.status == "ok"){
+				jQuery('#newsletterthankyou1021').show();
+				jQuery('#mailinglist-form1021').html('');
+			}else{
+				jQuery('#mailinglist-form1021').html("Invalid Email Address");
+			}
+			
+        },
+        error: function(e) {
+            //console.log(e)
+        }
+    });
+
+}
+</script>
+
+<div id="newsletterthankyou1021" style="display:none" class="newsletter-confirmation txt">
+	<div class="h4">Email confirmation sent.</div>
+	<p>Please check your email for a confirmation email.</p>
+	<p class="small">Only once you've confirmed your email will you be subscribed to our newsletter.</p>
+</div>
+
+<form id="mailinglist-form1021" name="mailinglist-form1021" method="post" onSubmit="return IsEmailMailinglist1021();" class="footer-newsletter">
+    
+
+<div class="input-group">										 
+<input type="text" name="ppt_newsletter_mailme1021" id="ppt_newsletter_mailme1021" value="" placeholder="Email Address Here.." style="height:46px;" class="form-control  rounded-0" /> 
+<div class="input-group-append">
+<button type="submit" class="btn btn-primary px-3">Join</button>
+</div>	
+
+  					
+</div>  
+
+     
+        
+         
+ </form>
+<script>
+		function IsEmailMailinglist1021(){
+		var pattern = new RegExp(/^(("[\w-+\s]+")|([\w-+]+(?:\.[\w-+]+)*)|("[\w-+\s]+")([\w-+]+(?:\.[\w-+]+)*))(@((?:[\w-+]+\.)*\w[\w-+]{0,66})\.([a-z]{2,6}(?:\.[a-z]{2})?)$)|(@\[?((25[0-5]\.|2[0-4][\d]\.|1[\d]{2}\.|[\d]{1,2}\.))((25[0-5]|2[0-4][\d]|1[\d]{2}|[\d]{1,2})\.){2}(25[0-5]|2[0-4][\d]|1[\d]{2}|[\d]{1,2})\]?$)/i);
+			var de4 	= document.getElementById("ppt_newsletter_mailme1021");
+			
+			if(de4.value == ''){
+			alert("Please enter your email.");
+			de4.style.border = 'thin solid red';
+			de4.focus();
+			return false;
+			}
+			if( !pattern.test( de4.value ) ) {	
+			alert("Invalid Email Address");
+			de4.style.border = 'thin solid blue';
+			de4.focus();
+			return false;
+			}
+			ajax_newsletter_signup1021();
+		 
+		  	return false;
+		}		
+ </script>
+ 
+
+ 
+        <div class="small opacity-8 mt-4">We'll never share your details. See our <a class="opacity-8" href="http://autocoin.ca/privacy/">Privacy Policy</a></div>
+              </div>
+      <div class="col-md-12 small text-center text-md-left">
+        <hr class="bg-white my-4" style="opacity:0.2" />
+        
+<div class="row px-0">
+  <div class="col-md-6">
+    <div class="copyright opacity-8">
+            © 2023 Autocoin. All rights reserved.          </div>
+  </div>
+  <div class="col-md-6 text-right d-none d-md-block"> <img data-src="http://autocoin.ca/wp-content/themes/AT10/framework/images/cards_all.svg" alt="cards" class="lazy" /> </div>
+</div>
+      </div>
+    </div>
+  </div>
+</footer>
+		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		</main>
+</div>
+ 
+
+ 
+
+<div class="footer-nav-area hidepage" style="display:none;" id="mobile-bottom-bar">
+      <div class="container h-100 px-0">
+        <div class="suha-footer-nav h-100">
+          <ul class="h-100 list-unstyled d-flex align-items-center justify-content-between pl-0">
+          
+                    
+          
+                    
+          
+          <li class="active"><a href="http://autocoin.ca"><i class="fal fa-home"></i> Home</a></li>
+          
+                     
+          
+                    
+          
+                    
+          
+          <li class="active"><a href="http://autocoin.ca/?s="><i class="fal fa-search"></i> Search</a></li>
+          
+                     
+          
+                    
+          
+                    
+          <li>
+           <a href="javascript:void(0);" class="menu-toggle"><i class="fal fa-bars"></i> </a>
+           </li>
+          
+          
+                     
+          
+                    
+          
+                     
+           
+           <li >
+           <a href="http://autocoin.ca/wp-login.php"><i class="fal fa-user"></i> Login</a>
+           </li>
+          
+          
+                     
+          
+                    
+          
+                    
+          
+          <li class="active"><a href="http://autocoin.ca/sell"><i class="fa fa fa-gavel"></i> Sell</a></li>
+          
+                     
+          
+                    
+    
+          </ul>
+        </div>
+      </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="wa"></div><style id="elementor-post-897">.elementor-kit-897{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-bottom:20px;}.elementor-element{--widgets-spacing:20px;}{}h1.entry-title{display:var(--page-title-display);}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}</style><style id="elementor-global">.elementor-widget-heading .elementor-heading-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-editor{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:var( --e-global-color-primary );}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap, .elementor-widget-text-editor.elementor-drop-cap-view-default .elementor-drop-cap{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-button .elementor-button{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );background-color:var( --e-global-color-accent );}.elementor-widget-divider{--divider-color:var( --e-global-color-secondary );}.elementor-widget-divider .elementor-divider__text{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-divider.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon{color:var( --e-global-color-secondary );border-color:var( --e-global-color-secondary );}.elementor-widget-divider.elementor-view-framed .elementor-icon, .elementor-widget-divider.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-secondary );}.elementor-widget-image-box .elementor-image-box-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-image-box .elementor-image-box-description{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-icon.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon{color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon.elementor-view-framed .elementor-icon, .elementor-widget-icon.elementor-view-default .elementor-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-stacked .elementor-icon{background-color:var( --e-global-color-primary );}.elementor-widget-icon-box.elementor-view-framed .elementor-icon, .elementor-widget-icon-box.elementor-view-default .elementor-icon{fill:var( --e-global-color-primary );color:var( --e-global-color-primary );border-color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title{color:var( --e-global-color-primary );}.elementor-widget-icon-box .elementor-icon-box-title, .elementor-widget-icon-box .elementor-icon-box-title a{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-icon-box .elementor-icon-box-description{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-star-rating .elementor-star-rating__title{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-image-gallery .gallery-item .gallery-caption{font-family:var( --e-global-typography-accent-font-family ), Sans-serif;font-weight:var( --e-global-typography-accent-font-weight );}.elementor-widget-icon-list .elementor-icon-list-item:not(:last-child):after{border-color:var( --e-global-color-text );}.elementor-widget-icon-list .elementor-icon-list-icon i{color:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-icon-list .elementor-icon-list-text{color:var( --e-global-color-secondary );}.elementor-widget-icon-list .elementor-icon-list-item > .elementor-icon-list-text, .elementor-widget-icon-list .elementor-icon-list-item > a{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-counter .elementor-counter-number-wrapper{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-counter .elementor-counter-title{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-progress .elementor-progress-wrapper .elementor-progress-bar{background-color:var( --e-global-color-primary );}.elementor-widget-progress .elementor-title{color:var( --e-global-color-primary );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-testimonial .elementor-testimonial-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-testimonial .elementor-testimonial-name{color:var( --e-global-color-primary );font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-testimonial .elementor-testimonial-job{color:var( --e-global-color-secondary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-weight:var( --e-global-typography-secondary-font-weight );}.elementor-widget-tabs .elementor-tab-title, .elementor-widget-tabs .elementor-tab-title a{color:var( --e-global-color-primary );}.elementor-widget-tabs .elementor-tab-title.elementor-active,
+					 .elementor-widget-tabs .elementor-tab-title.elementor-active a{color:var( --e-global-color-accent );}.elementor-widget-tabs .elementor-tab-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-tabs .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-accordion .elementor-accordion-icon, .elementor-widget-accordion .elementor-accordion-title{color:var( --e-global-color-primary );}.elementor-widget-accordion .elementor-accordion-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-accordion .elementor-active .elementor-accordion-icon, .elementor-widget-accordion .elementor-active .elementor-accordion-title{color:var( --e-global-color-accent );}.elementor-widget-accordion .elementor-active .elementor-accordion-icon svg{fill:var( --e-global-color-accent );}.elementor-widget-accordion .elementor-accordion-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-accordion .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-toggle .elementor-toggle-title, .elementor-widget-toggle .elementor-toggle-icon{color:var( --e-global-color-primary );}.elementor-widget-toggle .elementor-toggle-icon svg{fill:var( --e-global-color-primary );}.elementor-widget-toggle .elementor-tab-title.elementor-active a, .elementor-widget-toggle .elementor-tab-title.elementor-active .elementor-toggle-icon{color:var( --e-global-color-accent );}.elementor-widget-toggle .elementor-toggle-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-toggle .elementor-tab-content{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-alert .elementor-alert-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-weight:var( --e-global-typography-primary-font-weight );}.elementor-widget-alert .elementor-alert-description{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}.elementor-widget-text-path{font-family:var( --e-global-typography-text-font-family ), Sans-serif;font-weight:var( --e-global-typography-text-font-weight );}</style><link rel='stylesheet' id='elementor-icons-css' href='http://autocoin.ca/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.17.0' type='text/css' media='all' />
+<link rel='stylesheet' id='elementor-pro-css' href='http://autocoin.ca/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.11.4' type='text/css' media='all' />
+<script src="http://autocoin.ca/wp-content/plugins/whatsapp-for-wordpress/assets/dist/js/njt-whatsapp.js?ver=3.3.3" id="nta-wa-libs-js"></script>
+<script type='text/javascript' id='nta-js-global-js-extra'>
+/* <![CDATA[ */
+var njt_wa_global = {"ajax_url":"http:\/\/autocoin.ca\/wp-admin\/admin-ajax.php","nonce":"e733f6639d","defaultAvatarSVG":"<svg width=\"48px\" height=\"48px\" class=\"nta-whatsapp-default-avatar\" version=\"1.1\" id=\"Layer_1\" xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\"\n            viewBox=\"0 0 512 512\" style=\"enable-background:new 0 0 512 512;\" xml:space=\"preserve\">\n            <path style=\"fill:#EDEDED;\" d=\"M0,512l35.31-128C12.359,344.276,0,300.138,0,254.234C0,114.759,114.759,0,255.117,0\n            S512,114.759,512,254.234S395.476,512,255.117,512c-44.138,0-86.51-14.124-124.469-35.31L0,512z\"\/>\n            <path style=\"fill:#55CD6C;\" d=\"M137.71,430.786l7.945,4.414c32.662,20.303,70.621,32.662,110.345,32.662\n            c115.641,0,211.862-96.221,211.862-213.628S371.641,44.138,255.117,44.138S44.138,137.71,44.138,254.234\n            c0,40.607,11.476,80.331,32.662,113.876l5.297,7.945l-20.303,74.152L137.71,430.786z\"\/>\n            <path style=\"fill:#FEFEFE;\" d=\"M187.145,135.945l-16.772-0.883c-5.297,0-10.593,1.766-14.124,5.297\n            c-7.945,7.062-21.186,20.303-24.717,37.959c-6.179,26.483,3.531,58.262,26.483,90.041s67.09,82.979,144.772,105.048\n            c24.717,7.062,44.138,2.648,60.028-7.062c12.359-7.945,20.303-20.303,22.952-33.545l2.648-12.359\n            c0.883-3.531-0.883-7.945-4.414-9.71l-55.614-25.6c-3.531-1.766-7.945-0.883-10.593,2.648l-22.069,28.248\n            c-1.766,1.766-4.414,2.648-7.062,1.766c-15.007-5.297-65.324-26.483-92.69-79.448c-0.883-2.648-0.883-5.297,0.883-7.062\n            l21.186-23.834c1.766-2.648,2.648-6.179,1.766-8.828l-25.6-57.379C193.324,138.593,190.676,135.945,187.145,135.945\"\/>\n        <\/svg>","defaultAvatarUrl":"http:\/\/autocoin.ca\/wp-content\/plugins\/whatsapp-for-wordpress\/assets\/img\/whatsapp_logo.svg","timezone":"+00:00","i18n":{"online":"Online","offline":"Offline"},"urlSettings":{"onDesktop":"api","onMobile":"api","openInNewTab":"ON"}};
+/* ]]> */
+</script>
+<script src="http://autocoin.ca/wp-content/plugins/whatsapp-for-wordpress/assets/js/whatsapp-button.js?ver=3.3.3" id="nta-js-global-js"></script>
+<script type='text/javascript' id='nta-js-popup-js-extra'>
+/* <![CDATA[ */
+var njt_wa = {"gdprStatus":"","accounts":[{"accountId":2904,"accountName":"Shirjeel - AutoCoin","avatar":"","number":"+14164337533","title":"Shirjeel - AutoCoin","predefinedText":"Hello, I have a question about [njwa_page_title] - Url: [njwa_page_url]","willBeBackText":"I will be back in [njwa_time_work]","dayOffsText":"I will be back soon","isAlwaysAvailable":"ON","daysOfWeekWorking":{"sunday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"monday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"tuesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"wednesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"thursday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"friday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"saturday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]}}},{"accountId":2905,"accountName":"Shaq Rahman - AutoCoin","avatar":"","number":"+16473217427","title":"Shaq Rahman - AutoCoin","predefinedText":"Hi, I\u2019ve just visited [njwa_page_title], and I need some help. Here is the link: [njwa_page_url].","willBeBackText":"I will be back in [njwa_time_work]","dayOffsText":"I will be back soon","isAlwaysAvailable":"ON","daysOfWeekWorking":{"sunday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"monday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"tuesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"wednesday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"thursday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"friday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]},"saturday":{"isWorkingOnDay":"OFF","workHours":[{"startTime":"08:00","endTime":"17:30"}]}}}],"options":{"display":{"displayCondition":"excludePages","includePages":[],"excludePages":[],"includePosts":[],"showOnDesktop":"ON","showOnMobile":"ON","time_symbols":"h:m"},"styles":{"title":"Start a Conversation","responseText":"The team typically replies in a few minutes.","description":"Hi! Click one of our member below to chat on <strong>WhatsApp<\/strong>","backgroundColor":"#2db742","textColor":"#fff","scrollHeight":"500","isShowScroll":"OFF","isShowResponseText":"OFF","isShowPoweredBy":"OFF","btnLabel":"Need Help? <strong>Chat with us<\/strong>","btnLabelWidth":"156","btnPosition":"right","btnLeftDistance":"30","btnRightDistance":"15","btnBottomDistance":"70","isShowBtnLabel":"OFF","isShowGDPR":"OFF","gdprContent":"Please accept our <a href=\"https:\/\/ninjateam.org\/privacy-policy\/\">privacy policy<\/a> first to start a conversation.","widgetType":"expandable"},"analytics":{"enabledGoogle":"OFF","enabledFacebook":"OFF","enabledGoogleGA4":"OFF"}}};
+/* ]]> */
+</script>
+<script src="http://autocoin.ca/wp-content/plugins/whatsapp-for-wordpress/assets/js/whatsapp-popup.js?ver=6.2" id="nta-js-popup-js"></script>
+<script src="http://autocoin.ca/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.11.4" id="elementor-pro-webpack-runtime-js"></script>
+<script src="http://autocoin.ca/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.10.0" id="elementor-webpack-runtime-js"></script>
+<script src="http://autocoin.ca/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.10.0" id="elementor-frontend-modules-js"></script>
+<script src="http://autocoin.ca/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2" id="wp-polyfill-inert-js"></script>
+<script src="http://autocoin.ca/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11" id="regenerator-runtime-js"></script>
+<script src="http://autocoin.ca/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script src="http://autocoin.ca/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5" id="wp-hooks-js"></script>
+<script src="http://autocoin.ca/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { "text direction\u0004ltr": [ "ltr" ] } );
+</script>
+<script id="elementor-pro-frontend-js-before">
+var ElementorProFrontendConfig = {"ajaxurl":"http:\/\/autocoin.ca\/wp-admin\/admin-ajax.php","nonce":"42150b8f7a","urls":{"assets":"http:\/\/autocoin.ca\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"http:\/\/autocoin.ca\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"http:\/\/autocoin.ca\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src="http://autocoin.ca/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.11.4" id="elementor-pro-frontend-js"></script>
+<script src="http://autocoin.ca/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2" id="elementor-waypoints-js"></script>
+<script src="http://autocoin.ca/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2" id="jquery-ui-core-js"></script>
+<script id="elementor-frontend-js-before">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.10.0","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"a11y_improvements":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"kit-elements-defaults":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"http:\/\/autocoin.ca\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":0,"title":"Autocoin","excerpt":""}};
+</script>
+<script src="http://autocoin.ca/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.10.0" id="elementor-frontend-js"></script>
+<script src="http://autocoin.ca/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.11.4" id="pro-elements-handlers-js"></script>
+<script src="http://autocoin.ca/wp-content/themes/AT10/framework/elementor/js/premiumpress.js?ver=1" id="premiumpress-js-js"></script>
+
+<!--payment modal -->
+<div class="payment-modal-wrap shadow hidepage" style="display:none;">
+  <div class="payment-modal-wrap-overlay"></div>
+  <div class="payment-modal-item">
+    <div class="payment-modal-container">
+      <div id="ajax-payment-form"></div>
+      <div class="card-body">
+        <h3 class="format-vnd format-customsymbol" data-symbol="₫">0</h3>
+        <div class="payment-modal-close bg-primary text-center"><i class="fal fa-times">&nbsp;</i></div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--login modal -->
+<div class="login-modal-wrap shadow hidepage" style="display:none;">
+  <div class="login-modal-wrap-overlay"></div>
+  <div class="login-modal-item">
+    <div class="login-modal-container"> 
+      <div class="card-body">
+         <div id="ajax-login-form"></div>
+        <div class="login-modal-close text-center"><i class="fal fa-times">&nbsp;</i></div>
+      </div>
+    </div>
+  </div>
+</div>
+<!--msg model -->
+<div class="msg-modal-wrap shadow hidepage" style="display:none;">
+  <div class="msg-modal-wrap-overlay"></div>
+  <div class="msg-modal-item">
+    <div class="msg-modal-container"> 
+      <div class="card-body p-0">
+         <div id="ajax-msg-form"></div>
+        <div class="msg-modal-close text-center"><i class="fa fa-times">&nbsp;</i></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!--msg model -->
+<div class="upgrade-modal-wrap shadow hidepage" style="display:none;">
+  <div class="upgrade-modal-wrap-overlay"></div>
+  <div class="upgrade-modal-item">
+    <div class="upgrade-modal-container"> 
+      <div class="card-body p-0">
+         <div id="ajax-upgrade-form"></div>
+        <div class="upgrade-modal-close text-center"><i class="fa fa-times">&nbsp;</i></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+ 
+<noscript id="deferred-styles">
+
+
+
+ 
+<style>.testomonial-2{ padding-left: 80px; position: relative; padding-top: 10px; } .testomonial-2-img{ width: 70px; height: 70px; border-radius: 50%; overflow: hidden; position: absolute; left: 0; top: 0; } .testomonial-2-img img{ width: 100%; height: auto; } .bg-primary, .bg-primary:hover,.bg-primary:focus, a.bg-primary:focus, a.bg-primary:hover, button.bg-primary:focus, button.bg-primary:hover, .badge-primary { background:#EFA404 !important; } .btn-primary, .btn-primary:hover { color: #fff; background-color: #EFA404 !important; border-color: #EFA404 !important; } .text-primary, .filters_col .distance span { color: #EFA404 !important; } .btn-outline-primary { color: #EFA404 !important; border-color: #EFA404 !important; } .btn-outline-primary:hover { background:none !important; } .text-primary a { color: #EFA404 !important; } .bg-secondary, .bg-secondary:hover, .bg-secondary:focus, a.bg-secondary:focus, a.bg-secondary:hover, button.bg-secondary:focus, button.bg-secondary:hover, .irs-bar { background-color:#000000 !important; } .btn-secondary, .btn-secondary:hover, .btn-secondary:focus { color: #fff; background-color: #000000 !important; border-color: #000000 !important; } .text-secondary { color: #000000 !important; } .text-secondary a { color: #000000 !important; } .btn-outline-secondary { color: #000000 !important; border-color: #000000 !important; } .btn-outline-secondary:hover { background:none !important; } .bg-dark { background:#000000 !important; } @media only screen and (min-width: 1180px) { #related-carousel div .prev , .container .row .col-12 .d-flex div .prev { position: absolute; top: 40%; left: -80px; z-index: 10; border-radius: 100%; width: 87px; background: #efa503 !important; color: white !important; border: 0px !important; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important; padding: 20px; } #related-carousel div .next, .container .row .col-12 .d-flex div .next { position: absolute; top: 40%; right: -80px; z-index: 10; border-radius: 100%; width: 87px; background: #efa503 !important; color: white !important; border: 0px !important; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px !important; padding: 20px; } #related-carousel div{ position: unset !important; } .prev i , .next i{ font-size: 46px; } } .new-search{ border-radius: 10px; background: #fff; border: none !important; box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px; } .new-search figure{ border-top-left-radius: 10px; border-top-right-radius: 10px; } .new-search .pricetag-big{ font-size: 18px; } .gravity-theme .gfield input{ border: none; background: #eee; border-radius: 10px; } .gform_wrapper.gravity-theme .gform_footer input{ margin-bottom: 8px; background: #efa503; border: none; padding: 15px; border-radius: 10px; color: white; width: 200px; } .gform_wrapper.gravity-theme .gfield textarea{ border: none; background: #eee; border-radius: 10px; } .gform_wrapper.gravity-theme .gfield select{ width: calc(50% - 8px); border: none; background: #eee; border-radius: 10px; }</style> 
+
+ 
+</noscript>
+<script>
+
+var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+};
+var raf = window.requestAnimationFrame || window.mozRequestAnimationFrame ||
+          window.webkitRequestAnimationFrame || window.msRequestAnimationFrame;
+      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+      else window.addEventListener('load', loadDeferredStyles);
+
+</script>
+
+<script>
+var ajax_site_url = "http://autocoin.ca/index.php";  
+var ajax_framework_url = "http://autocoin.ca/wp-content/themes/AT10/"; 
+var ajax_googlemaps_key = ""; 
+ 
+
+
+jQuery(window).on('load',function () {
+	
+setTimeout(
+  function() 
+  {
+   
+	jQuery("#wrapper").addClass('d-flex').removeClass('hidepage').addClass('preload-hide');
+	
+	jQuery("#sidebar-wrapper").css('display', '');
+	
+	jQuery('#page-loading').html('').hide();
+	 
+	jQuery(".hidepage").each(function() {
+	  jQuery( this ).removeAttr("style").removeClass('hidepage').addClass('preload-hide');
+	});
+	
+	
+	jQuery(".gdpr-cookie-law").css("display", "block");
+	
+	tinyScroll();	
+	 
+	  // Trigger window resize event to fix resize size issues.
+	  // Don't use jquery trigger event since that only triggers
+	  // methods hooked to events, and not the events themselves.
+	  if ( typeof( Event ) === 'function' ) {
+		window.dispatchEvent( new Event( 'resize' ) );
+	  } else {
+		var event = window.document.createEvent( 'UIEvents' );
+		event.initUIEvent( 'resize', true, false, window, 0 );
+		window.dispatchEvent( event );
+	  }
+	  
+	  
+
+  
+   
+  }, 1000);
+
+});
+
+ 
+
+</script>
+
+<div id="ppt_livechat_window"></div>
+
+ </body></html>
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Page Caching using disk: enhanced 
+
+Served from: autocoin.ca @ 2023-05-11 18:45:01 by W3 Total Cache
+-->

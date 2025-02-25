@@ -1,0 +1,66 @@
+
+The following is logged from get_action_title()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 763:
+
+... insert_revision_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1050:
+
+...... insert_revision_updated_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1142:
+[2024-04-18 17:14:30] Action `max_booking_notice_changed` does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 763:
+
+... insert_revision_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1050:
+
+...... insert_revision_updated_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1142:
+[2024-04-18 17:14:30] Action `shared_calendar_event_changed` does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 763:
+
+... insert_revision_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1050:
+
+...... insert_revision_updated_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1142:
+[2024-04-18 17:15:17] Action `max_booking_notice_changed` does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 763:
+
+... insert_revision_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1050:
+
+...... insert_revision_updated_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1142:
+[2024-04-18 17:15:17] Action `shared_calendar_event_changed` does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 763:
+
+... insert_revision_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1050:
+
+...... insert_revision_updated_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1142:
+[2024-04-18 17:15:32] Action `max_booking_notice_changed` does not exist in get_action_title
+
+
+The following is logged from get_action_title()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 763:
+
+... insert_revision_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1050:
+
+...... insert_revision_updated_appointment_type()
+in /var/www/turbobid/html/wp-content/plugins/simply-schedule-appointments/includes/class-revision-model.php line 1142:
+[2024-04-18 17:15:32] Action `shared_calendar_event_changed` does not exist in get_action_title
+
