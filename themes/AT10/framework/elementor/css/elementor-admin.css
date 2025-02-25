@@ -1,0 +1,58 @@
+
+.elementor-panel .elementor-element {
+    position: relative;
+}
+.elementor-element .icon i[class^="premiumpress"]:after {
+    content: 'NEW';
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 10px;
+    padding: 4px;
+    background: #e00b0b;
+    font-size: 8px;
+    color: #fff;
+}
+ 
+
+.elementor-element .icon i[class^="eicon-wordpress"]:after {
+    content: 'WIDGET';
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    font-size: 10px;
+    padding: 4px;
+    background:#1969bd;
+    font-size: 8px;
+    color: #fff;
+}
+
+
+.elementor-element .icon i.premiumpress { width:40px; height:40px; background:url('../../images/premiumpress.png');  display: inline-block; background-size: cover; }
+
+
+
+.elementor-control-type, 
+.elementor-control-header_style, 
+.elementor-control-footer_style, 
+.elementor-control-hero_style, 
+.elementor-control-text_style, 
+.elementor-control-icons_style, 
+.elementor-control-cta_style, 
+.elementor-control-contact_style, 
+.elementor-control-video_style, 
+.elementor-control-faq_style, 
+.elementor-control-listings_style, 
+.elementor-control-testimonials_style, 
+.elementor-control-subscribe_style, 
+.elementor-control-image_block_style, 
+.elementor-control-category_style, 
+.elementor-control-search_style, 
+.elementor-control-pricing_style, 
+.elementor-control-blog_style,
+.elementor-control-listingpage_style { display:none; }
+
+
+
+
+ 

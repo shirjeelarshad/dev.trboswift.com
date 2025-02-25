@@ -1,0 +1,454 @@
+
+
+
+10.5.7
+----------------------
+
+- language file updates
+
+
+
+10.5.7
+----------------------
+
+- MJ - auto close feature after 5 days
+
+- AT - update max bid - stop auto bid adding new bid.
+
+added redirect listing page edit option
+
+
+10.5.5
+----------------------
+
+updated JS for bootstrap
+
+
+10.4.7
+----------------------
+
+password meter
+new membership options
+
+updated Elementor CSS for extra padding
+
+fixed issue with House Comission
+
+
+10.4.6
+----------------------
+
+fixed issue with FAQ open/close
+
+10.4.5
+----------------------
+
+added new listing page designs
+
+SP - fixed guest checkout issue with sessions
+
+
+10.4.4
+----------------------
+
+added tax options
+
+SP - added custom taxonomy for adding products
+
+
+10.4.3
+----------------------
+
+added image crop system
+
+fixed issue with offer prices
+fixed issue with msg smiles
+
+10.4.2
+----------------------
+
+fixed css bugs in previous version
+
+
+aded custom field - edit only for non-display on listing page
+
+added new listing page carouse, grid, top text and other block elements.
+
+added new credit system
+
+added polish language file
+
+CP - new designs
+ES - new designs
+
+
+10.4.1
+----------------------
+
+account page update
+
+listing page update
+
+
+10.4.0
+----------------------
+
+VT - added video box to single elementor page setup
+
+DA - added option to auto create profiles at registration
+
+AT - added shipping to invoice and total amount
+
+updated - mapps JS to include improved location search
+
+fixed - multiple category bug
+fixed - related items to match category instead of new items
+
+10.3.9
+----------------------
+
+WordPress 5.6 javascript fix.
+
+added - new account page layout choices
+
+DT - added option for 24 hour/12 hour clock display
+
+DA - view whos liked their profile
+
+10.3.8
+----------------------
+
+fix for pending approval 
+
+10.3.7
+----------------------
+
+added - multiple categories as a listing add-on feature
+
+moved order email trigger to payment gateway callback file
+
+CT - login for offers page
+
+10.3.6
+----------------------
+
+improved message system setup
+
+AT - fix max bid auto bid when adjusting users max-bid
+
+DA - Hide Seeking User Option
+
+
+10.3.5
+----------------------
+
+fixed - issue with listings after updating
+
+
+10.3.4
+----------------------
+
+fixed bug with editing a listing and adding new images
+
+improved message system setup
+
+
+10.3.3
+----------------------
+
+added - miles/kilometers distance switch
+added - new pricing tables
+
+updated - listing/membership package options
+
+fixed - issue with WordPress.com hosted server upload issue
+
+MJ - added devliery time filter
+
+
+
+
+10.3.2
+----------------------
+
+error in zipfiles - updated
+
+
+10.3.1
+----------------------
+
+added - Elementor section for members area dashboard
+
+updated - members area
+updated - newsletter system 
+updated - taxonomies
+updated - custom fields
+
+
+10.5.7
+----------------------
+
+fixed registration error if turning off first/last name.
+
+10.2.9
+----------------------
+
+added - support for mailchim/aweber (other third party plugins)
+
+
+10.2.8
+----------------------
+
+added - membership listings options
+
+added - translations for categories
+
+added - user recommended items to dashboard
+
+added - user notification on/off admin option.
+
+fixed - css bug in listing block 5
+
+updated force membership
+
+DA - updated single page layout
+ 
+
+
+10.2.7
+----------------------
+
+addded - on/off option for users to set their own usernames
+added - user email verification system
+added text/password hide option to login form
+added language options to package names and descriptions
+added new map search page
+
+added MapBox integration
+
+updated account hide page options
+updated file upload and set to auto upload after selection
+
+fixed css issue with mobile messaging
+
+DT - 4 new layouts
+
+RT - 1 new layout
+
+10.5.7
+----------------------
+
+fixed default language icon when using custom languages
+fixed cookie display bar
+
+added - fixed height css for customers who dont want responsive images
+
+added Hide First/Last Name option
+
+at - added on/off auction lenght
+
+10.2.5
+----------------------
+
+fixed notice error in Elementor plugin.
+
+10.2.4
+----------------------
+
+extended customcategoryfields to sub cats
+
+VT - updated membership system
+VT - added video on membership option
+
+CP - added "coupon_txt" option for display field
+
+blog posts - fixed title css issue
+
+added admin emails for listing (add/edit/expire)
+
+added user fields to regist email option
+updated email shortcodes
+
+updated the cashout options to imporve layout and flow
+
+added in featured image to editing listing sidebar.
+
+AT - added 30min auction timer length 
+
+10.2.3
+----------------------
+
+ELEMENTOR - added inline editing
+ELEMENTOR - updated the block displays
+
+added - SEO tools
+
+CP - changed printable coupons to link to coupon listing page
+CP - centered coupon image if only 1 added.
+
+CT - added buy now option to listings
+
+DA - added chat room back
+
+AT - removed auction displays from final bid page of classifieds item
+
+AT/CT - added delivery display to content area
+
+SP - added price variations
+
+10.2.2 - Sep 7th
+----------------------
+
+added - option to change usernames
+updated - banner display to show on mobile
+updated - taxonimy search options
+
+
+10.2.1 - Aug 25th
+----------------------
+
+fixed - bug with login page (invalid username)
+
+10.2.0 - Aug 16th
+----------------------
+
+added - big description to bottom taxonomy pages
+added - email shortcodes
+
+added - escrow service
+
+updated members area
+updated cash back page
+
+cp - changed the popup coupon redirect to a link instead
+
+10.1.8 - Aug 5th
+----------------------
+
+mixed up version numbers
+
+
+10.1.7 - Aug 5th
+----------------------
+
+fixed - issue with JS stopping design page loading
+
+
+10.1.6 - Aug 5th
+----------------------
+
+added - new mobile page design options
+added - memberships to AT/DT/MJ
+added - extra google fonts
+
+fixed - facebook re-login
+fixed - currency display issues
+  
+
+10.1.5 - Aug 5th
+----------------------
+
+added - support for tag searches
+
+
+
+10.1.4 - Aug 4th
+----------------------
+
+fixed - upload 1 image only bug
+
+
+10.1.3- June 2010
+----------------------
+
+fixed - stores custom slug
+fixed - facebook re-login
+
+added - message timer for conversation alerts
+
+10.1.1- June 2010
+----------------------
+
+fixed - eleentor category selector
+
+added - header7a (black version of header 7)
+
+added widgets to search page (top/bottom/side)
+
+DA - added gifts section
+
+
+10.1.0 - June 2010
+----------------------
+
+fixed - eleentor loading issue
+
+
+10.0.9 - June 2010
+----------------------
+
+fixed - encoding issue with users copping from MS word
+fixed - yoast sEO plugin title issue
+
+
+10.0.8 - June 2010
+----------------------
+
+added - shortcodes for welcome email
+
+10.0.7 - June 2010
+----------------------
+
+added - shortcodes for welcome email
+
+
+10.0.6 - June 2010
+----------------------
+
+added - new members interface
+
+added - updated membership options
+ 
+
+10.0.5 - June 2010
+----------------------
+
+added - listing promotions
+ 
+
+10.0.4 - June 2010
+----------------------
+
+fixed - multiple bugs and issues reported by user Jozef
+
+updated - Elementor functions to work with their new update
+
+added - on/off display options to the design -> single page section.
+
+
+10.0.3 - June 2010
+----------------------
+
+added - new search block
+
+added - viemo video support
+
+DT - added - business hours widget
+DT - added - claim listing button
+
+MJ - added - house comission
+
+updated - secction class to include transparent layer
+
+10.0.2 - June 2010
+----------------------
+
+LANGUAGES - Added additional support for RTL languages
+
+PRICES - Removed the sponsored display when prices were set to avoid confusion.
+
+SP - added support for Amazon API
+
+
+10.0.1 - June 25th 2010
+----------------------

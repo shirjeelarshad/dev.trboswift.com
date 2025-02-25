@@ -1,0 +1,85 @@
+<?php
+
+ 
+// LOAD IN CHILD THEME OPTIONS
+add_filter( 'ppt_admin_layouts',  array('(theme_key)',  'data') );
+add_filter( '(theme_key)',  array('(theme_key)',  'load') );
+ 
+$(theme_key)	= new (theme_key); 
+class (theme_key) { 
+
+	function _construct(){ 
+	
+		// LANGUAGES
+		load_childtheme_theme_textdomain( 'premiumpress-childtheme_', get_stylesheet_directory() . '/languages' );	 
+
+	} 
+ 
+	public static function data($a){ 
+	
+		global $CORE;
+  
+		$a['(theme_key)'] = array(
+		
+			"key" => "(theme_key)",
+		
+			"name" 	=> "(theme_name)",
+			
+			"image"	=> get_stylesheet_directory_uri()."/(preview_image)",
+						
+			"theme"	=> "childtheme_(core_key)",	
+ 			
+			"order" => 1,			
+			
+			"elementor" => array( 
+		
+				"homepage" => __DIR__ ."/(elementor_homepage_name)",
+				
+			),
+ 	 		
+		);		
+		
+		return $a;
+	
+	}	
+	
+	public static  function load($core){  global $CORE;
+ 
+		/* logo */
+		$core['design']['logo_url_aid'] = "";
+		$core['design']['logo_url'] = get_stylesheet_directory_uri()."/(logo_url)";
+		$core['design']['light_logo_url_aid'] = "";
+		$core['design']['light_logo_url'] = get_stylesheet_directory_uri()."/(logo_url)";
+		$core['design']['textlogo'] = "(logo_text)";
+		$core['design']['color_bg'] = "";
+		$core['design']['color_text'] = "";	
+	
+		$core['design']['header_style'] = "(theme_header)";
+		$core['design']['footer_style'] = "(theme_footer)"; 
+		
+		$core['design']['slot1_style'] = "elementor";
+		$core['design']['slot2_style'] =  "";
+		$core['design']['slot3_style'] = "";
+		$core['design']['slot4_style'] = "";
+		$core['design']['slot5_style'] = '';
+		$core['design']['slot6_style'] = '';
+		$core['design']['slot7_style'] = '';
+		$core['design']['slot8_style'] = '';
+		$core['design']['slot9_style'] = '';
+		
+		$core['design']['color_primary'] = "(theme_color1)";
+		$core['design']['color_secondary'] = "(theme_color2)"; 
+ 		
+		(design_extra)		
+  
+		// DEFAULT INNER PAGE DAATA
+		$core = $CORE->LAYOUT("default_innerpages", $core);
+	 	 			
+			
+	return $core;
+	} 
+	
+}
+ 
+
+?>

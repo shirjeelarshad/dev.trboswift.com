@@ -1,0 +1,1627 @@
+<?php
+/* 
+* Theme: TURBOBID CORE FRAMEWORK FILE
+* Url: www.turbobid.ca
+* Author: Md Nuralam
+*
+* THIS FILE WILL BE UPDATED WITH EVERY UPDATE
+* IF YOU WANT TO MODIFY THIS FILE, CREATE A CHILD THEME
+*
+* http://codex.wordpress.org/Child_Themes
+*/
+if (!defined('THEME_VERSION')) {	header('HTTP/1.0 403 Forbidden'); exit; }
+
+global $CORE, $userdata, $post; 
+
+
+/*
+	FOOTER ADVERTISING
+*/
+ 
+if( $CORE->ADVERTISING("check_exists","footer") && !isset($GLOBALS['flag-account']) ){ ?>
+
+<section id="advertising_footer" class="bg-light border-top mobile-mb-4 mobile-pb-4">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center py-4"> <?php echo $CORE->ADVERTISING("get_banner","footer"); ?> </div>
+    </div>
+  </div>
+</section>
+<?php } ?>
+<?php
+
+if(isset($GLOBALS['flag-blankpage'])){
+
+}else{
+
+	_ppt_template( 'footer', 'menu' ); 
+}
+
+?>
+</main>
+</div>
+ 
+<?php if(in_array(_ppt(array('design','preloader')), array("","1"))){ ?> 
+<div id="page-loading" style="height:400px; text-align:center; padding-top:300px;"> <img src="<?php echo get_template_directory_uri(); ?>/framework/images/loading.svg" alt="loading page" /> </div>
+<?php } ?>
+
+<?php _ppt_template( 'footer', 'mobilemenu' );  ?>
+<?php _ppt_template( 'footer', 'codes' );  ?>
+
+
+
+
+
+<div id="popupDisclaimer" >
+    <div class="modal-dialog" >
+        <div class="modal-content">
+            <div class="header">
+               
+            
+            <div class="modal-body" >
+
+<object
+        data="<?php echo home_url(); ?>/wp-content/uploads/2023/12/6-THONG-BAO-MIEN-TRU-TRACH-NHIEM-Disclaimer-for-AutoCoin-Live-Car-Trade-Offering-Platform-and-Purchasing.docx.pdf"
+        type="application/pdf"
+        frameborder="0"
+        scrolling="auto"
+        height="600px"
+        width="100%"
+        style="display: block; height: 100%; width: 100%; border: none; overflow: hidden;"
+    ></object>
+
+    <!-- Inline CSS to hide the default PDF viewer header -->
+    <style>
+        .pdf-viewer-toolbar {
+            display: none !important;
+        }
+display: none;
+    </style>
+<div class="c29 doc-content">
+   <div>
+        <p class="c39"><span
+                style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 162.87px; height: 29.13px;"><img
+                    alt="A yellow circle on a black background
+
+Description automatically generated" src="<?php echo home_url(); ?>/wp-content/uploads/2023/12/image1.png"
+                    style="width: 162.87px; height: 29.13px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
+                    title=""></span></p>
+    </div>
+    <p class="c31"><span class="c21 c7 c6 c26">TUY&Ecirc;N B&#7888; T&#7914; CH&#7888;I TR&Aacute;CH NHI&#7878;M
+            &#272;&#7888;I V&#7898;I</span></p>
+    <p class="c31"><span class="c21 c7">HO&#7840;T &#272;&#7896;NG MUA B&Aacute;N &#272;&#7844;U GI&Aacute; XE T&#7840;I
+            AUTOCOIN</span><span class="c21">&nbsp;<br></span><span class="c5 c6">C&#7853;p nh&#7853;t l&#7847;n
+            cu&#7889;i: 28-11-2023</span></p>
+    <p class="c35"><span class="c5 c6"></span></p>
+    <p class="c13"><span class="c4">B&#7857;ng c&aacute;ch ti&#7871;p t&#7909;c s&#7917; d&#7909;ng n&#7873;n t&#7843;ng
+            giao d&#7883;ch tr&#7921;c tuy&#7871;n c&#7911;a AutoCoin, b&#7841;n x&aacute;c nh&#7853;n &#273;&atilde;
+            &#273;&#7885;c, hi&#7875;u v&agrave; &#273;&#7891;ng &yacute; v&#7899;i c&aacute;c &#273;i&#7873;u
+            kho&#7843;n v&agrave; ph&iacute; &#273;&#432;&#7907;c m&ocirc; t&#7843;, &#273;&atilde; &#273;&#432;&#7907;c
+            ch&#7845;p nh&#7853;n khi &#273;&#259;ng k&yacute; v&agrave; c&oacute; s&#7861;n trong FAQ c&#7911;a
+        </span><span class="c0">AutoCoin</span><span class="c4">.</span></p>
+    <p class="c13"><span class="c4">Khi ho&agrave;n t&#7845;t m&#7897;t giao d&#7883;ch, b&#7841;n &#273;&#7891;ng
+            &yacute; ch&#7883;u tr&aacute;ch nhi&#7879;m xem x&eacute;t t&#7845;t c&#7843; c&aacute;c t&agrave;i
+            li&#7879;u &#273;&#432;&#7907;c cung c&#7845;p tr&ecirc;n n&#7873;n t&#7843;ng AutoCoin, v&agrave; t&#7845;t
+            c&#7843; c&aacute;c giao d&#7883;ch &#273;&#432;&#7907;c tu&acirc;n th&#7911; v&agrave; c&oacute;
+            t&iacute;nh r&agrave;ng bu&#7897;c.&nbsp;</span></p>
+    <p class="c18"><span class="c7 c17">Ph&iacute;:</span></p>
+    <p class="c18"><span class="c7 c17">Ch&#7845;p thu&#7853;n chi ph&iacute;:</span><span class="c17">&nbsp;</span></p>
+    <p class="c18"><span class="c4">B&#7857;ng c&aacute;ch ch&#7845;p nh&#7853;n tuy&ecirc;n b&#7889; t&#7915;
+            ch&#7889;i tr&aacute;ch nhi&#7879;m n&agrave;y v&agrave; tham gia v&agrave;o n&#7873;n t&#7843;ng giao
+            d&#7883;ch c&#7911;a AutoCoin, ng&#432;&#7901;i mua &#273;&#7891;ng &yacute; thanh to&aacute;n c&aacute;c
+            kho&#7843;n ph&iacute; sau li&ecirc;n quan &#273;&#7871;n m&#7895;i ph&#432;&#417;ng
+            ti&#7879;n.&nbsp;</span></p>
+    <p class="c32 c34"><span class="c0">&#272;&#7889;i v&#7899;i xe &ocirc; t&ocirc; ( &#273;&#7891;ng - ch&#432;a bao
+            g&#7891;m thu&#7871; GTGT:)</span></p>
+    <ul class="c10 lst-kix_6az4o87btfxg-0 start">
+        <li class="c20 li-bullet-0"><span class="c4">Ph&iacute;&nbsp; h&agrave;nh ch&iacute;nh &nbsp; &nbsp; &nbsp;
+                &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                &nbsp; &nbsp; &nbsp; &nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:
+            </span><span class="c19">&#8363;</span><span class="c4">3,000,000</span></li>
+    </ul>
+    <ul class="c10 lst-kix_5l0uoymx141q-0 start">
+        <li class="c22 li-bullet-0"><span class="c4">Ph&iacute; b&aacute;o c&aacute;o (AutoFax Fee)
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:
+            </span><span class="c19">&#8363;</span><span class="c4">1,850,000</span></li>
+        <li class="c22 li-bullet-0"><span class="c4">Ph&iacute; ki&#7875;m &#273;&#7883;nh xe &nbsp; &nbsp; &nbsp;
+                &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:
+            </span><span class="c19">&#8363;</span><span class="c4">&nbsp;1,850,000</span></li>
+        <li class="c38 li-bullet-0"><span class="c4">&nbsp;Ph&iacute; s&#7917; d&#7909;ng d&#7883;ch v&#7909; mua xe
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.75%
+                tr&ecirc;n gi&aacute; tr&#7883; ho&aacute; &#273;&#417;n xe</span></li>
+    </ul>
+    <p class="c36"><span class="c0">PH&#431;&#416;NG TH&#7912;C THANH TO&Aacute;N</span></p>
+    <p class="c18"><span class="c0">T&#7841;m &#7913;ng ph&iacute;:&nbsp;</span></p>
+    <p class="c18"><span class="c4">Ng&#432;&#7901;i mua &#273;&#7891;ng &yacute; thanh to&aacute;n m&#7897;t
+            kho&#7843;n ph&iacute; d&#7883;ch v&#7909; t&#7841;m &#7913;ng l&agrave; </span><span class="c19 c7">&#8363;
+        </span><span class="c0">12,000,000</span><span class="c4">, &#273;&#432;&#7907;c gi&#7919; nh&#432; m&#7897;t
+            kho&#7843;n &#273;&#7863;t c&#7885;c. Trong tr&#432;&#7901;ng h&#7907;p giao d&#7883;ch kh&ocirc;ng
+            th&agrave;nh c&ocirc;ng, s&#7889; ti&#7873;n n&agrave;y c&oacute; th&#7875; &#273;&#432;&#7907;c ho&agrave;n
+            tr&#7843; ho&#7863;c &#273;&#432;&#7907;c &aacute;p d&#7909;ng cho b&#7845;t k&#7923; giao d&#7883;ch
+            t&#432;&#417;ng lai n&agrave;o khi ng&#432;&#7901;i mua x&aacute;c nh&#7853;n &#273;&#7891;ng &yacute;
+            c&aacute;c &#273;&#7873; xu&#7845;t giao d&#7883;ch c&#7911;a m&igrave;nh.</span></p>
+    <p class="c15"><span class="c7 c2">Ho&agrave;n tr&#7843; ti&#7873;n t&#7841;m &#7913;ng:</span></p>
+    <p class="c15"><span class="c2">Trong tr&#432;&#7901;ng h&#7907;p giao d&#7883;ch kh&ocirc;ng th&agrave;nh
+            c&ocirc;ng, ng&#432;&#7901;i mua g&#7917;i y&ecirc;u c&#7847;u ho&agrave;n tr&#7843; s&#7889; ti&#7873;n
+            &#273;&atilde; &#273;&#7863;t c&#7885;c ho&#7863;c y&ecirc;u c&#7847;u gi&#7919; l&#7841;i n&oacute; cho
+            c&aacute;c giao d&#7883;ch trong t&#432;&#417;ng lai. Y&ecirc;u c&#7847;u ho&agrave;n tr&#7843; s&#7869;
+            &#273;&#432;&#7907;c x&#7917; l&yacute; trong v&ograve;ng 24 gi&#7901; k&#7875; t&#7915; ng&agrave;y
+            nh&#7853;n &#273;&#432;&#7907;c y&ecirc;u c&#7847;u v&agrave; chuy&#7875;n &#273;&#7871;n t&agrave;i
+            kho&#7843;n ng&acirc;n h&agrave;ng c&#7911;a ng&#432;&#7901;i mua.</span></p>
+    <p class="c18"><span class="c7 c2">Thanh to&aacute;n l&#7847;n &#273;&#7847;u:&nbsp;</span></p>
+    <p class="c18"><span class="c2">Trong v&ograve;ng 24 gi&#7901; k&#7875; t&#7915; khi x&aacute;c nh&#7853;n giao
+            d&#7883;ch th&agrave;nh c&ocirc;ng v&agrave; nh&#7853;n &#273;&#432;&#7907;c h&oacute;a &#273;&#417;n,
+            ng&#432;&#7901;i mua s&#7869; th&#7921;c hi&#7879;n thanh to&aacute;n ban &#273;&#7847;u, t&#432;&#417;ng
+            &#273;&#432;&#417;ng v&#7899;i 20% t&#7893;ng s&#7889; ti&#7873;n &#273;&#7871;n h&#7841;n.&nbsp;</span></p>
+    <p class="c18"><span class="c7 c2">Thanh to&aacute;n ph&#7847;n c&ograve;n l&#7841;i:</span></p>
+    <p class="c18"><span class="c2">Ng&#432;&#7901;i mua c&#361;ng cam k&#7871;t thanh to&aacute;n s&#7889; d&#432;
+            c&ograve;n l&#7841;i trong v&ograve;ng 72 gi&#7901; sau khi th&agrave;nh c&ocirc;ng giao d&#7883;ch,
+            v&agrave; khi nh&#7853;n &#273;&#432;&#7907;c h&oacute;a &#273;&#417;n do AutoCoin ph&aacute;t
+            h&agrave;nh.</span></p>
+    <p class="c15"><span class="c7 c2">&nbsp;Ch&#7853;m Thanh to&aacute;n:</span></p>
+    <p class="c15"><span class="c2">Vi&#7879;c thanh to&aacute;n kh&ocirc;ng &#273;&uacute;ng h&#7841;n, s&#7869;
+            c&oacute; m&#7913;c l&atilde;i su&#7845;t h&agrave;ng n&#259;m l&agrave; 20% &#273;&#432;&#7907;c
+            t&iacute;nh tr&ecirc;n s&#7889; ti&#7873;n c&ograve;n ch&#432;a thanh to&aacute;n. L&atilde;i su&#7845;t
+            n&agrave;y &#273;&#432;&#7907;c t&iacute;nh theo t&#7881; l&#7879; t&#7915; ng&agrave;y thanh to&aacute;n
+            qu&aacute; h&#7841;n &#273;&#7871;n ng&agrave;y thanh to&aacute;n th&#7921;c t&#7871;. Kho&#7843;ng
+            th&#7901;i gian t&#7889;i &#273;a cho ph&eacute;p cho vi&#7879;c thanh to&aacute;n mu&#7897;n l&agrave; 03
+            (ba) ng&agrave;y l&agrave;m vi&#7879;c. Sau kho&#7843;ng th&#7901;i gian n&agrave;y, ng&#432;&#7901;i mua
+            s&#7869; ph&#7843;i chi tr&#7843; th&ecirc;m ph&iacute; l&#432;u kho v&agrave; c&aacute;c chi ph&iacute;
+            d&#7883;ch v&#7909; ph&aacute;t sinh (n&#7871;u c&oacute;).</span></p>
+    <p class="c15"><span class="c7 c2">T&#7915; ch&#7889;i quy&#7873;n mua xe:</span></p>
+    <p class="c15"><span class="c5 c6">Trong tr&#432;&#7901;ng h&#7907;p &#273;&#7871;n ng&agrave;y th&#7913; t&#432;
+            k&#7875; t&#7915; ng&agrave;y ng&#432;&#7901;i mua giao d&#7883;ch th&agrave;nh c&ocirc;ng v&agrave;
+            kh&ocirc;ng c&oacute; b&#7845;t k&#7923; kho&#7843;n thanh to&aacute;n n&agrave;o &#273;&#432;&#7907;c
+            th&#7921;c hi&#7879;n, ng&#432;&#7901;i mua &#273;&#432;&#7907;c coi l&agrave; &#273;&atilde; ch&#7845;p
+            nh&#7853;n t&#7915; b&#7887; quy&#7873;n mua xe, v&agrave; &#273;&#7891;ng &yacute; kh&ocirc;ng y&ecirc;u
+            c&#7847;u ho&agrave;n l&#7841;i b&#7845;t k&#7923; kho&#7843;n ph&iacute; t&#7841;m &#7913;ng
+            tr&#432;&#7899;c n&agrave;o (n&#7871;u c&oacute;).</span></p>
+    <p class="c15"><span class="c7">Ch&#7845;m d&#7913;t/ &#273;&igrave;nh ch&#7881; quy&#7873;n truy
+            c&#7853;p</span><span class="c5 c6">:</span></p>
+    <p class="c15"><span class="c5 c6">AutoCoin c&oacute; quy&#7873;n ch&#7845;m d&#7913;t ho&#7863;c &#273;&igrave;nh
+            ch&#7881; t&agrave;i kho&#7843;n c&#7911;a b&#7845;t k&#7923; ng&#432;&#7901;i d&ugrave;ng n&agrave;o
+            m&agrave; kh&ocirc;ng c&#7847;n th&ocirc;ng b&aacute;o v&igrave; vi ph&#7841;m c&aacute;c &#273;i&#7873;u
+            kho&#7843;n n&agrave;y</span></p>
+    <p class="c18"><span class="c7 c2">H&#7894; TR&#7906; KH&Aacute;CH H&Agrave;NG AUTOCOIN:</span></p>
+    <p class="c18"><span class="c2">N&#7871;u b&#7841;n c&oacute; b&#7845;t k&#7923; c&acirc;u h&#7887;i n&agrave;o
+            ho&#7863;c c&#7847;n h&#7895; tr&#7907;, vui l&ograve;ng li&ecirc;n h&#7879; v&#7899;i &#273;&#7897;i
+            ng&#361; h&#7895; tr&#7907; c&#7911;a AutoCoin theo th&ocirc;ng tin sau:</span></p>
+    <p class="c18"><span
+            class="c2">Hotline&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:
+            +84 899 850 333</span></p>
+    <p class="c18"><span
+            class="c2">Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:
+        </span><span class="c28"><a class="c25" href="mailto:sales@autocoin.sg">sales@autocoin.sg</a></span><span
+            class="c5 c2">&nbsp;</span></p>
+    <p class="c24"><span class="c2 c3">(AutoCoin v&agrave; ng&#432;&#7901;i mua sau &#273;&acirc;y s&#7869;
+            &#273;&#432;&#7907;c g&#7885;i chung l&agrave; &quot;C&aacute;c B&ecirc;n&quot; v&agrave; l&agrave;
+            &quot;B&ecirc;n&quot; ri&ecirc;ng l&#7867;)</span></p>
+    <ol class="c10 lst-kix_5ftj3t2ch85x-0 start" start="1">
+        <li class="c9 li-bullet-0"><span class="c14 c7 c2">&#272;&#7882;NH NGH&#296;A V&Agrave; GI&#7842;I
+                TH&Iacute;CH</span></li>
+    </ol>
+    <p class="c8"><span class="c7 c2 c27">1.1</span><span class="c2">&nbsp; </span><span
+            class="c7 c2 c16">&#272;&#7883;nh ngh&#297;a:</span></p>
+    <p class="c8"><span class="c5 c2">Tr&#7915; khi ng&#7919; c&#7843;nh c&oacute; quy &#273;&#7883;nh kh&aacute;c,
+            c&aacute;c thu&#7853;t ng&#7919; vi&#7871;t hoa &#273;&#432;&#7907;c s&#7917; d&#7909;ng trong Tuy&ecirc;n
+            b&#7889; t&#7915; ch&#7889;i tr&aacute;ch nhi&#7879;m n&agrave;y s&#7869; c&oacute; &yacute; ngh&#297;a
+            nh&#432; sau:</span></p>
+    <p class="c8"><span class="c2">&quot;</span><span class="c7 c2">&#272;&#7841;i l&yacute;&quot;</span><span
+            class="c5 c2">&nbsp;c&oacute; ngh&#297;a l&agrave; m&#7897;t c&ocirc;ng ty &#273;&#432;&#7907;c th&agrave;nh
+            l&#7853;p h&#7907;p l&#7879; v&agrave; t&#7891;n t&#7841;i theo ph&aacute;p lu&#7853;t Vi&#7879;t Nam,
+            c&oacute; s&#7889; gi&#7845;y ch&#7913;ng nh&#7853;n &#273;&#259;ng k&yacute; doanh nghi&#7879;p do S&#7903;
+            K&#7871; ho&#7841;ch v&agrave; &#272;&#7847;u t&#432; c&#7845;p v&agrave; &#273;&#7883;a ch&#7881;
+            &#273;&#259;ng k&yacute; &#273;&#7863;t t&#7841;i Vi&#7879;t Nam.</span></p>
+    <p class="c8"><span class="c2">&quot;</span><span class="c7 c2">Th&#7887;a thu&#7853;n</span><span class="c2">&quot;
+            c&oacute; ngh&#297;a l&agrave; c&aacute;c d&#7883;ch v&#7909; v&agrave; th&#7887;a thu&#7853;n truy
+            c&#7853;p, l&#7883;ch tr&igrave;nh v&agrave; s&#7917;a &#273;&#7893;i &#273;&#432;&#7907;c k&yacute;
+            k&#7871;t b&#7903;i </span><span class="c7 c2">AutoCoin</span><span class="c2">&nbsp;v&agrave; </span><span
+            class="c7 c2">&#272;&#7841;i l&yacute;</span><span class="c5 c2">.</span></p>
+    <p class="c8"><span class="c2">&ldquo;</span><span class="c7 c2">Quy&#7873;n s&#7903; h&#7919;u tr&iacute;
+            tu&#7879;</span><span class="c5 c2">&rdquo; ngh&#297;a l&agrave;: (a) b&#7843;n quy&#7873;n, b&#7857;ng
+            s&aacute;ng ch&#7871;, quy&#7873;n c&#417; s&#7903; d&#7919; li&#7879;u v&agrave; c&aacute;c quy&#7873;n
+            &#273;&#7889;i v&#7899;i nh&atilde;n hi&#7879;u, thi&#7871;t k&#7871;, b&iacute; quy&#7871;t v&agrave;
+            th&ocirc;ng tin b&iacute; m&#7853;t (cho d&ugrave; &#273;&atilde; &#273;&#259;ng k&yacute; hay ch&#432;a
+            &#273;&#259;ng k&yacute;); (b) &#273;&#417;n &#273;&#259;ng k&yacute; v&agrave; quy&#7873;n &#273;&#259;ng
+            k&yacute; &#273;&#7889;i v&#7899;i b&#7845;t k&#7923; quy&#7873;n n&agrave;o trong s&#7889; n&agrave;y;
+            v&agrave; (c) t&#7845;t c&#7843; c&aacute;c quy&#7873;n s&#7903; h&#7919;u tr&iacute; tu&#7879; kh&aacute;c
+            v&agrave; c&aacute;c h&igrave;nh th&#7913;c b&#7843;o v&#7879; t&#432;&#417;ng &#273;&#432;&#417;ng
+            ho&#7863;c t&#432;&#417;ng t&#7921; hi&#7879;n c&oacute; &#7903; b&#7845;t k&#7923; &#273;&acirc;u
+            tr&ecirc;n th&#7871; gi&#7899;i.</span></p>
+    <p class="c8"><span class="c2">&quot;</span><span class="c2 c7">Kho h&agrave;ng</span><span class="c2">&quot;
+            c&oacute; ngh&#297;a l&agrave; S&#7843;n ph&#7849;m m&agrave; </span><span
+            class="c7 c2">&ldquo;&#272;&#7841;i l&yacute;&rdquo;</span><span class="c5 c2">&nbsp;c&oacute; s&#7861;n
+            &#273;&#7875; b&aacute;n v&agrave; d&#7921; &#273;&#7883;nh ni&ecirc;m y&#7871;t tr&ecirc;n
+            &quot;Autocoin.vn&quot; v&agrave; t&#7845;t c&#7843; th&ocirc;ng tin/t&agrave;i li&#7879;u li&ecirc;n quan
+            &#273;&#7871;n vi&#7879;c mua b&aacute;n c&aacute;c &ldquo;S&#7843;n ph&#7849;m&rdquo; n&agrave;y m&agrave;
+            &ldquo;&#272;&#7841;i l&yacute;&rdquo; &#273;&atilde; cung c&#7845;p ho&#7863;c ti&#7871;t l&#7897; cho
+            &ldquo;AUTOCOIN&rdquo;.</span></p>
+    <p class="c8"><span class="c2">&quot;</span><span class="c7 c2">S&#7921; ki&#7879;n b&#7845;t kh&#7843;
+            kh&aacute;ng</span><span class="c5 c2">&rdquo; c&oacute; ngh&#297;a l&agrave; b&#7845;t k&#7923; t&igrave;nh
+            hu&#7889;ng ho&#7863;c s&#7921; ki&#7879;n ngo&agrave;i d&#7921; t&iacute;nh, &#273;&#7863;c bi&#7879;t
+            v&#432;&#7907;t qu&aacute; kh&#7843; n&#259;ng ki&#7875;m so&aacute;t c&#7911;a c&aacute;c B&ecirc;n
+            m&agrave; ng&#259;n c&#7843;n b&#7845;t k&#7923; B&ecirc;n n&agrave;o trong s&#7889; h&#7885; th&#7921;c
+            hi&#7879;n b&#7845;t k&#7923; ngh&#297;a v&#7909; n&agrave;o d&#432;&#7899;i Th&#7887;a thu&#7853;n
+            n&agrave;y. T&igrave;nh hu&#7889;ng ho&#7863;c s&#7921; ki&#7879;n kh&ocirc;ng &#273;&#432;&#7907;c
+            g&aacute;n cho l&#7895;i ho&#7863;c s&#417; su&#7845;t t&#7915; ph&iacute;a C&aacute;c B&ecirc;n ho&#7863;c
+            t&#7915; ph&iacute;a c&aacute;c nh&agrave; th&#7847;u ph&#7909; v&agrave; ph&#7843;i ch&#7913;ng minh
+            l&agrave; kh&ocirc;ng th&#7875; tr&aacute;nh &#273;&#432;&#7907;c m&#7863;c d&ugrave; &#273;&atilde;
+            th&#7921;c hi&#7879;n s&#7921; c&#7849;n th&#7853;n &#273;&aacute;ng k&#7875;. C&aacute;c vi ph&#7841;m
+            d&#7883;ch v&#7909;, khuy&#7871;t &#273;i&#7875;m trong thi&#7871;t b&#7883; ho&#7863;c v&#7853;t li&#7879;u
+            ho&#7863;c vi&#7879;c ch&#7853;m tr&#7877; trong vi&#7879;c cung c&#7845;p ch&uacute;ng, tranh ch&#7845;p
+            lao &#273;&#7897;ng, cu&#7897;c &#273;&igrave;nh c&ocirc;ng v&agrave; kh&oacute; kh&#259;n t&agrave;i
+            ch&iacute;nh kh&ocirc;ng th&#7875; &#273;&#432;&#7907;c g&#7885;i l&agrave; tr&#432;&#7901;ng h&#7907;p
+            b&#7845;t kh&#7843; kh&aacute;ng, tr&#7915; khi ch&uacute;ng &#273;&#432;&#7907;c g&acirc;y ra b&#7903;i
+            m&#7897;t tr&#432;&#7901;ng h&#7907;p b&#7845;t kh&#7843; kh&aacute;ng li&ecirc;n quan.</span></p>
+    <p class="c8"><span class="c7 c2">&quot;Platform&quot; </span><span class="c5 c2">c&oacute; ngh&#297;a l&agrave;
+            n&#7873;n t&#7843;ng giao d&#7883;ch &ocirc; t&ocirc; th&#432;&#417;ng m&#7841;i &#273;i&#7879;n t&#7917;
+            tr&#7921;c tuy&#7871;n v&agrave; mua b&aacute;n tr&#7921;c tuy&#7871;n.</span></p>
+    <p class="c8"><span class="c7 c2">&quot;S&#7843;n ph&#7849;m&quot; </span><span class="c5 c2">c&oacute; ngh&#297;a
+            l&agrave; b&#7845;t k&#7923; ph&#432;&#417;ng ti&#7879;n ho&#7863;c m&#7863;t h&agrave;ng n&agrave;o
+            li&ecirc;n quan &#273;&#7871;n xe thu&#7897;c s&#7903; h&#7919;u ho&#7863;c &#273;&#432;&#7907;c &#7911;y
+            quy&#7873;n cho &#272;&#7841;i l&yacute;, cho d&ugrave; &#273;&oacute; l&agrave; xe m&#7899;i hay
+            &#273;&atilde; qua s&#7917; d&#7909;ng.</span></p>
+    <p class="c8"><span class="c7 c2">2.</span><span class="c2">&nbsp; &nbsp; &nbsp;</span><span
+            class="c14 c7 c2">S&#7920; KI&#7878;N B&#7844;T KH&#7842; KH&Aacute;NG</span></p>
+    <p class="c8"><span class="c5 c2">C&aacute;c B&ecirc;n &#273;&#7891;ng &yacute; r&#7857;ng B&ecirc;n b&#7883;
+            &#7843;nh h&#432;&#7903;ng b&#7903;i S&#7921; ki&#7879;n B&#7845;t kh&#7843; kh&aacute;ng s&#7869;
+            kh&ocirc;ng ch&#7883;u tr&aacute;ch nhi&#7879;m v&#7873; b&#7845;t k&#7923; thi&#7879;t h&#7841;i
+            gi&aacute;n ti&#7871;p ho&#7863;c t&#7893;n th&#7845;t l&#7907;i nhu&#7853;n n&agrave;o ph&aacute;t sinh
+            t&#7915; t&igrave;nh hu&#7889;ng &#273;&oacute;, v&#7899;i &#273;i&#7873;u ki&#7879;n B&ecirc;n b&#7883;
+            &#7843;nh h&#432;&#7903;ng ph&#7843;i th&ocirc;ng b&aacute;o cho B&ecirc;n kia b&#7857;ng v&#259;n b&#7843;n
+            ngay sau khi S&#7921; ki&#7879;n B&#7845;t kh&#7843; kh&aacute;ng x&#7843;y ra. N&#7871;u S&#7921;
+            ki&#7879;n B&#7845;t kh&#7843; kh&aacute;ng k&eacute;o d&agrave;i trong th&#7901;i gian s&aacute;u (06)
+            th&aacute;ng, m&#7897;t trong hai B&ecirc;n c&oacute; th&#7875; ch&#7845;m d&#7913;t Th&#7887;a thu&#7853;n
+            m&agrave; kh&ocirc;ng c&oacute; ngh&#297;a v&#7909; ph&#7843;i tr&#7843; b&#7845;t k&#7923; kho&#7843;n
+            b&#7891;i th&#432;&#7901;ng n&agrave;o cho B&ecirc;n kia.</span></p>
+    <p class="c8"><span class="c7 c2">3.</span><span class="c2">&nbsp; &nbsp; &nbsp;</span><span class="c7 c2 c14">CAM
+            K&#7870;T V&Agrave; B&#7842;O &#272;&#7842;M</span></p>
+    <p class="c8"><span class="c5 c2">3.1 &nbsp;&#272;&#7841;i l&yacute; b&#7843;o &#273;&#7843;m v&#7899;i AutoCoin
+            r&#7857;ng, t&iacute;nh t&#7915; Ng&agrave;y c&oacute; hi&#7879;u l&#7921;c v&agrave; trong th&#7901;i
+            h&#7841;n c&#7911;a Th&#7887;a thu&#7853;n n&agrave;y:</span></p>
+    <ol class="c10 lst-kix_raituoyar1uz-0 start" start="1">
+        <li class="c9 li-bullet-0"><span class="c5 c2">&#272;&#7841;i l&yacute; s&#7903; h&#7919;u t&#7845;t c&#7843;
+                c&aacute;c quy&#7873;n c&#7847;n thi&#7871;t &#273;&#7875; b&aacute;n m&#7895;i S&#7843;n ph&#7849;m
+                &#273;&#432;&#7907;c li&#7879;t k&ecirc; tr&ecirc;n &ldquo;Platform&rdquo; nh&#432; &#273;&#432;&#7907;c
+                &#273;&#7873; c&#7853;p trong Th&#7887;a thu&#7853;n n&agrave;y;</span></li>
+        <li class="c9 li-bullet-0"><span class="c5 c2">M&#7895;i S&#7843;n ph&#7849;m tu&acirc;n th&#7911;
+                &#273;&#7847;y &#273;&#7911; c&aacute;c m&ocirc; t&#7843; v&agrave; t&agrave;i li&#7879;u
+                &#273;&#432;&#7907;c &#272;&#7841;i l&yacute; cung c&#7845;p cho AutoCoin v&agrave; &#273;&#432;&#7907;c
+                li&#7879;t k&ecirc; tr&ecirc;n &ldquo;Platform&rdquo;;</span></li>
+        <li class="c9 li-bullet-0"><span class="c5 c4">Kh&ocirc;ng c&oacute; S&#7843;n ph&#7849;m n&agrave;o vi
+                ph&#7841;m quy&#7873;n s&#7903; h&#7919;u tr&iacute; tu&#7879; c&#7911;a b&ecirc;n th&#7913; ba;</span>
+        </li>
+        <li class="c9 li-bullet-0"><span class="c5 c4">M&#7895;i S&#7843;n ph&#7849;m v&agrave; Kho h&agrave;ng (bao
+                g&#7891;m th&ocirc;ng tin v&#7873; c&aacute;c kho&#7843;n ph&iacute; &aacute;p d&#7909;ng) v&agrave;
+                t&#7845;t c&#7843; c&aacute;c t&agrave;i li&#7879;u ti&#7871;p th&#7883; cho S&#7843;n ph&#7849;m
+                &#273;&oacute;, khi &#273;&#432;&#7907;c x&aacute;c nh&#7853;n b&#7903;i &#272;&#7841;i l&yacute;,
+                lu&ocirc;n ch&iacute;nh x&aacute;c, &#273;&#7847;y &#273;&#7911;, kh&ocirc;ng g&acirc;y hi&#7875;u
+                nh&#7847;m v&agrave; tu&acirc;n th&#7911; c&aacute;c lu&#7853;t hi&#7879;n h&agrave;nh c&#361;ng
+                nh&#432; c&aacute;c &#273;i&#7873;u kho&#7843;n c&#7911;a Th&#7887;a thu&#7853;n, v&agrave;
+                &#273;&#7863;c bi&#7879;t tu&acirc;n th&#7911; c&aacute;c lu&#7853;t v&#7873; quy&#7873;n ri&ecirc;ng
+                t&#432; v&agrave; b&#7843;o v&#7879; d&#7919; li&#7879;u c&#361;ng nh&#432; &#273;&aacute;p &#7913;ng
+                b&#7845;t k&#7923; ti&ecirc;u chu&#7849;n b&#7843;o m&#7853;t ho&#7863;c c&aacute;c ti&ecirc;u
+                chu&#7849;n kh&aacute;c c&#7911;a ng&agrave;nh c&ocirc;ng nghi&#7879;p &#273;&#432;&#7907;c thi&#7871;t
+                k&#7871; ho&#7863;c s&#7917; d&#7909;ng h&#7919;u &iacute;ch.</span></li>
+        <li class="c9 li-bullet-0"><span class="c5 c2">M&#7895;i S&#7843;n ph&#7849;m c&#7911;a &#272;&#7841;i l&yacute;
+                c&oacute; th&#7875; &#273;&#432;&#7907;c b&aacute;n m&#7897;t c&aacute;ch h&#7907;p ph&aacute;p
+                t&#7841;i Vi&#7879;t Nam;</span></li>
+        <li class="c9 li-bullet-0"><span class="c2 c5">Kh&ocirc;ng b&ecirc;n n&agrave;o kh&aacute;c &#273;&#432;&#7907;c
+                n&#7855;m gi&#7919; l&#7907;i &iacute;ch t&agrave;i ch&iacute;nh &#273;&#7889;i v&#7899;i S&#7843;n
+                ph&#7849;m &#273;&#432;&#7907;c b&aacute;n ngo&#7841;i tr&#7915; &#272;&#7841;i l&yacute;. Kh&ocirc;ng
+                c&oacute; quy&#7873;n th&#7871; ch&#7845;p ho&#7863;c r&agrave;ng bu&#7897;c ph&aacute;p l&yacute;
+                n&agrave;o &#273;&#7889;i v&#7899;i S&#7843;n ph&#7849;m, tr&#7915; khi &#273;&#432;&#7907;c ti&#7871;t
+                l&#7897; v&agrave; &#273;&#432;&#7907;c Autocoin ch&#7845;p thu&#7853;n;</span></li>
+        <li class="c9 li-bullet-0"><span class="c5 c2">Cam &#273;oan v&agrave; b&#7843;o &#273;&#7843;m li&ecirc;n quan
+                &#273;&#7871;n th&ocirc;ng tin v&#7873; S&#7843;n ph&#7849;m: </span></li>
+    </ol>
+    <ol class="c10 lst-kix_raituoyar1uz-1 start" start="1">
+        <li class="c9 li-bullet-0"><span class="c27 c7 c2">Th&ocirc;ng tin v&#7873; qu&atilde;ng &#273;&#432;&#7901;ng
+                &#273;&atilde; &#273;i</span><span class="c5 c2">: t&#7845;t c&#7843; th&ocirc;ng tin v&#7873;
+                qu&atilde;ng &#273;&#432;&#7901;ng &#273;&atilde; &#273;i &#273;&#432;&#7907;c cung c&#7845;p cho
+                S&#7843;n ph&#7849;m &#273;&#432;&#7907;c ni&ecirc;m y&#7871;t tr&ecirc;n &quot;Platform&quot;
+                &#273;&#7873;u ch&iacute;nh x&aacute;c v&agrave; kh&ocirc;ng b&#7883; gi&#7843; m&#7841;o/ can
+                thi&#7879;p vi ph&#7841;m lu&#7853;t ph&aacute;p hi&#7879;n h&agrave;nh t&#7841;i Vi&#7879;t Nam.
+                B&#7845;t k&#7923; d&#7845;u hi&#7879;u n&agrave;o v&#7873; vi&#7879;c can thi&#7879;p v&agrave;o
+                qu&atilde;ng &#273;&#432;&#7901;ng &#273;&atilde; &#273;i ho&#7863;c th&ocirc;ng tin kh&ocirc;ng
+                ch&iacute;nh x&aacute;c ph&#7843;i &#273;&#432;&#7907;c &#272;&#7841;i l&yacute; th&ocirc;ng b&aacute;o
+                cho c&aacute;c kh&aacute;ch h&agrave;ng/ng&#432;&#7901;i mua ti&#7873;m n&#259;ng.</span></li>
+        <li class="c9 li-bullet-0"><span class="c7 c2">Quy&#7873;n s&#7903; h&#7919;u:</span><span
+                class="c5 c2">&nbsp;&#272;&#7841;i l&yacute; l&agrave; ch&#7911; s&#7903; h&#7919;u duy nh&#7845;t
+                c&#7911;a S&#7843;n ph&#7849;m ho&#7863;c &#273;&#432;&#7907;c &#7911;y quy&#7873;n mua b&aacute;n
+                S&#7843;n Ph&#7849;m;</span></li>
+        <li class="c9 li-bullet-0"><span class="c7 c2">T&#7845;t c&#7843; th&ocirc;ng tin li&ecirc;n quan</span><span
+                class="c5 c2">&nbsp;&#273;&#7871;n l&#7883;ch s&#7917; S&#7843;n ph&#7849;m v&agrave; s&#7889;
+                nh&#7853;n d&#7841;ng ph&#432;&#417;ng ti&#7879;n (VIN) l&agrave; &#273;&uacute;ng s&#7921; th&#7853;t,
+                ch&iacute;nh x&aacute;c v&agrave; kh&ocirc;ng g&acirc;y hi&#7875;u l&#7847;m v&#7873; m&#7885;i
+                kh&iacute;a c&#7841;nh quan tr&#7885;ng.</span></li>
+    </ol>
+    <p class="c8"><span class="c5 c2">3.2 &nbsp;AutoCoin kh&ocirc;ng cam k&#7871;t ho&#7863;c &#273;&#7843;m b&#7843;o
+            r&#7857;ng b&#7845;t k&#7923; file ho&#7863;c li&ecirc;n k&#7871;t n&agrave;o c&oacute; s&#7861;n
+            th&ocirc;ng qua &ldquo;Platform&rdquo; s&#7869; kh&ocirc;ng c&oacute; virus. Trong ph&#7841;m vi t&#7889;i
+            &#273;a &#273;&#432;&#7907;c ph&eacute;p theo lu&#7853;t hi&#7879;n h&agrave;nh, AutoCoin t&#7915;
+            ch&#7889;i t&#7845;t c&#7843; c&aacute;c b&#7843;o &#273;&#7843;m, r&otilde; r&agrave;ng ho&#7863;c
+            ng&#7909; &yacute; v&agrave; kh&ocirc;ng &#273;&#7843;m b&#7843;o r&#7857;ng &ldquo;Platform&rdquo; s&#7869;
+            kh&ocirc;ng b&#7883; gi&aacute;n &#273;o&#7841;n, k&#7883;p th&#7901;i, an to&agrave;n ho&#7863;c
+            kh&ocirc;ng c&oacute; l&#7895;i.</span></p>
+    <p class="c8"><span class="c7 c2">4.</span><span class="c2">&nbsp; &nbsp; &nbsp;</span><span
+            class="c14 c7 c2">B&#7890;I TH&#431;&#7900;NG</span></p>
+    <p class="c8"><span class="c7 c2">4.1 </span><span>B&#7845;t k&#7875; c&oacute; quy &#273;&#7883;nh n&agrave;o
+            kh&aacute;c, m&#7895;i B&ecirc;n (g&#7885;i l&agrave; &quot;B&ecirc;n b&#7891;i th&#432;&#7901;ng&quot;)
+            b&#7857;ng c&aacute;ch n&agrave;y cam k&#7871;t b&#7891;i th&#432;&#7901;ng v&agrave; &#273;&#7843;m
+            b&#7843;o ho&agrave;n to&agrave;n cho B&ecirc;n kia c&#361;ng nh&#432; c&aacute;c gi&aacute;m
+            &#273;&#7889;c, quan ch&#7913;c, nh&acirc;n vi&ecirc;n, c&#7889; v&#7845;n v&agrave; &#273;&#7841;i
+            di&#7879;n t&#432;&#417;ng &#7913;ng c&#7911;a B&ecirc;n kia (g&#7885;i l&agrave; &quot;B&ecirc;n
+            &#273;&#432;&#7907;c b&#7891;i th&#432;&#7901;ng&quot;) kh&#7887;i m&#7885;i v&agrave; t&#7845;t c&#7843;
+            c&aacute;c t&#7893;n th&#7845;t (bao g&#7891;m nh&#432;ng kh&ocirc;ng gi&#7899;i h&#7841;n &#7903;
+            c&aacute;c kho&#7843;n ph&iacute; v&agrave; chi ph&iacute; ph&aacute;p l&yacute; v&agrave; chuy&ecirc;n
+            m&ocirc;n kh&aacute;c), c&#361;ng nh&#432; c&aacute;c kho&#7843;n ph&iacute; v&agrave; chi ph&iacute;
+            kh&aacute;c c&oacute; th&#7875; ph&#7843;i g&aacute;nh m&agrave; B&ecirc;n &#272;&#432;&#7907;c B&#7891;i
+            th&#432;&#7901;ng c&oacute; th&#7875; ph&#7843;i ch&#7883;u do b&#7845;t k&#7923; sai l&#7879;ch ho&#7863;c
+            vi ph&#7841;m n&agrave;o c&#7911;a B&ecirc;n B&#7891;i th&#432;&#7901;ng &#273;&#7889;i v&#7899;i ngh&#297;a
+            v&#7909; c&#7911;a B&ecirc;n B&#7891;i th&#432;&#7901;ng trong Th&ocirc;ng b&aacute;o mi&#7877;n tr&#7915;
+            tr&aacute;ch nhi&#7879;m &nbsp;n&agrave;y.</span></p>
+    <p class="c8"><span class="c7 c2">4.2 </span><span>&#272;&#7875; tr&aacute;nh nghi ng&#7901;, AutoCoin ho&#7863;c
+            c&aacute;c c&ocirc;ng ty li&ecirc;n k&#7871;t, nh&acirc;n vi&ecirc;n, &#273;&#7889;i t&aacute;c ho&#7863;c
+            t&#432; v&#7845;n vi&ecirc;n s&#7869; kh&ocirc;ng ch&#7883;u tr&aacute;ch nhi&#7879;m &#273;&#7889;i
+            v&#7899;i:</span></p>
+    <ol class="c10 lst-kix_lxn56m97yomb-0 start" start="1">
+        <li class="c9 li-bullet-0"><span>&#272;&#7889;i v&#7899;i ng&#432;&#7901;i mua, AutoCoin s&#7869; kh&ocirc;ng
+                ch&#7883;u tr&aacute;ch nhi&#7879;m v&#7873; b&#7845;t k&#7923; thi&#7879;t h&#7841;i gi&aacute;n
+                ti&#7871;p, ng&#7851;u nhi&ecirc;n ho&#7863;c h&#7853;u qu&#7843; n&agrave;o nh&#432; m&#7845;t
+                th&ocirc;ng tin kinh doanh, m&#7845;t uy t&iacute;n, gi&aacute;n &#273;o&#7841;n kinh doanh ho&#7863;c
+                m&#7845;t l&#7907;i nhu&#7853;n ho&#7863;c l&#7907;i &iacute;ch d&#7921; ki&#7871;n ph&aacute;t sinh
+                t&#7915; vi&#7879;c </span><span class="c7">&ldquo;&#272;&#7841;i
+                l&yacute;&rdquo;</span><span>&nbsp;kh&ocirc;ng th&#7921;c hi&#7879;n c&aacute;c &ldquo;</span><span
+                class="c7">Cam k&#7871;t v&agrave; b&#7843;o &#273;&#7843;m&rdquo;</span><span
+                class="c5 c6">&nbsp;c&#7911;a m&igrave;nh nh&#432; quy &#273;&#7883;nh trong Th&#7887;a thu&#7853;n
+                n&agrave;y v&agrave; trong tr&#432;&#7901;ng h&#7907;p n&agrave;y, &#272;&#7841;i l&yacute; s&#7869;
+                b&#7891;i th&#432;&#7901;ng cho AutoCoin theo &#272;i&#7873;u 4.1</span></li>
+    </ol>
+    <p class="c8"><span class="c7 c2">5.</span><span class="c2">&nbsp; &nbsp; &nbsp;</span><span
+            class="c14 c7 c2">LU&#7852;T &Aacute;P D&#7908;NG V&Agrave; TR&#7884;NG T&Agrave;I</span></p>
+    <p class="c8"><span class="c2">5.1</span><span class="c7 c2">&nbsp;</span><span class="c5 c6">Th&ocirc;ng b&aacute;o
+            mi&#7877;n tr&#7915; tr&aacute;ch nhi&#7879;m s&#7869; &#273;&#432;&#7907;c &#273;i&#7873;u ch&#7881;nh
+            v&agrave; hi&#7875;u theo lu&#7853;t ph&aacute;p c&#7911;a Vi&#7879;t Nam.</span></p>
+    <p class="c8"><span>5.2 N&#7871;u b&#7845;t k&#7923; tranh ch&#7845;p n&agrave;o ph&aacute;t sinh ho&#7863;c
+            li&ecirc;n quan &#273;&#7871;n Th&#7887;a thu&#7853;n n&agrave;y m&agrave; kh&ocirc;ng th&#7875;
+            &#273;&#432;&#7907;c gi&#7843;i quy&#7871;t b&#7857;ng &#273;&agrave;m ph&aacute;n trong v&ograve;ng 30
+            ng&agrave;y k&#7875; t&#7915; ng&agrave;y th&ocirc;ng b&aacute;o c&#7911;a M&#7897;t b&ecirc;n v&#7873;
+            tranh ch&#7845;p, th&igrave; tranh ch&#7845;p &#273;&oacute;, bao g&#7891;m b&#7845;t k&#7923; c&acirc;u
+            h&#7887;i n&agrave;o li&ecirc;n quan &#273;&#7871;n s&#7921; t&#7891;n t&#7841;i, t&iacute;nh h&#7907;p
+            l&#7879; ho&#7863;c ch&#7845;m d&#7913;t c&#7911;a Th&#7887;a thu&#7853;n n&agrave;y, s&#7869;
+            &#273;&#432;&#7907;c gi&#7843;i quy&#7871;t v&agrave; gi&#7843;i quy&#7871;t b&#7903;i Trung t&acirc;m
+            Tr&#7885;ng t&agrave;i Qu&#7889;c t&#7871; Vi&#7879;t Nam </span><span
+            class="c7">(&ldquo;VIAC&rdquo;</span><span>) theo c&aacute;c quy t&#7855;c tr&#7885;ng t&agrave;i
+        </span><span class="c7">VIAC</span><span>&nbsp;hi&#7879;n h&agrave;nh. S&#7869; c&oacute; m&#7897;t (01)
+            tr&#7885;ng t&agrave;i &#273;&#432;&#7907;c b&#7893; nhi&#7879;m theo c&aacute;c quy &#273;&#7883;nh
+            c&#7911;a </span><span class="c7">VIAC</span><span>. Ng&ocirc;n ng&#7919; c&#7911;a tr&#7885;ng t&agrave;i
+            s&#7869; l&agrave; </span><span class="c30">ti&#7871;ng Anh</span><span class="c5 c6">. &#272;&#7883;a
+            &#273;i&#7875;m c&#7911;a tr&#7885;ng t&agrave;i s&#7869; &#7903; Th&agrave;nh ph&#7889; H&#7891; Ch&iacute;
+            Minh, Vi&#7879;t Nam.</span></p>
+    <p class="c8"><span class="c5 c6">5.3 AutoCoin c&oacute; b&#7897; ph&#7853;n ch&#259;m s&oacute;c kh&aacute;ch
+            h&agrave;ng chuy&ecirc;n nghi&#7879;p v&agrave; ho&#7841;t &#273;&#7897;ng &#273;&#7875; gi&#7843;i
+            quy&#7871;t m&#7885;i khi&#7871;u n&#7841;i. &#272;&#7889;i v&#7899;i &#273;&#7841;i l&yacute;, Gi&aacute;m
+            &#273;&#7889;c ho&#7863;c M&#7897;t Qu&#7843;n l&yacute; s&#7869; h&#7895; tr&#7907; v&agrave; gi&aacute;m
+            s&aacute;t qu&aacute; tr&igrave;nh gi&#7843;i quy&#7871;t tranh ch&#7845;p.</span></p>
+    <p class="c8"><span class="c5 c6">5.4 AutoCoin ch&#7881; h&#7895; tr&#7907; qu&aacute; tr&igrave;nh giao d&#7883;ch
+            gi&#7919;a ng&#432;&#7901;i mua v&agrave; ng&#432;&#7901;i b&aacute;n. Tuy nhi&ecirc;n, n&#7871;u c&oacute;
+            xung &#273;&#7897;t giao d&#7883;ch gi&#7919;a Ng&#432;&#7901;i Mua v&agrave; Ng&#432;&#7901;i B&aacute;n,
+            AutoCoin s&#7869; h&#7895; tr&#7907; v&agrave; trung gian &#273;&#7875; t&igrave;m ra gi&#7843;i
+            ph&aacute;p. N&#7871;u Ng&#432;&#7901;i B&aacute;n cung c&#7845;p b&#7843;o h&agrave;nh cho ph&#432;&#417;ng
+            ti&#7879;n, AutoCoin s&#7869; chuy&#7875;n giao v&agrave; th&ocirc;ng b&aacute;o cho Ng&#432;&#7901;i Mua
+            v&#7873; b&#7843;o h&agrave;nh sau khi giao d&#7883;ch th&agrave;nh c&ocirc;ng.</span></p>
+    <p class="c12"><span class="c7 c2">6.</span><span class="c2">&nbsp; </span><span
+            class="c14 c7 c2">&nbsp;CH&Iacute;NH S&Aacute;CH B&#7842;O M&#7852;T TH&Ocirc;NG TIN C&Aacute;
+            NH&Acirc;N</span></p>
+    <p class="c32"><span class="c7 c2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
+            class="c5 c2">M&#7909;c &#273;&iacute;ch thu th&#7853;p th&ocirc;ng tin c&aacute; nh&acirc;n:</span></p>
+    <p class="c18"><span class="c5 c2">Ch&uacute;ng t&ocirc;i c&oacute; th&#7875; thu th&#7853;p, s&#7917; d&#7909;ng,
+            ti&#7871;t l&#7897; v&agrave;/ho&#7863;c x&#7917; l&yacute; th&ocirc;ng tin c&aacute; nh&acirc;n c&#7911;a
+            b&#7841;n cho m&#7897;t ho&#7863;c nhi&#7873;u m&#7909;c &#273;&iacute;ch sau:</span></p>
+    <ol class="c10 lst-kix_4ha0mnacdwkg-0 start" start="1">
+        <li class="c1 li-bullet-0"><span class="c5 c2">&#272;&#7875; x&aacute;c minh danh t&iacute;nh ng&#432;&#7901;i
+                d&ugrave;ng;</span></li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">&#272;&#7875; li&ecirc;n h&#7879; v&#7899;i m&#7909;c
+                &#273;&iacute;ch h&#7895; tr&#7907; vi&#7879;c cung c&#7845;p D&#7883;ch v&#7909; c&#7911;a ch&uacute;ng
+                t&ocirc;i;</span></li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">Cung c&#7845;p th&ocirc;ng tin ch&iacute;nh th&#7913;c
+                &#273;&#7875; ng&#432;&#7901;i mua li&ecirc;n h&#7879; v&#7899;i b&#7841;n khi b&aacute;n
+                h&agrave;ng;</span></li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">&#272;&#7875; ki&#7875;m tra v&agrave; &#273;&aacute;nh
+                gi&aacute; d&#7919; li&#7879;u tr&ecirc;n N&#7873;n t&#7843;ng c&#7911;a ch&uacute;ng t&ocirc;i;</span>
+        </li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">Nh&#7853;n d&#7841;ng ng&#432;&#7901;i d&ugrave;ng v&agrave;
+                qu&#7843;n l&yacute; th&ocirc;ng tin t&agrave;i kho&#7843;n;</span></li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">&#272;&#7875; x&aacute;c &#273;&#7883;nh ng&#432;&#7901;i
+                d&ugrave;ng truy c&#7853;p tr&ecirc;n N&#7873;n t&#7843;ng;</span></li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">&#272;&#7875; ph&aacute;t hi&#7879;n v&agrave; ng&#259;n
+                ch&#7863;n c&aacute;c ho&#7841;t &#273;&#7897;ng gian l&#7853;n;</span></li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">Th&#7921;c hi&#7879;n ho&#7841;t &#273;&#7897;ng nghi&ecirc;n
+                c&#7913;u ti&#7871;p th&#7883;;</span></li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">&#272;&#7875; nghi&ecirc;n c&#7913;u v&agrave; ph&acirc;n
+                t&iacute;ch th&ocirc;ng tin nh&acirc;n kh&#7849;u h&#7885;c c&#7911;a h&#7885;;</span></li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">G&#7917;i th&ocirc;ng b&aacute;o m&agrave; ch&uacute;ng t&ocirc;i
+                kh&#7845;u tr&#7915; ho&#7863;c s&#7869; c&oacute; l&#7907;i cho b&#7841;n, tr&#7915; khi b&#7841;n
+                t&#7915; ch&#7889;i nh&#7853;n nh&#7919;ng th&ocirc;ng b&aacute;o n&agrave;y;</span></li>
+        <li class="c1 li-bullet-0"><span class="c5 c2">&#272;&#7875; ph&acirc;n t&iacute;ch v&agrave; &#273;&aacute;nh
+                gi&aacute; nh&#7857;m gi&uacute;p c&#7843;i thi&#7879;n v&agrave; n&acirc;ng c&#7845;p D&#7883;ch
+                v&#7909; c&#7911;a ch&uacute;ng t&ocirc;i;</span></li>
+        <li class="c1 li-bullet-0"><span class="c2">V&agrave; b&#7845;t k&#7923; m&#7909;c &#273;&iacute;ch n&agrave;o
+                m&agrave; ch&uacute;ng t&ocirc;i th&ocirc;ng b&aacute;o cho b&#7841;n t&#7841;i th&#7901;i
+                &#273;i&#7875;m nh&#7853;n &#273;&#432;&#7907;c s&#7921; cho ph&eacute;p c&#7911;a b&#7841;n.</span>
+        </li>
+    </ol>
+    <p class="c23"><span class="c5 c6"></span></p>
+    <p class="c23"><span class="c5 c6"></span></p>
+    <p class="c23"><span class="c5 c6"></span></p>
+    <p class="c23"><span class="c5 c6"></span></p>
+    <p class="c11"><span class="c5 c6">5</span></p>
+    <p class="c11 c37"><span class="c33"><a class="c25"
+                href="www.autocoin.sg">www.autocoin.</a></span><span
+            class="c33">sg</span><span class="c26 c40">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+            &nbsp; &nbsp; &nbsp;</span><span
+            style="overflow: hidden; display: inline-block; margin: 0.00px 0.00px; border: 0.00px solid #000000; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px); width: 365.33px; height: 38.20px;"><img
+                alt="" src="<?php echo home_url(); ?>/wp-content/uploads/2023/12/image2.png"
+                style="width: 365.33px; height: 38.20px; margin-left: 0.00px; margin-top: 0.00px; transform: rotate(0.00rad) translateZ(0px); -webkit-transform: rotate(0.00rad) translateZ(0px);"
+                title=""></span></p>
+    <p class="c23"><span class="c5 c6"></span></p>
+            
+            </div>
+            
+            <div class="modal-footer">
+                
+               <!-- Agree and Disagree buttons -->
+               
+    <button class="btn btn-secondary" onclick="disagreeDisclaimer()"><?php echo __("Không đồng ý","premiumpress"); ?></button>           
+    <button class="btn btn-primary" onclick="agreeDisclaimer()"><?php echo __("Đồng ý","premiumpress"); ?> </button>
+     
+                
+                
+            </div>
+            
+            
+        </div>
+        
+        
+        
+        
+    </div>
+    
+    
+    
+    
+    
+  </div>
+  
+   <style>
+    /* Style for the popup */
+    #popupDisclaimer {
+    display: none;
+    position: fixed;
+    
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    
+    
+    outline: 0;
+    z-index: 1000;
+    
+    overflow-x: hidden;
+    overflow-y: auto;
+    /* padding-right: 17px; */
+    /* opacity: 1; */
+    transition: opacity .15s linear;
+    background: #0000008a;
+    width: 100%;
+    
+    }
+    
+    
+    #popupDisclaimer .modal-content{
+         padding: 20px;
+    }
+    
+    
+    
+    @media (min-width: 576px){
+#popupDisclaimer .modal-dialog {
+    max-width: 70%;
+    margin: 1.75rem auto;
+}
+
+.c29 {
+            background-color: #ffffff;
+            
+            padding: 72pt 72pt 72pt 72pt
+        }
+}
+    
+    
+  </style>
+  
+  <style type="text/css">
+        .lst-kix_4ha0mnacdwkg-3>li {
+            counter-increment: lst-ctn-kix_4ha0mnacdwkg-3
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-6.start {
+            counter-reset: lst-ctn-kix_5ftj3t2ch85x-6 0
+        }
+
+        ol.lst-kix_lxn56m97yomb-6.start {
+            counter-reset: lst-ctn-kix_lxn56m97yomb-6 0
+        }
+
+        .lst-kix_5ftj3t2ch85x-0>li {
+            counter-increment: lst-ctn-kix_5ftj3t2ch85x-0
+        }
+
+        .lst-kix_lxn56m97yomb-6>li:before {
+            content: "" counter(lst-ctn-kix_lxn56m97yomb-6, lower-latin) ". "
+        }
+
+        .lst-kix_raituoyar1uz-4>li {
+            counter-increment: lst-ctn-kix_raituoyar1uz-4
+        }
+
+        .lst-kix_lxn56m97yomb-8>li:before {
+            content: "" counter(lst-ctn-kix_lxn56m97yomb-8, decimal) ". "
+        }
+
+        .lst-kix_lxn56m97yomb-7>li:before {
+            content: "" counter(lst-ctn-kix_lxn56m97yomb-7, lower-roman) ". "
+        }
+
+        .lst-kix_4ha0mnacdwkg-2>li {
+            counter-increment: lst-ctn-kix_4ha0mnacdwkg-2
+        }
+
+        ol.lst-kix_lxn56m97yomb-3.start {
+            counter-reset: lst-ctn-kix_lxn56m97yomb-3 0
+        }
+
+        ol.lst-kix_raituoyar1uz-3.start {
+            counter-reset: lst-ctn-kix_raituoyar1uz-3 0
+        }
+
+        ol.lst-kix_raituoyar1uz-0.start {
+            counter-reset: lst-ctn-kix_raituoyar1uz-0 0
+        }
+
+        ol.lst-kix_raituoyar1uz-8 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_lxn56m97yomb-0.start {
+            counter-reset: lst-ctn-kix_lxn56m97yomb-0 0
+        }
+
+        ol.lst-kix_raituoyar1uz-7 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_lxn56m97yomb-1 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_lxn56m97yomb-0 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_lxn56m97yomb-3 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_lxn56m97yomb-2 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-4.start {
+            counter-reset: lst-ctn-kix_4ha0mnacdwkg-4 0
+        }
+
+        ol.lst-kix_raituoyar1uz-6.start {
+            counter-reset: lst-ctn-kix_raituoyar1uz-6 0
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-0 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-0.start {
+            counter-reset: lst-ctn-kix_5ftj3t2ch85x-0 0
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-1 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-4 {
+            list-style-type: none
+        }
+
+        .lst-kix_4ha0mnacdwkg-5>li {
+            counter-increment: lst-ctn-kix_4ha0mnacdwkg-5
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-1.start {
+            counter-reset: lst-ctn-kix_4ha0mnacdwkg-1 0
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-5 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-2 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-3 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-8 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-3.start {
+            counter-reset: lst-ctn-kix_5ftj3t2ch85x-3 0
+        }
+
+        .lst-kix_raituoyar1uz-6>li {
+            counter-increment: lst-ctn-kix_raituoyar1uz-6
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-6 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-7 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_lxn56m97yomb-8 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_lxn56m97yomb-5 {
+            list-style-type: none
+        }
+
+        .lst-kix_lxn56m97yomb-8>li {
+            counter-increment: lst-ctn-kix_lxn56m97yomb-8
+        }
+
+        ol.lst-kix_lxn56m97yomb-4 {
+            list-style-type: none
+        }
+
+        .lst-kix_raituoyar1uz-3>li {
+            counter-increment: lst-ctn-kix_raituoyar1uz-3
+        }
+
+        ol.lst-kix_lxn56m97yomb-7 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_lxn56m97yomb-6 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-1.start {
+            counter-reset: lst-ctn-kix_5ftj3t2ch85x-1 0
+        }
+
+        ol.lst-kix_lxn56m97yomb-1.start {
+            counter-reset: lst-ctn-kix_lxn56m97yomb-1 0
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-8.start {
+            counter-reset: lst-ctn-kix_5ftj3t2ch85x-8 0
+        }
+
+        ol.lst-kix_lxn56m97yomb-8.start {
+            counter-reset: lst-ctn-kix_lxn56m97yomb-8 0
+        }
+
+        .lst-kix_6az4o87btfxg-5>li:before {
+            content: "\0025aa   "
+        }
+
+        .lst-kix_6az4o87btfxg-4>li:before {
+            content: "\0025aa   "
+        }
+
+        ol.lst-kix_raituoyar1uz-2.start {
+            counter-reset: lst-ctn-kix_raituoyar1uz-2 0
+        }
+
+        ol.lst-kix_raituoyar1uz-8.start {
+            counter-reset: lst-ctn-kix_raituoyar1uz-8 0
+        }
+
+        .lst-kix_5ftj3t2ch85x-3>li:before {
+            content: "" counter(lst-ctn-kix_5ftj3t2ch85x-3, decimal) ". "
+        }
+
+        .lst-kix_5ftj3t2ch85x-2>li:before {
+            content: "" counter(lst-ctn-kix_5ftj3t2ch85x-2, lower-roman) ". "
+        }
+
+        .lst-kix_6az4o87btfxg-6>li:before {
+            content: "\0025aa   "
+        }
+
+        .lst-kix_lxn56m97yomb-6>li {
+            counter-increment: lst-ctn-kix_lxn56m97yomb-6
+        }
+
+        .lst-kix_6az4o87btfxg-7>li:before {
+            content: "\0025aa   "
+        }
+
+        .lst-kix_5ftj3t2ch85x-0>li:before {
+            content: "" counter(lst-ctn-kix_5ftj3t2ch85x-0, decimal) ". "
+        }
+
+        .lst-kix_5ftj3t2ch85x-1>li:before {
+            content: "" counter(lst-ctn-kix_5ftj3t2ch85x-1, lower-latin) ". "
+        }
+
+        .lst-kix_lxn56m97yomb-0>li {
+            counter-increment: lst-ctn-kix_lxn56m97yomb-0
+        }
+
+        .lst-kix_6az4o87btfxg-8>li:before {
+            content: "\0025aa   "
+        }
+
+        .lst-kix_raituoyar1uz-8>li {
+            counter-increment: lst-ctn-kix_raituoyar1uz-8
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-7.start {
+            counter-reset: lst-ctn-kix_5ftj3t2ch85x-7 0
+        }
+
+        .lst-kix_raituoyar1uz-2>li {
+            counter-increment: lst-ctn-kix_raituoyar1uz-2
+        }
+
+        .lst-kix_4ha0mnacdwkg-7>li {
+            counter-increment: lst-ctn-kix_4ha0mnacdwkg-7
+        }
+
+        .lst-kix_raituoyar1uz-5>li {
+            counter-increment: lst-ctn-kix_raituoyar1uz-5
+        }
+
+        .lst-kix_lxn56m97yomb-0>li:before {
+            content: "" counter(lst-ctn-kix_lxn56m97yomb-0, lower-latin) ". "
+        }
+
+        ol.lst-kix_lxn56m97yomb-7.start {
+            counter-reset: lst-ctn-kix_lxn56m97yomb-7 0
+        }
+
+        .lst-kix_lxn56m97yomb-2>li:before {
+            content: "" counter(lst-ctn-kix_lxn56m97yomb-2, decimal) ". "
+        }
+
+        .lst-kix_6az4o87btfxg-3>li:before {
+            content: "\0025aa   "
+        }
+
+        .lst-kix_5ftj3t2ch85x-1>li {
+            counter-increment: lst-ctn-kix_5ftj3t2ch85x-1
+        }
+
+        .lst-kix_4ha0mnacdwkg-0>li:before {
+            content: "" counter(lst-ctn-kix_4ha0mnacdwkg-0, lower-latin) ". "
+        }
+
+        .lst-kix_5ftj3t2ch85x-4>li {
+            counter-increment: lst-ctn-kix_5ftj3t2ch85x-4
+        }
+
+        .lst-kix_lxn56m97yomb-1>li:before {
+            content: "" counter(lst-ctn-kix_lxn56m97yomb-1, lower-roman) ". "
+        }
+
+        .lst-kix_lxn56m97yomb-5>li:before {
+            content: "" counter(lst-ctn-kix_lxn56m97yomb-5, decimal) ". "
+        }
+
+        .lst-kix_6az4o87btfxg-2>li:before {
+            content: "\0025aa   "
+        }
+
+        ol.lst-kix_raituoyar1uz-1.start {
+            counter-reset: lst-ctn-kix_raituoyar1uz-1 0
+        }
+
+        .lst-kix_4ha0mnacdwkg-2>li:before {
+            content: "" counter(lst-ctn-kix_4ha0mnacdwkg-2, decimal) ". "
+        }
+
+        .lst-kix_4ha0mnacdwkg-4>li {
+            counter-increment: lst-ctn-kix_4ha0mnacdwkg-4
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-3.start {
+            counter-reset: lst-ctn-kix_4ha0mnacdwkg-3 0
+        }
+
+        .lst-kix_lxn56m97yomb-4>li:before {
+            content: "" counter(lst-ctn-kix_lxn56m97yomb-4, lower-roman) ". "
+        }
+
+        .lst-kix_6az4o87btfxg-1>li:before {
+            content: "o  "
+        }
+
+        .lst-kix_4ha0mnacdwkg-1>li:before {
+            content: "" counter(lst-ctn-kix_4ha0mnacdwkg-1, lower-roman) ". "
+        }
+
+        .lst-kix_5ftj3t2ch85x-7>li {
+            counter-increment: lst-ctn-kix_5ftj3t2ch85x-7
+        }
+
+        .lst-kix_lxn56m97yomb-3>li:before {
+            content: "" counter(lst-ctn-kix_lxn56m97yomb-3, lower-latin) ". "
+        }
+
+        .lst-kix_6az4o87btfxg-0>li:before {
+            content: "\0025cf   "
+        }
+
+        .lst-kix_4ha0mnacdwkg-1>li {
+            counter-increment: lst-ctn-kix_4ha0mnacdwkg-1
+        }
+
+        ul.lst-kix_5l0uoymx141q-2 {
+            list-style-type: none
+        }
+
+        .lst-kix_4ha0mnacdwkg-7>li:before {
+            content: "" counter(lst-ctn-kix_4ha0mnacdwkg-7, lower-roman) ". "
+        }
+
+        ul.lst-kix_5l0uoymx141q-1 {
+            list-style-type: none
+        }
+
+        ul.lst-kix_5l0uoymx141q-4 {
+            list-style-type: none
+        }
+
+        .lst-kix_4ha0mnacdwkg-6>li:before {
+            content: "" counter(lst-ctn-kix_4ha0mnacdwkg-6, lower-latin) ". "
+        }
+
+        .lst-kix_4ha0mnacdwkg-8>li:before {
+            content: "" counter(lst-ctn-kix_4ha0mnacdwkg-8, decimal) ". "
+        }
+
+        .lst-kix_5ftj3t2ch85x-6>li {
+            counter-increment: lst-ctn-kix_5ftj3t2ch85x-6
+        }
+
+        ul.lst-kix_5l0uoymx141q-3 {
+            list-style-type: none
+        }
+
+        ul.lst-kix_5l0uoymx141q-0 {
+            list-style-type: none
+        }
+
+        .lst-kix_4ha0mnacdwkg-3>li:before {
+            content: "" counter(lst-ctn-kix_4ha0mnacdwkg-3, lower-latin) ". "
+        }
+
+        .lst-kix_4ha0mnacdwkg-4>li:before {
+            content: "" counter(lst-ctn-kix_4ha0mnacdwkg-4, lower-roman) ". "
+        }
+
+        ol.lst-kix_raituoyar1uz-7.start {
+            counter-reset: lst-ctn-kix_raituoyar1uz-7 0
+        }
+
+        ul.lst-kix_5l0uoymx141q-6 {
+            list-style-type: none
+        }
+
+        .lst-kix_lxn56m97yomb-4>li {
+            counter-increment: lst-ctn-kix_lxn56m97yomb-4
+        }
+
+        .lst-kix_4ha0mnacdwkg-5>li:before {
+            content: "" counter(lst-ctn-kix_4ha0mnacdwkg-5, decimal) ". "
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-5.start {
+            counter-reset: lst-ctn-kix_4ha0mnacdwkg-5 0
+        }
+
+        ul.lst-kix_5l0uoymx141q-5 {
+            list-style-type: none
+        }
+
+        ul.lst-kix_5l0uoymx141q-8 {
+            list-style-type: none
+        }
+
+        ul.lst-kix_5l0uoymx141q-7 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-8 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-7 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-4 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-3 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-6 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-5 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-0 {
+            list-style-type: none
+        }
+
+        .lst-kix_5ftj3t2ch85x-5>li {
+            counter-increment: lst-ctn-kix_5ftj3t2ch85x-5
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-2.start {
+            counter-reset: lst-ctn-kix_5ftj3t2ch85x-2 0
+        }
+
+        .lst-kix_lxn56m97yomb-3>li {
+            counter-increment: lst-ctn-kix_lxn56m97yomb-3
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-2 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-1 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-2.start {
+            counter-reset: lst-ctn-kix_4ha0mnacdwkg-2 0
+        }
+
+        .lst-kix_raituoyar1uz-7>li:before {
+            content: "" counter(lst-ctn-kix_raituoyar1uz-7, lower-roman) ". "
+        }
+
+        .lst-kix_lxn56m97yomb-2>li {
+            counter-increment: lst-ctn-kix_lxn56m97yomb-2
+        }
+
+        .lst-kix_raituoyar1uz-6>li:before {
+            content: "" counter(lst-ctn-kix_raituoyar1uz-6, lower-latin) ". "
+        }
+
+        .lst-kix_raituoyar1uz-8>li:before {
+            content: "" counter(lst-ctn-kix_raituoyar1uz-8, decimal) ". "
+        }
+
+        .lst-kix_lxn56m97yomb-5>li {
+            counter-increment: lst-ctn-kix_lxn56m97yomb-5
+        }
+
+        .lst-kix_raituoyar1uz-5>li:before {
+            content: "" counter(lst-ctn-kix_raituoyar1uz-5, decimal) ". "
+        }
+
+        ol.lst-kix_lxn56m97yomb-2.start {
+            counter-reset: lst-ctn-kix_lxn56m97yomb-2 0
+        }
+
+        .lst-kix_5ftj3t2ch85x-8>li {
+            counter-increment: lst-ctn-kix_5ftj3t2ch85x-8
+        }
+
+        .lst-kix_raituoyar1uz-0>li {
+            counter-increment: lst-ctn-kix_raituoyar1uz-0
+        }
+
+        .lst-kix_5ftj3t2ch85x-4>li:before {
+            content: "" counter(lst-ctn-kix_5ftj3t2ch85x-4, lower-latin) ". "
+        }
+
+        .lst-kix_raituoyar1uz-0>li:before {
+            content: "" counter(lst-ctn-kix_raituoyar1uz-0, lower-latin) ". "
+        }
+
+        .lst-kix_4ha0mnacdwkg-8>li {
+            counter-increment: lst-ctn-kix_4ha0mnacdwkg-8
+        }
+
+        .lst-kix_raituoyar1uz-1>li:before {
+            content: "" counter(lst-ctn-kix_raituoyar1uz-1, lower-roman) ". "
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-8.start {
+            counter-reset: lst-ctn-kix_4ha0mnacdwkg-8 0
+        }
+
+        .lst-kix_5ftj3t2ch85x-5>li:before {
+            content: "" counter(lst-ctn-kix_5ftj3t2ch85x-5, lower-roman) ". "
+        }
+
+        .lst-kix_5ftj3t2ch85x-6>li:before {
+            content: "" counter(lst-ctn-kix_5ftj3t2ch85x-6, decimal) ". "
+        }
+
+        .lst-kix_raituoyar1uz-3>li:before {
+            content: "" counter(lst-ctn-kix_raituoyar1uz-3, lower-latin) ". "
+        }
+
+        .lst-kix_5ftj3t2ch85x-7>li:before {
+            content: "" counter(lst-ctn-kix_5ftj3t2ch85x-7, lower-latin) ". "
+        }
+
+        .lst-kix_5ftj3t2ch85x-8>li:before {
+            content: "" counter(lst-ctn-kix_5ftj3t2ch85x-8, lower-roman) ". "
+        }
+
+        .lst-kix_raituoyar1uz-2>li:before {
+            content: "" counter(lst-ctn-kix_raituoyar1uz-2, decimal) ". "
+        }
+
+        .lst-kix_raituoyar1uz-4>li:before {
+            content: "" counter(lst-ctn-kix_raituoyar1uz-4, lower-roman) ". "
+        }
+
+        ol.lst-kix_raituoyar1uz-5.start {
+            counter-reset: lst-ctn-kix_raituoyar1uz-5 0
+        }
+
+        .lst-kix_5l0uoymx141q-7>li:before {
+            content: "\0025aa   "
+        }
+
+        .lst-kix_4ha0mnacdwkg-0>li {
+            counter-increment: lst-ctn-kix_4ha0mnacdwkg-0
+        }
+
+        .lst-kix_raituoyar1uz-1>li {
+            counter-increment: lst-ctn-kix_raituoyar1uz-1
+        }
+
+        ul.lst-kix_6az4o87btfxg-7 {
+            list-style-type: none
+        }
+
+        .lst-kix_5l0uoymx141q-8>li:before {
+            content: "\0025aa   "
+        }
+
+        ul.lst-kix_6az4o87btfxg-8 {
+            list-style-type: none
+        }
+
+        .lst-kix_raituoyar1uz-7>li {
+            counter-increment: lst-ctn-kix_raituoyar1uz-7
+        }
+
+        .lst-kix_5l0uoymx141q-5>li:before {
+            content: "\0025aa   "
+        }
+
+        .lst-kix_5ftj3t2ch85x-3>li {
+            counter-increment: lst-ctn-kix_5ftj3t2ch85x-3
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-0.start {
+            counter-reset: lst-ctn-kix_4ha0mnacdwkg-0 0
+        }
+
+        .lst-kix_5l0uoymx141q-6>li:before {
+            content: "\0025aa   "
+        }
+
+        .lst-kix_lxn56m97yomb-7>li {
+            counter-increment: lst-ctn-kix_lxn56m97yomb-7
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-4.start {
+            counter-reset: lst-ctn-kix_5ftj3t2ch85x-4 0
+        }
+
+        ol.lst-kix_lxn56m97yomb-5.start {
+            counter-reset: lst-ctn-kix_lxn56m97yomb-5 0
+        }
+
+        .lst-kix_5ftj3t2ch85x-2>li {
+            counter-increment: lst-ctn-kix_5ftj3t2ch85x-2
+        }
+
+        .lst-kix_4ha0mnacdwkg-6>li {
+            counter-increment: lst-ctn-kix_4ha0mnacdwkg-6
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-7.start {
+            counter-reset: lst-ctn-kix_4ha0mnacdwkg-7 0
+        }
+
+        ol.lst-kix_raituoyar1uz-6 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_raituoyar1uz-5 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_raituoyar1uz-4 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_raituoyar1uz-3 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_raituoyar1uz-2 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_raituoyar1uz-1 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_raituoyar1uz-0 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_5ftj3t2ch85x-5.start {
+            counter-reset: lst-ctn-kix_5ftj3t2ch85x-5 0
+        }
+
+        li.li-bullet-0:before {
+            margin-left: -18pt;
+            white-space: nowrap;
+            display: inline-block;
+            min-width: 18pt
+        }
+
+        .lst-kix_5l0uoymx141q-1>li:before {
+            content: "o  "
+        }
+
+        ol.lst-kix_lxn56m97yomb-4.start {
+            counter-reset: lst-ctn-kix_lxn56m97yomb-4 0
+        }
+
+        .lst-kix_lxn56m97yomb-1>li {
+            counter-increment: lst-ctn-kix_lxn56m97yomb-1
+        }
+
+        .lst-kix_5l0uoymx141q-0>li:before {
+            content: "\0025cf   "
+        }
+
+        .lst-kix_5l0uoymx141q-4>li:before {
+            content: "\0025aa   "
+        }
+
+        ul.lst-kix_6az4o87btfxg-5 {
+            list-style-type: none
+        }
+
+        ul.lst-kix_6az4o87btfxg-6 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_4ha0mnacdwkg-6.start {
+            counter-reset: lst-ctn-kix_4ha0mnacdwkg-6 0
+        }
+
+        ul.lst-kix_6az4o87btfxg-3 {
+            list-style-type: none
+        }
+
+        ul.lst-kix_6az4o87btfxg-4 {
+            list-style-type: none
+        }
+
+        .lst-kix_5l0uoymx141q-3>li:before {
+            content: "\0025aa   "
+        }
+
+        ul.lst-kix_6az4o87btfxg-1 {
+            list-style-type: none
+        }
+
+        ol.lst-kix_raituoyar1uz-4.start {
+            counter-reset: lst-ctn-kix_raituoyar1uz-4 0
+        }
+
+        ul.lst-kix_6az4o87btfxg-2 {
+            list-style-type: none
+        }
+
+        .lst-kix_5l0uoymx141q-2>li:before {
+            content: "\0025aa   "
+        }
+
+        ul.lst-kix_6az4o87btfxg-0 {
+            list-style-type: none
+        }
+
+        ol {
+            margin: 0;
+            padding: 0
+        }
+
+        table td,
+        table th {
+            padding: 0
+        }
+
+        .c24 {
+            background-color: #fdfdfd;
+            padding-top: 12pt;
+            text-indent: 1pt;
+            padding-bottom: 12pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c8 {
+            margin-left: 49.5pt;
+            padding-top: 12pt;
+            text-indent: -18pt;
+            padding-bottom: 12pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c38 {
+            margin-left: 40.5pt;
+            padding-top: 0pt;
+            padding-left: 0pt;
+            padding-bottom: 12pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c1 {
+            margin-left: 54pt;
+            padding-top: 12pt;
+            padding-left: 0pt;
+            padding-bottom: 12pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c20 {
+            margin-left: 40.5pt;
+            padding-top: 12pt;
+            padding-left: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c9 {
+            margin-left: 49.5pt;
+            padding-top: 12pt;
+            padding-left: 0pt;
+            padding-bottom: 12pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c22 {
+            margin-left: 40.5pt;
+            padding-top: 0pt;
+            padding-left: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c13 {
+            margin-left: 36pt;
+            padding-top: 10pt;
+            padding-bottom: 0pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            
+        }
+
+        .c15 {
+            margin-left: 36pt;
+            padding-top: 15pt;
+            padding-bottom: 0pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c39 {
+            
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: left
+        }
+
+        .c18 {
+            margin-left: 36pt;
+            padding-top: 12pt;
+            padding-bottom: 12pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c12 {
+            margin-left: 31.5pt;
+            padding-top: 12pt;
+            padding-bottom: 12pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c35 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify;
+            height: 11pt
+        }
+
+        .c23 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.15;
+            orphans: 2;
+            widows: 2;
+            
+            height: 11pt
+        }
+
+        .c36 {
+            padding-top: 12pt;
+            padding-bottom: 12pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: center
+        }
+
+        .c32 {
+            padding-top: 12pt;
+            padding-bottom: 12pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: justify
+        }
+
+        .c11 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: right
+        }
+
+        .c31 {
+            padding-top: 0pt;
+            padding-bottom: 0pt;
+            line-height: 1.0;
+            orphans: 2;
+            widows: 2;
+            text-align: center
+        }
+
+        .c3 {
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Arial";
+            font-style: italic
+        }
+
+        .c5 {
+            font-weight: 400;
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c33 {
+            text-decoration-skip-ink: none;
+            font-size: 8pt;
+            -webkit-text-decoration-skip: none;
+            color: #0000ff;
+            text-decoration: underline
+        }
+
+        .c14 {
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c16 {
+            text-decoration: none;
+            vertical-align: baseline;
+            font-size: 11pt;
+            font-family: "Arial";
+            font-style: italic
+        }
+
+        .c26 {
+            text-decoration: none;
+            vertical-align: baseline;
+            font-family: "Arial";
+            font-style: normal
+        }
+
+        .c28 {
+            text-decoration-skip-ink: none;
+            -webkit-text-decoration-skip: none;
+            color: #1155cc;
+            text-decoration: underline
+        }
+
+        
+
+        .c40 {
+            color: #a6a6a6;
+            font-weight: 400;
+            font-size: 8pt
+        }
+
+        .c25 {
+            color: inherit;
+            text-decoration: inherit
+        }
+
+        .c0 {
+            color: #111111;
+            font-weight: 700
+        }
+
+        .c19 {
+            background-color: #ffffff;
+            color: #202124
+        }
+
+        .c10 {
+            padding: 0;
+            margin: 0
+        }
+
+        .c21 {
+            font-size: 12pt
+        }
+
+        .c27 {
+            font-style: italic
+        }
+
+        .c7 {
+            font-weight: 700
+        }
+
+        .c34 {
+            text-indent: 36pt
+        }
+
+        .c4 {
+            color: #111111
+        }
+
+        .c17 {
+            color: #212529
+        }
+
+        .c6 {
+            color: #000000
+        }
+
+        .c30 {
+            background-color: #ffff00
+        }
+
+        .c37 {
+            margin-right: 49.8pt
+        }
+
+        .c2 {
+            color: #0f0f0f
+        }
+
+        .title {
+            padding-top: 0pt;
+            color: #000000;
+            
+            padding-bottom: 3pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            
+        }
+
+        .subtitle {
+            padding-top: 0pt;
+            color: #666666;
+            
+            padding-bottom: 16pt;
+            font-family: "Arial";
+            line-height: 1.15;
+            page-break-after: avoid;
+            orphans: 2;
+            widows: 2;
+            
+        }
+
+        li {
+            
+            font-size: 11pt;
+            font-family: "Arial"
+        }
+
+        
+    </style>
+
+</body></html>

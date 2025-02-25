@@ -1,0 +1,30 @@
+
+
+.userphoto, .image .img-fluid { max-width:100px; max-height:100px; }
+
+.rating-score-small strong {
+    background-color: #32a067;
+    color: #fff;
+    line-height: 1;
+    -webkit-border-radius: 5px 5px 5px 0;
+    -moz-border-radius: 5px 5px 5px 0;
+    -ms-border-radius: 5px 5px 5px 0;
+    border-radius: 5px 5px 5px 0;
+    padding: 10px;
+    display: inline-block;
+}
+.rating-color-1 { background: #d80000 !important; }
+.rating-color-2 { background: #ffc107 !important; }
+.rating-color-3 { background: #07b5ff !important; }
+.rating-color-4 { background: #33ccac !important; }
+.rating-color-5 { background: #4acc33 !important; }
+
+
+.ppt_widget_field { padding-top:20px !important; }
+.ppt_widget_field.last { padding-bottom:20px !important; }
+.ppt_widget_input { width:100%; border-radius:0px !important; border:1px solid #666 !important; line-height:30px; font-size:16px; } 
+.ppt_widget_title { font-size:14px; margin-bottom:20px; font-weight:bold; }
+
+
+
+
